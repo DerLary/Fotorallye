@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fotorallye Schiefbahn</title>
+
+  <!-- Leaflet (Karte) per CDN -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  />
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""
+  ></script>
+
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="kopf">
+    <h1>🧭 Fotorallye Schiefbahn</h1>
+    <div id="kopf-status" class="kopf-status"></div>
+  </header>
+
+  <!-- ===================== START-BILDSCHIRM ===================== -->
+  <section id="screen-start" class="screen aktiv">
+    <div class="karte-box">
+      <h2>Willkommen!</h2>
+      <p>Erkenne auf den Fotos, wo in Schiefbahn sie aufgenommen wurden, und
+         markiere den Ort auf der Karte. Je näher dein Tipp, desto mehr Punkte.
+         Tipps kosten Punkte – nutze sie clever!</p>
+
+      <label for="eingabe-name">Dein Spielername</label>
+      <input id="eingabe-name" type="text" maxlength="24" placeholder="z.B. Wölfe-Team" />
+
+      <label for="auswahl-set">Bild-Set</label>
+      <select id="auswahl-set"></select>
+      <p id="set-info" class="hinweis"></p>
+
+      <div class="knopf-reihe">
+        <button id="btn-start" class="primaer">Spielen</button>
+        <button id="btn-zeige-highscore" class="sekundaer">Bestenliste</button>
+      </div>
+      <p id="start-fehler" class="fehler"></p>
+    </div>
+  </section>
+
+  <!-- ===================== SPIEL-BILDSCHIRM ===================== -->
+  <section id="screen-game" class="screen">
+    <div class="spiel-leiste">
+      <span id="runde-info" class="badge">Bild 1</span>
+      <span id="punkte-info" class="badge punkte"></span>
+      <button id="btn-abbrechen" class="sekundaer klein">Abbrechen</button>
+    </div>
+
+    <div class="spiel-flaeche">
+      <div class="foto-spalte">
+        <div class="foto-rahmen">
+          <img id="foto" alt="Zu erratendes Foto" />
+        </div>
+
+        <div class="tipp-box">
+          <h3>Tipps kaufen</h3>
+          <p class="hinweis">Jeder Tipp wird später von deinen Punkten abgezogen.</p>
+          <div id="tipp-liste"></div>
+          <div id="gekaufte-tipps"></div>
+        </div>
+      </div>
+
+      <div class="karte-spalte">
+        <div id="map"></div>
+        <p id="guess-status" class="hinweis">Klicke auf die Karte, um deinen Tipp zu setzen. Du kannst den Marker noch verschieben.</p>
+        <button id="btn-weiter" class="primaer" disabled>Festlegen &amp; weiter</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== AUSWERTUNGS-BILDSCHIRM ===================== -->
+  <section id="screen-result" class="screen">
+    <div class="karte-box breit">
+      <h2>Auswertung</h2>
+      <div id="ergebnis-summe" class="summe"></div>
+      <div id="ergebnis-karte-wrap">
+        <div id="ergebnis-map"></div>
+      </div>
+      <div id="ergebnis-liste"></div>
+
+      <div class="speichern-box">
+        <p id="speichern-status" class="hinweis"></p>
+        <div class="knopf-reihe">
+          <button id="btn-nochmal" class="primaer">Nochmal spielen</button>
+          <button id="btn-result-highscore" class="sekundaer">Bestenliste ansehen</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== HIGHSCORE-BILDSCHIRM ===================== -->
+  <section id="screen-highscore" class="screen">
+    <div class="karte-box">
+      <h2>🏆 Bestenliste</h2>
+      <p id="highscore-quelle" class="hinweis"></p>
+      <div id="highscore-tabelle"></div>
+      <div class="knopf-reihe">
+        <button id="btn-highscore-zurueck" class="primaer">Zurück</button>
+      </div>
+    </div>
+  </section>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+// =============================================================================
+// config.js — Zentrale Einstellungen der Fotorallye.
+// Hier kannst du fast alles anpassen, OHNE den restlichen Code anzufassen.
+// =============================================================================
+
+export const CONFIG = {
+  // ---------------------------------------------------------------------------
+  // Karte (Leaflet + OpenStreetMap)
+  // ---------------------------------------------------------------------------
+  karte: {
+    // Startansicht der Karte (Mitte von Schiefbahn) und Zoomstufe.
+    zentrumLat: 51.2421,
+    zentrumLng: 6.5360,
+    startZoom: 16,
+    minZoom: 14,
+    maxZoom: 19,
+    // Kachel-Server (kostenlos, kein API-Key nötig).
+    tileUrl: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+    tileAttribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>-Mitwirkende',
+  },
+
+  // ---------------------------------------------------------------------------
+  // Punkte / Bewertung
+  // "Voll bei nah, dann sanft (exponentiell) fallend bis 0 ab Max-Distanz."
+  //   punkte = maxPunkte * e^(-distanz / abklingMeter)
+  // Beispiel mit abklingMeter=150:  50m -> ~72%, 100m -> ~51%, 200m -> ~26%.
+  // ---------------------------------------------------------------------------
+  punkte: {
+    maxPunkteProBild: 1000,   // volle Punktzahl bei Volltreffer
+    abklingMeter: 150,        // je größer, desto langsamer fallen die Punkte
+    maxDistanzMeter: 1500,    // ab hier gibt es 0 Punkte (egal wie die Formel rechnet)
+  },
+
+  // ---------------------------------------------------------------------------
+  // Spielablauf
+  // ---------------------------------------------------------------------------
+  spiel: {
+    // Standard-Anzahl Bilder pro Spiel, falls ein Set keine eigene Angabe hat.
+    standardBilderProSpiel: 4,
+    // Bilder pro Spiel zufällig aus dem Set mischen?
+    bilderMischen: true,
+  },
+
+  // ---------------------------------------------------------------------------
+  // Highscore-Speicher
+  //   "local"    = nur dieser Browser (localStorage) — sofort einsatzbereit.
+  //   "supabase" = geteilte Online-Bestenliste — Zugangsdaten unten eintragen.
+  // ---------------------------------------------------------------------------
+  highscore: {
+    backend: "local",        // "local" oder "supabase"
+    maxEintraege: 100,        // so viele Einträge in der Liste behalten/anzeigen
+    supabase: {
+      url: "",               // z.B. "https://xxxx.supabase.co"
+      anonKey: "",           // der öffentliche "anon"-Key aus den Supabase-Einstellungen
+      tabelle: "highscores", // Name der Tabelle in Supabase
+    },
+  },
+};

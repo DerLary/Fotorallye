@@ -1,0 +1,6053 @@
+[
+  {
+    "id": "1",
+    "file": "1. Federgerät Hubschrauber.jpg",
+    "title": "Federgerät Helikopter",
+    "lat": 51.240005,
+    "lng": 6.5354259,
+    "description": "Bis 2025 stand hier noch ein grüner Drache. Der Drache, sowie das Kleeblatt durften sich Lars, Swen und Jens Tissen damals bei einem Mitarbeiter der Stadt wünschen. Dies kam zustande, da der Mitarbeiter am gleichen Tag vorbei kam, als die Kinder Geburtstag hatten. Somit wurde der Katalog aufgeschlagen und sich auf zwei Federgeräte geeinigt. Der Spielplatz an der Schnorrenbergstraße wurde ca. 1990 eröffnet. Auf einer Fläche von 763 m² verfügt er über eine Spielkombi, Doppelschaukel, Karussell, Bodentrampolin, Bank-Tisch-Kombination, Federgerät Hubschrauber, Federgerät Kleeblatt und eine Sitzbank.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Helikopter befindet sich südlich der Kirche"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "In der Nähe befindet sich ein Lebensmittelladen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.23885,
+        "lng": 6.5343174,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "file": "2. Steigerturm.jpg",
+    "title": "Steigerturm",
+    "lat": 51.2421345,
+    "lng": 6.5301305,
+    "description": "Der Steigerturm wird heute immer noch 2-3 mal im Jahr genutzt. Dabei wird das aufsteigen von außen mit Hilfe einer Hakenleiter geübt. Planung und Bauleitung lagen in der Hand des Schiefbahner Architekten Wolfgang Samland, als man im Jahre 1962 mit dem Bau begann. Das moderne und allen Erfordernissen entsprechende neue Gerätehaus besteht aus einem zweigeschossigen Hauptbaukörper, der im Erdgeschoß zwei Wagenhallen, eine Werkstatt sowie Toiletten- und Waschanlagen, im Obergeschoss einen Versammlungsraum, eine Kleiderkammer und eine Wohnung für den Gerätewart enthält. Angegliedert sind ein eingeschossiger Baukörper mit zwei Wagenhallen und ein Steigerturm.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Ort gehört zu einem Städtischen Gebäude"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Leute in Atemschutz trainieren an diesem Ort"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2434525,
+        "lng": 6.530578,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "file": "4. Orange_Grünes Haus.jpg",
+    "title": "Orange/Grünes Haus",
+    "lat": 51.2430046,
+    "lng": 6.5342477,
+    "description": "Von 1822 bis 1990 war die Bäckerei Tissen in der Schwanenheide 4 zu finden. Sie war immer im Familienbesitz.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Etwas weiter links ist ein Spielplatz und rechts ein Kisok"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Gegenüber ist eine Apotheke, die den gleichen Namen wie die Straße trägt"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2442708,
+        "lng": 6.5349839,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "file": "5. Familienumriss auf Wand.jpg",
+    "title": "Familienumriss auf Wand",
+    "lat": 51.2415454,
+    "lng": 6.5339603,
+    "description": "Edeka Keil wurde am 6. Dezember 2011 eröffnet und hat eine Verkaufsfläche von 1500 qm.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Zu diesem Ort darf man nur als Fußgänger"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Hinter der Wand befinden sich gekühlte Produkte"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2404153,
+        "lng": 6.532788,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "file": "6. Spielplatz Schule.jpg",
+    "title": "Spielplatz Schule",
+    "lat": 51.2450571,
+    "lng": 6.536708,
+    "description": "Das erste Schulgebäude wurde am 01.04.1912 eingeweiht. Immer mehr Kinder in Schiefbahn und das große Interesse an der Hubertusschule sorgten dafür, dass in den 50er und dann in den 90er Jahren noch zwei weitere Schulgebäude folgten. Heute verfügt die Schule über ein Lehrerzimmer, 8 Klassenräume, einen Mehrzweckraum, eine Schulbücherei und eine Turnhalle.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieser Platz ist nicht ganz öffentlich"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "In den Pausen kommen viele Kinder auf den Spielplatz"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2446407,
+        "lng": 6.5346608,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "file": "7. Döner Imbiss.jpg",
+    "title": "Döner Imbiss",
+    "lat": 51.2424396,
+    "lng": 6.5344865,
+    "description": "Die weiße Verzierung, über dem Eingang, zeigt eine Frau.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "In der Nähe ist der einzige Radknotenpunkt in Schiefbahn"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Der Ort befindet ist südlich der Hochstraße"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2433924,
+        "lng": 6.5329645,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "file": "8. St. Hubertus Mosaik.jpg",
+    "title": "St. Hubertus Mosaik",
+    "lat": 51.2417374,
+    "lng": 6.5392126,
+    "description": "Geboren wurde er um das Jahr 655. Der Sage nach erschien ihm bei der Jagd ein Hirsch mit einem Kreuz im Geweih, worauf er bekehrt wurde und seitdem als Glaubensbote in Südbrabant und den Ardennen wirkte, wobei er sich besonders gegen die dort üblichen „heidnischen“ Jagdbräuche aussprach. Um 705 wurde er Bischof von Maastricht, nachdem der vorherige Bischof Lambert ermordet wurde. 715 übertrug er dessen Gebeine nach Lüttich, wo er auch gleich seinen Bischofssitz mit hinnahm. Am 30. Mai 727 starb er schließlich in Tervueren bei Brüssel. Aufgrund der Sage mit dem bekreuzten Hirsch gilt er als Schutzpatron der Jäger und wird deshalb auch meistens im Jagdgewand mit Hund, Schlüssel, Jagdhorn oder Buch dargestellt, wie auch auf unseren Vereinsfahnen sichtbar.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Ich befinde mich in einem Innenhof"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Der Hubertus bezieht sich auch auf den Ort"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2430115,
+        "lng": 6.5385119,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "file": "9. Alarmeingang.jpg",
+    "title": "Alarmeingang",
+    "lat": 51.2419921,
+    "lng": 6.5304839,
+    "description": "Eingang zur Feuerwehr Löschzug Schiefbahn",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Falls die Sirenen gehen, steht der Parkplatz voll"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Dort dürfen nur Mitglieder rein gehen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2416207,
+        "lng": 6.5284149,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "file": "10. Pfeilwegweiser _ Straßenschild_ Verkehrsschild.jpg",
+    "title": "Pfeilwegweiser / Straßenschild/ Verkehrsschild",
+    "lat": 51.2410187,
+    "lng": 6.5349161,
+    "description": "Der Pfeilwegweiser steht an der Kreuzung Linsellesstraße/ L361 Hubertusstraße.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der untere Teil führt in eine Einbahnstraße"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Der obere Teil führt zu einer Bank"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2399286,
+        "lng": 6.5361812,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "file": "11. Klettergerüst Spielplatz.jpg",
+    "title": "Klettergerüst Spielplatz",
+    "lat": 51.2417435,
+    "lng": 6.5442405,
+    "description": "Der Spielplatz befindet sich neben dem Grundstück Grechte 26. Auf einer Fläche von 514 m² verfügt er über eine Rutsche, Karussell, Zweifachschaukel, Kettenlaufsteg, Sandkasten und 3 Sitzbänke.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hinter diesem Ort befindet sich eine Landstraße"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "An dem Spielplatz ist keine Spielstraße"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2404165,
+        "lng": 6.5446143,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "file": "12. Altes Fachwerkhaus.jpg",
+    "title": "Altes Fachwerkhaus",
+    "lat": 51.2407755,
+    "lng": 6.5366662,
+    "description": "Das Haus wurde 1763 gebaut und steht seit dem 31. Dezember 1986 unter Denkmalschutz. Es handelt sich um ein traufenständiges, 2-geschossiges Fachwerkhaus. Dieses ist nach hinten eingeschossig abgeschleppt. Im Türsturz ist als Errichtungsdatum der 10. September 1763 genannt. Im 19. Jahrhundert wurde es teilweise verändert. Es stellt den Übergang eines Bauernhauses zu einem Bürger- bzw. Stadthaus dar. Dieses ist noch daran zu erkennen, dass rückwärtig eine Seite abgeschleppt ist, so dass hier eine Zweigeschossigkeit entstand. Es besitzt ebenfalls eine Backsteinbemalung auf den Holzbalken. Im Inneren des Gebäudes befinden sich noch wenige, an Ort und Stelle erhaltene religiöse Ornamente in der Stuckdecke. Dies ist einmalig im Kreis Viersen. Erhaltung und Nutzung des Gebäudes liegen aus ortsgeschichtlichen und städtebaulichen Gründen im öffentlichen Interesse.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Links neben dem Haus befindet sich ein Fußweg zu einer Spielstraße"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Wenn du der Straße nach links folgst, kommst du zur Kirche"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2419182,
+        "lng": 6.5378068,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "file": "13. Hydrant.jpg",
+    "title": "Hydrant",
+    "lat": 51.2418592,
+    "lng": 6.5306177,
+    "description": "Ein Hydrant ist eine Armatur zur Entnahme von Wasser aus einem Wasserverteilungssystem. Wasserversorger nutzen in regelmäßigen Abständen eingerichtete Hydranten als Teil der zentralen Löschwasserversorgung von Städten und Gemeinden. Hierzu wird normales Trinkwasser genutzt. Auf der Leitung sind ca. 2-6 bar Druck.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieses Objekt wird für Übungen und zum nachfüllen benutzt"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Nachdem gewisse Transportmittel wieder zurück kommen, brauchen Sie dieses Objekt"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2431966,
+        "lng": 6.5303554,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "file": "14. Kindergartenhalle.jpg",
+    "title": "Kindergartenhalle",
+    "lat": 51.241378,
+    "lng": 6.5382111,
+    "description": "Die Kindergartenhalle dient dem Kindergarten St. Elisabeth als Turnhalle. Außerdem benutzten manche Vereine diesen Ort für Veranstaltungen.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hinter dieser Tür wird geübt, gefeiert oder Sport gemacht"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Das Institut kümmert sich um die kleinsten unserer Gesellschaft"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2424398,
+        "lng": 6.5395362,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "file": "15. Mann auf Parkbank.jpg",
+    "title": "Mann auf Parkbank",
+    "lat": 51.2405854,
+    "lng": 6.5321044,
+    "description": "Die Familie hat holländische Verwandte und es ist ein Brauch, dass männliche Verwandte zum 50. Geburtstag einen \"Abraham\" geschenkt bekommen und die Frauen zum 50. Geburtstag eine \"Sarah\". Das ist im übertragenen Sinne, dass sie sich um Nachkommen (wie in der Bibel), also um Enkelkinder \"kümmern\" sollen. Da der Onkel jetzt 74, hat er den Abraham demnach vor 24 Jahren bekommen. Und wenn es was zu feiern gibt oder sonst wichtige Ereignisse sind, bekommt die Figur eine Flasche Bier dahin gestellt oder einen Blumentopf oder was Entsprechendes.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Auf der Bank kann man so gut wie jede große Veranstaltung in Schiefbahn hören"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Würde gegenüber etwas wegkommen, könnte man von hier aus Fußball gucken"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2399737,
+        "lng": 6.5301867,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "file": "16. Gänsejunge Garagenhof.jpg",
+    "title": "Gänsejunge Garagenhof",
+    "lat": 51.2422564,
+    "lng": 6.539528,
+    "description": "Im 18. und 19. Jahrhundert wurden noch große Mengen Gänse durch die Felder und Bruchlandschaft um Schiefbahn getrieben. So wurde der Gänsejunge ein Symbol für Schiefbahn, das sich auch mehrfach im Dorf in verschiedener Form wiederfindet.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Fast jeder Pfadfinder fährt hier zur Gruppenstunde vorbei"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Von hier aus kann man einen Leuchtturm sehen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.243558,
+        "lng": 6.5400851,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "file": "17. Obst und Rosen Tillmanns Schild.jpg",
+    "title": "Obst und Rosen Tillmanns Schild",
+    "lat": 51.2452264,
+    "lng": 6.5330676,
+    "description": "Seit drei Generationen bauen wir Obst & Rosen für unsere Kunden an. In dieser Zeit hat sich viel verändert. Die wichtigste Neuerung war die Umstellung der Produktion von herkömmlichen Verfahren auf die kontrollierte, integrierte Anbauweise. Hierbei sind Nützlinge wie z.b. der Marienkäfer oder die Raubmilbe an der umweltfreundlichen Produktion unseres Obstes beteiligt. Diese Anbaumethode wird ständig verbessert und kommt Ihnen als Kunde zugute. Die Obstlagerung wurde so modernisiert, dass wir Ihnen Äpfel das ganze Jahr über knackig und frisch anbieten können. Das erreichen wir ohne den Einsatz von Wachs oder chemischen Stoffen!",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieser Weg ist ein Privatweg"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "An dem Schild vorbei kommt man auch zum Grundstück"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.243889,
+        "lng": 6.5328053,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "file": "18. Kirchentür.jpg",
+    "title": "Kirchentür",
+    "lat": 51.2421735,
+    "lng": 6.5374799,
+    "description": "Die Kirche wurde 1854/55 vom Dombaumeister V. Statz aus Köln errichtet. Es handelt sich hierbei um eine dreischiffige, neugotische Backsteinbasilika mit dreiseitigem Chorabschluss und leicht vorgesetztem Westturm. Das südliche Querschiff ist neu ergänzt. An der Südfassade befindet sich eine Kreuzigungsgruppe von 1904. Denkmalwert ist ebenfalls die historische Innenausstattung der Kirche.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Wenn man raus geht, sieht man Wasser"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Gegenüber wird oft gegessen und getrunken"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.241604,
+        "lng": 6.5394306,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "file": "19. Friseur.jpg",
+    "title": "Friseur",
+    "lat": 51.2425725,
+    "lng": 6.5331562,
+    "description": "Der Friseursalon Simone ist seit über 20 Jahren auf der Hochstraße 70.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das Haus war früher Blau und man konnte Frauen mit Scheren sehen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2425255,
+        "lng": 6.5353073,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "file": "20. Straßenlaterne.jpg",
+    "title": "Straßenlaterne",
+    "lat": 51.2428908,
+    "lng": 6.5393104,
+    "description": "Altstadtmast mit Schiefbahn- und Willich-Wappen. Das Schiefbahner Wappen zeigt in grünem Feld über einer silbernen St. Hubertus – Trophäe mit goldenem Geweih und goldenem Kreuz eine silberne, beschossene Scheibe, flankiert von zwei silbernen, goldbestielten, mittelalterlichen Armbrustschießbolzen, rechts ein Spitzbolzen für die Schießscheibe, links ein Stumpfbolzen für das Tontaubenschießen. Willicher Wappen: In Blau ein gelbes (goldenes) Quadrat, das an jeder Seite von dem Buchstaben W in Gelb (Gold) so umrankt wird, dass seine unteren Spitzen auf die Mitte des Quadrates gerichtet sind und hier ein gleicharmiges Kreuz bilden.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "In der Nähe riecht es nach Benzin"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Rechts können Autos gekauft werden"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2421373,
+        "lng": 6.537526,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "file": "21. Pandagarage.jpg",
+    "title": "Pandagarage",
+    "lat": 51.2443816,
+    "lng": 6.5370323,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Panda kann morgens nicht lange ausschlafen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Nur in Ferienzeiten ist auf der Straße Ruhe"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2457289,
+        "lng": 6.5370699,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "file": "22. Porto Douro (Zum Hirsch).jpg",
+    "title": "Porto Douro (Zum Hirsch)",
+    "lat": 51.2408411,
+    "lng": 6.5417775,
+    "description": "Ehemalig Gaststätte \"Zum Hirsch\" Vitor Teixeira und seine Frau Carlota führen seit Januar 2020 das portugiesische Restaurant in der Königsheide.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Ort befindet sich auf einer Straße, die aus Schiefbahn führt"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Man kann hier auch Kegeln"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2394955,
+        "lng": 6.5418901,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "file": "23. Schiedsgericht.jpg",
+    "title": "Schiedsgericht",
+    "lat": 51.2424099,
+    "lng": 6.5337625,
+    "description": "Die Schiedsgerichtsbarkeit ist ein juristisches Mittel zur Streitbeilegung im Rahmen von Schiedsverfahren. Bei Schiedsgerichten handelt es sich um nicht-staatliche Gerichte, die allein aufgrund einer Abrede der jeweiligen Streitparteien zusammentreten und als Schiedssprüche bezeichnete Urteile aussprechen.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Gegenüber gibt es auch leckere Gerichte"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "In diesem Gebäude kann man auch einen Pass beantragen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2419712,
+        "lng": 6.5357976,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "file": "24. Fensterlade mit Metallkopf.jpg",
+    "title": "Fensterlade mit Metallkopf",
+    "lat": 51.2424268,
+    "lng": 6.5383543,
+    "description": "Kleiner Metallkopf an Fensterlade",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Wenn die Köpfe höher montiert wären, könnten Sie die Uhr lesen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Rechts von den Köpfen gibt es Pfarrbriefe und Fleisch"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2434437,
+        "lng": 6.5369422,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "file": "25. Blaue Container (Aktion Mission und Leprahilfe).jpg",
+    "title": "Blaue Container (Aktion Mission und Leprahilfe)",
+    "lat": 51.243087,
+    "lng": 6.5379041,
+    "description": "Die Aktion Mission und Leprahilfe Schiefbahn e.V. wurde 1963 vom späteren Weihbischof August Peters in Willich-Schiefbahn gegründet. Seitdem haben es sich ihre Mitglieder zur Aufgabe gemacht, Menschen in Entwicklungsländern unbürokratisch und schnell konkrete Hilfen zu geben. Über Medikamentenhilfen und Projektförderungen tragen sie zur Verbesserung von Lebensbedingungen bei.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieser Ort befindet sich auf einer Einbahnstraße mit einem extra Fahrradweg"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "In der Nähe üben viele Leute mit einem neuen Fahrrad zu fahren"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.243413,
+        "lng": 6.5358156,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "file": "26. Spielplatz Wilhelm-Wirtz-Platz.jpg",
+    "title": "Spielplatz Wilhelm-Wirtz-Platz",
+    "lat": 51.243616,
+    "lng": 6.534405,
+    "description": "Der Spielplatz liegt auf dem Wilhelm-Wirtz-Platz am Ende der Straße \"Schwanenheide\". Auf dem Platz wurden ganz früher Veranstaltung abgehalten. Auf einer Fläche von 769 m² verfügt er über eine Spielkombi, Schaukel, Sandkasten, Federgerät Traktor, Federgerät Kuh und drei Sitzbänke.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieser Spielplatz ist umrundet von Straßen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Hier hört man sehr oft die Kirche und kann diese sogar sehen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2429627,
+        "lng": 6.5362876,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "file": "27. Schulhof.jpg",
+    "title": "Schulhof",
+    "lat": 51.2445896,
+    "lng": 6.5378874,
+    "description": "Das erste Schulgebäude wurde am 01.04.1912 eingeweiht. Immer mehr Kinder in Schiefbahn und das große Interesse an der Hubertusschule sorgten dafür, dass in den 50er und dann in den 90er Jahren noch zwei weitere Schulgebäude folgten. Heute verfügt die Schule über ein Lehrerzimmer, 8 Klassenräume, einen Mehrzweckraum, eine Schulbücherei und eine Turnhalle.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieser Ort ist der nördlichste Grundschulhof"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Rechts von diesem Ort kann man wetterunabhänig Sport machen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.245924,
+        "lng": 6.538187,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "file": "28. Tor Nummer 1.jpg",
+    "title": "Tor Nummer 1",
+    "lat": 51.2419502,
+    "lng": 6.5301521,
+    "description": "Hinter dem Tor 1+2 ist das Lager der Feuerwehr.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hinter dieser Nummer befindet sich Ausrüstung für alle möglichen Rettungsaktionen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Die Häuser gegenüber haben den vermutlich kürzeste Anfahrtsweg bei Notfällen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.241786,
+        "lng": 6.5322884,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "file": "29. Dorfgespräch.jpg",
+    "title": "Dorfgespräch",
+    "lat": 51.2423878,
+    "lng": 6.5372513,
+    "description": "Skulptur von Loni Kreuder an der Kath. Kirche St. Hubertus",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Von dieser Skulptur gibt es noch zwei Leute"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Im Sommer hat die Person öfters Eis auf dem Kopf"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2412577,
+        "lng": 6.5384236,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "file": "30. Fahrradschlauchautomat.jpg",
+    "title": "Fahrradschlauchautomat",
+    "lat": 51.2430364,
+    "lng": 6.5373134,
+    "description": "Die ursprüngliche Idee des Fahrradschlauchautomat kommt von zwei Radhändlern aus Kassel Mitte der 1990er Jahre. Diese modifizierten damals einen Zigarettenautomat. Mittlerweile gibt es über 500 Stück solcher Automaten. Meistens an Fahrradläden oder Radfernwegen.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Falls die Tür rechts davon zu ist, kann man sich dadurch helfen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "In der Nähe der Kirche wird einem immer geholfen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.242919,
+        "lng": 6.5394576,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "file": "31. Schiefbahnwappen.jpg",
+    "title": "Schiefbahnwappen",
+    "lat": 51.2424304,
+    "lng": 6.5336134,
+    "description": "Das Schiefbahner Wappen zeigt in grünem Feld über einer silbernen St. Hubertus – Trophäe mit goldenem Geweih und goldenem Kreuz eine silberne, beschossene Scheibe, flankiert von zwei silbernen, goldbestielten, mittelalterlichen Armbrustschießbolzen, rechts ein Spitzbolzen für die Schießscheibe, links ein Stumpfbolzen für das Tontaubenschießen.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das Wappen schaut auf Glaube, Sitte und Heimat"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Gegenüber steht der Gänsejunge im Brunnen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2414135,
+        "lng": 6.5322013,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "file": "32. Haus mit Winterbalkon (Fahrschule).jpg",
+    "title": "Haus mit Winterbalkon (Fahrschule)",
+    "lat": 51.2427302,
+    "lng": 6.5392636,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Über den Zebrastreifen komme ich auf einen Parkplatz"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Die Fahrschule hat es nicht weit zum tanken"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2427537,
+        "lng": 6.5414157,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "file": "33. Gespiegelte Glassfassade.jpg",
+    "title": "Gespiegelte Glassfassade",
+    "lat": 51.2407615,
+    "lng": 6.5365796,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Gegenüber sind Garagen für eine Straße mit H und A beginnend"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Obwohl die Straße so Zentral ist, wird nur die parallel Straße viel befahren"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2415535,
+        "lng": 6.5383209,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "file": "34. Juca _La Familia_ Graffiti.jpg",
+    "title": "Juca \"La Familia\" Graffiti",
+    "lat": 51.2405247,
+    "lng": 6.5320604,
+    "description": "Das Jugendcafé - Schiefbahn (JuCa) ist ein offener Kinder- und Jugendtreff in freier Trägerschaft des SC 08 Schiefbahn e.V., in dem mit einer bunten Ausstattung an Gemeinschaftsspielen und Konsolen, Büchern und Tischkicker freie Zeit verbracht werden kann.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hinter der Wand wurden schon Aufstiege gefeiert und um Absteige getrauert"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Hier ist nicht nur das Juca, sondern auch Dart, Football und Fußball"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2413356,
+        "lng": 6.5337793,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "file": "35. Zucchini Bild.jpg",
+    "title": "Zucchini Bild",
+    "lat": 51.241302,
+    "lng": 6.5333868,
+    "description": "Edeka Keil wurde am 6. Dezember 2011 eröffnet und hat eine Verkaufsfläche von 1500 qm.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Eine Farbe in dem Bild gehört zum Logo der Firma"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Dieses Produkt kann hinter der Fassade gekauft werden"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2411612,
+        "lng": 6.5355274,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "file": "36. Kriegerehrenmal_ Soldatendenkmal_Kriegerdenkmal).jpg",
+    "title": "Kriegerehrenmal/ Soldatendenkmal/Kriegerdenkmal)",
+    "lat": 51.2396278,
+    "lng": 6.5392026,
+    "description": "Das Denkmal gibt es bereits seit 1937. Jedoch stand dies auf der Ostseite der Kirche. Dort wurde es aus verkehrstechnischen Gründen versetzt und steht seit 1962 auf dem Friedhof auf der Bruchstraße. Auf dem ehemaligen Platz des Kriegerehrenmal steht heute ein Brunnen. Da der alte Friedhof an der Hochstraße, der heutige Kurt-Schumacher-Park, zu klein geworden ist, legt die Gemeinde Schiefbahn eine neue Begräbnisstätte an der Bruchstraße an. Auf dieser werden seit 1944 die Schiefbahner Toten bestattet.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Ort ist entstanden, da es auf der Hochstraße keinen Platz mehr gab"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Das Kriegerehrenmal steht an einem Ort, wo es normalerweise sehr still ist"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2407947,
+        "lng": 6.5381265,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "file": "37.Schiefbahn Wahrzeichen_Schützenmai.jpg",
+    "title": "Schützenmai/Mast Schützenwappen, Schiefbahnwahrzeichen",
+    "lat": 51.2418546,
+    "lng": 6.5373877,
+    "description": "Farbenfroh wurde es am 24. Mai 1997 auf dem Platz vor der Hubertuskirche. Erstmals errichtete die Jungschützenabteilung der Bruderschaft gegen 15:30 Uhr mit einem schweren Kranwagen einen 16 Meter hohen Schützenbaum. In monatelangen Vorbereitungen hatten sie den aus der Eifel stammenden Baum bearbeitet und mit 56 Wappenschildern der einzelnen Schützenzüge ausgestattet.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Unter dem Ort kann auf rotem Pflaster geparkt werden"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Von hier aus kann man die Kirchenuhr besonders gut sehen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2410817,
+        "lng": 6.5391508,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "file": "38. Altes Brauhaus.jpg",
+    "title": "Altes Brauhaus",
+    "lat": 51.2424678,
+    "lng": 6.5365778,
+    "description": "Ehemaliges Brauhaus, wo bis 1990 Gerstensaft floss. Heute wird das Brauhaus als Bibliothek genutzt.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Früher gab es hier Bier, jetzt Bildung"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Die Schrift wird für Leseproben von gegenüber genutzt"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2416758,
+        "lng": 6.5348365,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "file": "39. Altes Fachwerkhaus mit Zaun und Garten.jpg",
+    "title": "Altes Fachwerkhaus mit Zaun und Garten",
+    "lat": 51.2414164,
+    "lng": 6.5404122,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Rechts davon geht es zum Friedhof"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "In der Nähe gibt es ein Altenheim"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2415572,
+        "lng": 6.5382716,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "file": "40. Tür _Eine-Welt-Laden_ Kirche.jpg",
+    "title": "Tür \"Eine-Welt-Laden\" Kirche",
+    "lat": 51.2423582,
+    "lng": 6.5379093,
+    "description": "Der Eine-Weltladen ist ein Fachgeschäft für Fairen Handel. Ziel der Weltläden ist es, zu mehr Gerechtigkeit in den Handelsbeziehungen zwischen den Ländern des Globalen Südens und des Nordens beizutragen. Um dieses Ziel zu erreichen, verkaufen Weltläden Produkte aus Fairem Handel, beteiligen sich an politischen Kampagnen und leisten Informations- und Bildungsarbeit zu Fragen des Fairen Handels.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Im Rücken des Fotografen sieht man Wasser"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Der Eingang befindet sich am zweithöchsten Gebäude in Schiefbahn"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2413889,
+        "lng": 6.5394045,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "file": "41. Glaube, Sitte, Heimat.jpg",
+    "title": "Glaube, Sitte, Heimat",
+    "lat": 51.2425714,
+    "lng": 6.5335145,
+    "description": "Durch diese Schwerpunkte – wehrhafter Schutz, verbunden mit Disziplin, Nächstenliebe und Gebet – entwickelte sich das eigentliche Wesen der Schützenbruderschaften. Aus diesem Geist heraus entstand die bis in die heutige Zeit bindende Parole „Für Glaube, Sitte und Heimat“. Das Denkmal, was die drei Ideale zeigt, wurde am 21.01.2012 eingesegnet.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "An dieser Straße ziehen im Juni viele Menschen über die Straße"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Hier kann es nach Brötchen und Pizza riechen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2427122,
+        "lng": 6.5313739,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "file": "42. Eingang Emmaus- Bücherei.jpg",
+    "title": "Eingang Emmaus- Bücherei",
+    "lat": 51.2433878,
+    "lng": 6.5339746,
+    "description": "Die Emmaus- Bücherei bietet das Ambiente einer modernen Bücherei mit Retro-Charme und einem gemütlichen Aufenthaltsbereich.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Auf der anderen Seite befindet sich ein Spielplatz"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Dieses Gebäude hängt mit einer Glaubensrichtung zusammen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2445989,
+        "lng": 6.533031,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "file": "43. Toreinfahrt.jpg",
+    "title": "Toreinfahrt",
+    "lat": 51.2431298,
+    "lng": 6.5381435,
+    "description": "Die \"Toreinfahrt\" führt auf die Rückseite vom früheren Gasthof Schwan (Hochstraße 12). Vermutlich wurden im Innenhof die Pferde abgestellt, da die Reiter dann im Gasthof Essen und Schlafen konnten.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Innenhof gehörte zu einem Gasthof mit einem Schwan"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Vom normalen Eingang aus steht man direkt an der Kirche"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2423569,
+        "lng": 6.5363803,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "file": "44. Jahnplatz Mast.jpg",
+    "title": "Jahnplatz Mast",
+    "lat": 51.2412015,
+    "lng": 6.5309536,
+    "description": "Der Mast wird genutzt um bei Veranstaltungen, wie z.B. der Schützenkirmes, zusätzliche Beleuchtung aufzuhängen.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Links davon fahren die Pfadfinder zum Sommerlager"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Hinten Links findet das Martinsfeuer statt"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2419155,
+        "lng": 6.5291283,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "file": "45. Fahnenmaste.jpg",
+    "title": "Fahnenmaste",
+    "lat": 51.2421856,
+    "lng": 6.5336652,
+    "description": "Auf dem Gelände des Stadtteilbüros Schiefbahn stehen drei Fahnenmaste. Der rechte ist mit der Deutschland Flagge behangen, der mittlere mit dem Willicher Wappen und der linke ist frei gelassen.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hier treffen sich Senioren"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "An diesem Gebäude kann man seinen Pass erneuern"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2418368,
+        "lng": 6.5315861,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "file": "46. Be dem Bur Wandbild.jpg",
+    "title": "Be dem Bur Wandbild",
+    "lat": 51.24121,
+    "lng": 6.5363255,
+    "description": "Warum steht eigentlich Tom auf der Latzhose? Der Name Tom hat der damaligen Besitzer, Friedhelm Hoster, von den Stammgästen als Spitznamen bekommen. Er hat hinter der Theke immer das Lied TomDooley gesungen.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Rechts befindet sich die Stammgaststätte für viele Vereine"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Wenn du der Straße folgst landest du an der Kirche"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2422572,
+        "lng": 6.53768,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "file": "47. Schachklub Turm Schiefbahn- Willich 1931.jpg",
+    "title": "Schachklub Turm Schiefbahn- Willich 1931",
+    "lat": 51.2428754,
+    "lng": 6.5391164,
+    "description": "Der Schachklub Turm bietet Schach für Jugendliche und Senioren sowie Turnierschach in verschiedenen Leistungsklassen.",
+    "tips": [
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2423925,
+        "lng": 6.5411259,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "file": "48. Turnhalle Hubertusschule.jpg",
+    "title": "Turnhalle Hubertusschule",
+    "lat": 51.2445685,
+    "lng": 6.5382106,
+    "description": "Das erste Schulgebäude wurde am 01.04.1912 eingeweiht. Immer mehr Kinder in Schiefbahn und das große Interesse an der Hubertusschule sorgten dafür, dass in den 50er und dann in den 90er Jahren noch zwei weitere Schulgebäude folgten. Heute verfügt die Schule über ein Lehrerzimmer, 8 Klassenräume, einen Mehrzweckraum, eine Schulbücherei und eine Turnhalle.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hier machen hauptsächlich Kinder zwischen 6-9 Jahren Sport"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Das Gebäude gehört mit zur nördlichsten Grundschule"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2458178,
+        "lng": 6.5390169,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "file": "49. Rentnerfiguren auf Garagendach.jpg",
+    "title": "Rentnerfiguren auf Garagendach",
+    "lat": 51.2404857,
+    "lng": 6.5324623,
+    "description": "Die beiden Rentner auf dem Garagendach wurden damals von dem Besitzer des Hauses als Kantenhocker, auf einem Flohmarkt gekauft.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Im Winter können die Figuren Leute beim Sport Machen zuschauen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Sie sehen von Fußball bis hin zu Football fast alles an Sport"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2418201,
+        "lng": 6.5321628,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "file": "50. Polizei Schiefbahn.jpg",
+    "title": "Polizei Schiefbahn",
+    "lat": 51.2426001,
+    "lng": 6.5329925,
+    "description": "Der Bezirksdienst Willich-Schiefbahn betreut den Bereich Schiefbahn. Insgesamt gibt es hier einen Ansprechpartner.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Die Dienststelle befindet sich Westlich der Kirche"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Die Straße hoch befindet sich ein Park"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2429715,
+        "lng": 6.5350615,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "file": "51. Taufkapelle (Kirchenecke).jpg",
+    "title": "Taufkapelle (Kirchenecke)",
+    "lat": 51.2420858,
+    "lng": 6.5376164,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hier werden viele Schiefbahner getauft"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Dieser Teil des Gebäudes gehört zum zweitgrößten Gebäude aus Schiefbahn"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2433811,
+        "lng": 6.5382097,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "file": "52. E-Maus Kinder und Jungendtreff Schild.jpg",
+    "title": "E-Maus Kinder und Jungendtreff Schild",
+    "lat": 51.243137,
+    "lng": 6.5342918,
+    "description": "Der Jugendtreff befindet sich im Anbau der evangelischen Kirche.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Links hiervon kann man sich Medikamente holen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Der Treff befindet sich in einem Glaubenshaus"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2441692,
+        "lng": 6.5329082,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "file": "53. Alter Handbrunnen.jpg",
+    "title": "Alter Handbrunnen",
+    "lat": 51.2413013,
+    "lng": 6.5371564,
+    "description": "Eine Schwengelpumpe ist eine selbst ansaugende Wasserpumpe. Mit gut dichtendem Kolben und Ventilen kann Wasser aus einer Tiefe von etwa bis zu 8 Metern angesaugt werden.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Von dieser Ecke aus kann man einen Kindergarten sehen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Die Schwengelpumpe steht an einer Straße, die zur Kirche führt"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2409753,
+        "lng": 6.5392448,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "file": "54. Synagogen Denkmal.jpg",
+    "title": "Synagogen Denkmal",
+    "lat": 51.2419029,
+    "lng": 6.5352441,
+    "description": "Die Synagoge wurde im Jahr 1858 erbaut. Zuvor hatte die Gemeinde ein Bethaus an der Hochstraße genutzt. Die Synagoge wird am 10.November 1938 (Reichsprogromnacht) gegen 9 Uhr morgens durch SA-Männer in Brand gesteckt und brennt bis zum Nachmittag aus.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das Denkmal steht auf einer Einbahnstraße, die nur für Anlieger frei ist."
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Die Straße hat nur vier Buchstaben"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2432103,
+        "lng": 6.5357648,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "file": "55. Fahrradfahrer an Tor.jpg",
+    "title": "Fahrradfahrer an Tor",
+    "lat": 51.243033,
+    "lng": 6.5372445,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hinter diesem Tor gibt es neue und gebrauchte Fahrräder"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Auf dem Weg zu einer Grundschule ist ein Fahrradladen bestimmt nicht die schlechteste Idee"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2425065,
+        "lng": 6.5392258,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "file": "56. Kreuz an der Kulturhalle.jpg",
+    "title": "Kreuz an der Kulturhalle",
+    "lat": 51.2443779,
+    "lng": 6.5375956,
+    "description": "Bereits 1925 hatte der Turnverein Schiefbahn mit den Planungen für den Bau einer eigenen Turnhalle begonnen. Bis zu diesem Zeitpunkt mussten die Sportler in den Sälen der Schiefbahner Gaststätten trainieren.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Auf der anderen Seite finden alle mögliche Veranstaltungen statt"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Ursprünglich war das Gebäude mal als Turnhalle gedacht"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.243917,
+        "lng": 6.5396183,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "file": "57. Brunnenfigur.jpg",
+    "title": "Brunnenfigur",
+    "lat": 51.2420554,
+    "lng": 6.537539,
+    "description": "Der Brunnen wurde von dem Bildhauer Josef Krautwald, in seiner Werkstatt in Rheine, gestaltet. Seine künstlerische Arbeit war ein Geschenk an den Pastor Dr. Bernhard Brück. Dieser stiftete den Brunnen als eine bleibende Predigt der Gemeinde. Er war von 1957- 1984 Pfarrer in der St. Hubertus- Gemeinde. Die Brunnenfigur zeigt Maria mit ihrem Sohn Jesus.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Die Figuren stehen auf einem Grundstück was nur von Straßen umrundet ist"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Die Figuren haben bestimmt schon sehr viele Hochzeiten gesehen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2418912,
+        "lng": 6.5354026,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "file": "58. Altes weißes Haus.jpg",
+    "title": "Altes weißes Haus",
+    "lat": 51.2425037,
+    "lng": 6.5386744,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Links von dem Haus befindet sich ein Altenheim"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Rechts von dem Haus geht es zu einer wichitgen Bushaltestelle"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2429424,
+        "lng": 6.5366393,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "file": "59. Uhr an der Wand.jpg",
+    "title": "Uhr an der Wand",
+    "lat": 51.2423659,
+    "lng": 6.5361216,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Wir befinden uns hier an einer Einwegstraße mit viel Busverkehr"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "In der Nähe gab es ein Brauhaus, was man noch an einer Wand sehen kann"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2418178,
+        "lng": 6.5380879,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "file": "60. Kulturhalle Tür.jpg",
+    "title": "Kulturhalle Tür",
+    "lat": 51.244076,
+    "lng": 6.5374191,
+    "description": "Bereits 1925 hatte der Turnverein Schiefbahn mit den Planungen für den Bau einer eigenen Turnhalle begonnen. Bis zu diesem Zeitpunkt mussten die Sportler in den Sälen der Schiefbahner Gaststätten trainieren. Trotz großer finanzieller Probleme wird am 5.Oktober 1929 der Grundstein gelegt und die Arbeiten nach knapp drei Jahren abgeschlossen. Die Einweihung erfolgt dann am 23.10.1932. Heute dient die Kulturhalle zum einen als Aula für die benachbarte Hubertusschule, zum anderen als Veranstaltungsort für Kultur- und Brauchtumsveranstaltungen.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Diese Türen waren ursprünglich für eine Turnhalle gedacht"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Hinter der Tür gibt es Musikveranstaltungen, Feiern und auch Städtische Veranstaltungen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.243842,
+        "lng": 6.5395389,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "file": "61. Haus.jpg",
+    "title": "Haus",
+    "lat": 51.2417992,
+    "lng": 6.5349091,
+    "description": "Dieses Haus wurde 1912 erbaut.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das Haus steht an einer Straße die Richtung Viersen oder nach Kaarst führt"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Von der Rückseite kann man ein Edeka sehen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2430878,
+        "lng": 6.5355384,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "62",
+    "file": "62. Garage mit Brücke.jpg",
+    "title": "Garage mit Brücke",
+    "lat": 51.24215,
+    "lng": 6.5387377,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Als Autofahrer kommt man nur von rechts zu diesem Ort"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Aus der Garage kommend sieht man ein Altenheim"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2431193,
+        "lng": 6.5372425,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "64",
+    "file": "64. Litfaßsäule.jpg",
+    "title": "Litfaßsäule",
+    "lat": 51.2426099,
+    "lng": 6.5341355,
+    "description": "Eine Litfaßsäule ist eine auf dem Gehweg von Straßen aufgestellte Anschlagsäule, an die Plakate geklebt werden. Sie wurde vom Berliner Drucker Ernst Litfaß erfunden und im Jahr 1854 erstmals verwirklicht.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Rechts von dem Bild kann man das Schiefbahner Wappen sehen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Hinter dem Fotograf sieht man eine Kirche"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2437884,
+        "lng": 6.535179,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "file": "65. Busanzeigetafel (Infoschild).jpg",
+    "title": "Busanzeigetafel (Infoschild)",
+    "lat": 51.2416827,
+    "lng": 6.5374566,
+    "description": "Der Fachbegriff für diese Anzeige Tafel lautet Fahrgastinformationsanzeiger mit beidseitiger LED-Fläche.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Rechts davon ist eine Straße nur für Busse"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Falls man die aktuelle Uhrzeit wissen möchte muss man sich nur umdrehen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2405526,
+        "lng": 6.5386289,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "66",
+    "file": "66. Gehweg.jpg",
+    "title": "Gehweg",
+    "lat": 51.2409043,
+    "lng": 6.5349207,
+    "description": "Nachdem jahrelang dort kein Baum mehr stand, wurde im Mai 2026 hier ein Baum durch die Baumfreunde Willich gefplanzt. Dieser ist rein spendenbasiert.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hinter einem ist 80 m entfernt ein Zebrastreifen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Eine der Straßen führt zur Kirche"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2422417,
+        "lng": 6.5346584,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "file": "67. Rotes Haus.jpg",
+    "title": "Rotes Haus",
+    "lat": 51.2411918,
+    "lng": 6.5367689,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Ort befindet sich links von einer Gaststätte"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Links von dem Ort ist eine Kirche"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2423345,
+        "lng": 6.5356283,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "68",
+    "file": "68. Evangelische Kirche.jpg",
+    "title": "Evangelische Kirche",
+    "lat": 51.2433476,
+    "lng": 6.5342303,
+    "description": "Die Hoffnungskirche wurde 1956 vom Presbyterium der damaligen Kirchengemeinde Willich-Schiefbahn als „Notbehelf“ in Verbindung mit einem Jugendheim errichtet.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieser Ort hat ein Spielplatz auf der anderen Straßenseite"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Es gibt noch ein anderes Gebäude, welches die gleiche Funktion erfüllt"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2421073,
+        "lng": 6.5333893,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "69",
+    "file": "69. Stationstür Krankenhaus.jpg",
+    "title": "Stationstür Krankenhaus",
+    "lat": 51.2420753,
+    "lng": 6.5387214,
+    "description": "Transformatorstation, die elektrische Spannung umwandelt. Die Bezeichnung \"Altes Krankenhaus\" entstand durch das 1898 erbaute Schwesternhaus und ein kleines Krankenhaus auf der Königsheide. Dies wurde nach dem Pfarrpatron der Gemeinde \"Hubertusstift\" benannt. Ab 1969/1970 wird das Hubertusstift ausschließlich als Altenheim, mit damals 124 Betten, genutzt.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Name Krankenhaus kam vom früheren Gebrauch des Gebäudes"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Heute dient der Ort auch zur Pflege von Personen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2407483,
+        "lng": 6.5383476,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "file": "70. Fensterfassade.jpg",
+    "title": "Fensterfassade",
+    "lat": 51.2447423,
+    "lng": 6.536674,
+    "description": "Das erste Schulgebäude wurde am 01.04.1912 eingeweiht. Immer mehr Kinder in Schiefbahn und das große Interesse an der Hubertusschule sorgten dafür, dass in den 50er und dann in den 90er Jahren noch zwei weitere Schulgebäude folgten. Heute verfügt die Schule über ein Lehrerzimmer, 8 Klassenräume, einen Mehrzweckraum, eine Schulbücherei und eine Turnhalle.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Nachmittags und am Wochenende ist normalerweise hier nichts mehr los"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "In den Ferien nehmen wenn dann nur Handwerker die Treppe"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2447188,
+        "lng": 6.5345218,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "71",
+    "file": "71. Schützenmai_mast Schützenwappen.jpg",
+    "title": "Schützenmai/Mast Schützenwappen",
+    "lat": 51.2418434,
+    "lng": 6.5373854,
+    "description": "Farbenfroh wurde es am 24. Mai 1997 auf dem Platz vor der Hubertuskirche. Erstmals errichtete die Jungschützenabteilung der Bruderschaft gegen 15:30 Uhr mit einem schweren Kranwagen einen 16 Meter hohen Schützenbaum. In monatelangen Vorbereitungen hatten sie den aus der Eifel stammenden Baum bearbeitet und mit 56 Wappenschildern der einzelnen Schützenzüge ausgestattet.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Von diesen Objekten hängen hier noch viele mehr rum"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Wir befinden uns hier auf einem Parkplatz"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2409418,
+        "lng": 6.5357859,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "72",
+    "file": "72. Spielplatz Paul-Klee Straße.jpg",
+    "title": "Spielplatz Paul-Klee Straße",
+    "lat": 51.2436028,
+    "lng": 6.5411465,
+    "description": "Der Spielplatz befindet sich zwischen den Grundtücken Paul-Klee-Straße Hausnummer 29 und 31. Auf einer Fläche von 451 m² verfügt er über eine Spielkombi, Spielhaus, Vogelnestschaukel, Sandkasten und eine Sitzbank",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Spielplatz befindet sich Östlich der Kirche"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "In der Nähe riecht es manchmal nach Benzin"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2444508,
+        "lng": 6.5394737,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "73",
+    "file": "73. Vital Spa.jpg",
+    "title": "Vital Spa",
+    "lat": 51.2406544,
+    "lng": 6.5419104,
+    "description": "Im Jahr 1976 wurde das Institut von Maria Weuthen eröffnet, 2010 von den Töchtern übernommen und weitergeführt. Das Kosmetikinstitut wurde erweitert durch einen Wellnessbereich.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Diese Straße führt Richtung Altenheim"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Im Rücken steht etwas entfernt ein Ortsausgangsschild"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2410032,
+        "lng": 6.5398314,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "file": "74. Gasthof zum Schwan.jpg",
+    "title": "Gasthof zum Schwan",
+    "lat": 51.2425398,
+    "lng": 6.538005,
+    "description": "Bei diesem Objekt handelt es sich um ein aus dem 16. Jahrhundert stammenden, an einer ehemaligen Heerstraße gelegenes Gebäude, das von 1551 bis 1989 als Gaststätte und Herberge diente. Ab 1989 ist dort eine Zahnarztpraxis eingezogen. Es ist eine in sich geschlossene Haus- und Hofanlage, bestehend aus 1. Hauptgebäude an der Hochstraße, 2-geschossig, traufenständig mit Satteldach und 7 Achsen, davon eine als ehemalige Tordurchfahrt, 2. einem Saalbau, 2-geschossig mit 4 Achsen und Walmdach sowie 3. einem Nebengebäude (Scheune) hochgeschossig mit 2 Tordurchfahrten und rückseitig gelegene Mezzanin-Fenstern in 3 Achsen, einschl. Satteldach, traufenständig zum Wallgraben. Im Hauptgebäude sind Raumaufteilung, Treppenhaus und Fußböden noch erhalten. Im Eingangs- u. Hofdurchgangsbereich ist der originale Italo-Terrazzoboden vorhanden. Intarsierte Ornamenteinstreuung und lat. Grußformeln sind noch klar ersichtlich. In der Hofausgangstür ist im oberen Bereich ein dreiteiliges 3-Kaiserfenster in unzerstörter Form erhalten, dessen Herstellung auf 1888 datiert ist.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Um an den Hinterhof zu kommen muss man links herum fahren. Nach rechts ist eine Einbahnstraße im Weg"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Die Anwohner können immer eine Uhr sehen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2431515,
+        "lng": 6.5360872,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "75",
+    "file": "75. Garagentor bemalt mit Garten.jpg",
+    "title": "Garagentor bemalt mit Garten",
+    "lat": 51.2395875,
+    "lng": 6.5358397,
+    "description": "Das Garagentor wurde innerhalb von 5 Tagen von Frank Bosch bemalt und am 02.10.2014 fertiggestellt. Es zeigt die Fortsetzung des Gartens von Hausnummer 24. Jedoch ist leider schon während des Malens, der mittlere Baum (eine Kastanie) gefällt worden.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Die Garage befindet sich in einem Wendehammer auf einer Spielstraße"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Geht man weiter, kommt man zu einem Lebensmittelmarkt"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.240766,
+        "lng": 6.5347963,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "76",
+    "file": "76. Bemalte Wand mit Fassaden.jpg",
+    "title": "Bemalte Wand mit Fassaden",
+    "lat": 51.2428197,
+    "lng": 6.5402975,
+    "description": "Die bemalte Wand befindet sich auf der rechten Seite des alten Markts. Wie der Name schon vermuten lässt, diente der heutige Parkplatz, früher als Markplatz. Heute befindet sich der Markt auf Hubertusplatz, von Hausnummer 2 bis zum Hubertusplatz selber. Der Wochenmarkt wird jeden Mittwoch von 7-13 Uhr abgehalten.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Ort war früher ein Marktplatz"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Das Bild ist auch gut mit dem Auto zu erreichen. Hier gibt es genug Parkplätze"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2436493,
+        "lng": 6.5419936,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "77",
+    "file": "77. Glascontainer.jpg",
+    "title": "Glascontainer",
+    "lat": 51.2418216,
+    "lng": 6.537006,
+    "description": "Glasrecycling ist eine der effektivsten Formen der Wiederverwendung. Mit mehr als zweieinhalb Jahrtausenden ist Glas eines der ältesten Verpackungsmaterialien überhaupt. Unterschieden wird dabei zwischen farblosem, Braun,- und Grünglas.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Nein, wir befinden uns nicht bei Aldi"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Hier ist auch ein zentraler Parkplatz für Schiefbahn"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2415414,
+        "lng": 6.5391113,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "79",
+    "file": "79. Gänsejunge an Hauswand.jpg",
+    "title": "Gänsejunge an Hauswand",
+    "lat": 51.2399638,
+    "lng": 6.535201,
+    "description": "Im 18. und 19. Jahrhundert wurden noch große Mengen Gänse durch die Felder und Bruchlandschaft um Schiefbahn getrieben, so wurde der Gänsejunge ein Symbol für Schiefbahn, dass sich auch mehrfach im Dorf in verschiedener Form wiederfindet.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Gegenüber ist ein Spielplatz"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Geht man nach Rechts, kommt man zum örtlichen EDEKA"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2407367,
+        "lng": 6.5369641,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "80",
+    "file": "80. Scheinbushaltestelle (Park Altenheim).jpg",
+    "title": "Scheinbushaltestelle (Park Altenheim)",
+    "lat": 51.2410681,
+    "lng": 6.5397035,
+    "description": "Eine Scheinbushaltestelle (auch Pseudohaltestelle oder Phantomhaltestelle) ist eine Nachbildung einer normalen Haltestelle, die in der Krankenpflege zum Einsatz kommt. Sie ist in der Regel mit einem Haltestellenschild und einem ausgehängten Fahrplan ausgestattet. Der Fahrplan ist fiktiv und es hält auch nie ein Omnibus an dieser Attrappe. Manche Scheinbushaltestellen sind mit Sitzbänken versehen. Die Scheinbushaltestellen werden in der Pflege von Demenzerkrankten eingesetzt. Menschen, die an der Demenz erkrankt sind, haben oft Störungen des Kurzzeitgedächtnisses und leben mit fortschreitender Erkrankung häufig mehr und mehr in der Vergangenheit. Sie wollen in die alte vertraute Umgebung zurückkehren oder alten Ritualen folgen. Deswegen sind sie unruhig und suchen eine Haltestelle auf, um auf den nächsten Bus zu warten, im festen Glauben, dass er sie von diesem Ort weg nach Hause bringt. Es heißt, dem Heimbewohner reiche eine kurze Verweildauer an der Haltestelle, bis er den Grund für seine Reiseabsicht vergessen habe. Er kehre dann zurück ins Heim und habe manchmal den festen Glauben, woanders gewesen zu sein. Dadurch soll die Haltestelle die Gefahr verringern, dass Heimbewohner sich außerhalb des Heimes verlaufen und von den Pflegekräften gesucht werden müssen. Wissenschaftliche Untersuchungen zur Wirksamkeit von Scheinbushaltestellen existieren nicht.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieser Ort ist nicht für die Öffentlichkeit. Es handelt sich um eine Scheinbushaltestelle"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Alt und Jung leben nebeneinander"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2397665,
+        "lng": 6.5402606,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "81",
+    "file": "81. Altes Haus, Stahltür.jpg",
+    "title": "Altes Haus, Stahltür",
+    "lat": 51.2413856,
+    "lng": 6.5351104,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das Haus steht auf einer Straße mit vier Buchstaben, die nur für Anlieger frei ist."
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Weiter rechts stand mal eine Synagoge"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.240084,
+        "lng": 6.5345533,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "82",
+    "file": "82. Glockenturm Altenheim.jpg",
+    "title": "Glockenturm Altenheim",
+    "lat": 51.2417674,
+    "lng": 6.5391203,
+    "description": "Die sogenannte \"Todesglocke\" wird geläutet, wenn ein Anwohner im Alten- und Pflegeheim Hubertusstift verstirbt.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Wir befinden uns hier an einem Eingang im Innenhof"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Die Glocke wird geläutet wenn eine Person verstirbt. Dies passiert hier leider oft."
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2406247,
+        "lng": 6.5402609,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "83",
+    "file": "83. Infoschild Hochstraße.jpg",
+    "title": "Infoschild Hochstraße",
+    "lat": 51.2423526,
+    "lng": 6.535803,
+    "description": "Das Informationsschild zeigt ein Bild aus dem Jahr 1908 von der Hochstraße, in Blickrichtung Westen. Auf der Fläche des 1899 abgerissenen Növertores sind zwei neue Gebäude entstanden, die jeweils Gaststätten beherbergen: links die Restauration Heinrich Kaiser- rechts die Schenkenwirtschaft Ferdinand Tillmansn.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Alle Infos stehen auf dem Bild"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "In dem Bild fehlt eine Ampel"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2426557,
+        "lng": 6.5337058,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "84",
+    "file": "84. Anbau Kulturhalle.jpg",
+    "title": "Anbau Kulturhalle",
+    "lat": 51.2440486,
+    "lng": 6.5373766,
+    "description": "Der Anbau an der Kulturhalle diente früher dem Hausmeister der Hubertusschule als Wohnung.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Links davon war ursprünglich eine Sporthalle"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "In der Nähe steht eine Grundschule"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2449676,
+        "lng": 6.5358024,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "85",
+    "file": "85. Ausblick Kirche.jpg",
+    "title": "Ausblick Kirche",
+    "lat": 51.2420524,
+    "lng": 6.5366647,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Um hierhin zu kommen muss man über einen zentralen Parkplatz gehen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Der Ort befindet sich westlich der Kirche"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2425353,
+        "lng": 6.5346553,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "file": "86. Rohr.jpg",
+    "title": "Rohr",
+    "lat": 51.2426277,
+    "lng": 6.5397129,
+    "description": "Ehemalig Satt&Selig",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hier gab es mal Essen aus dem Nachbarland"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Gegenüber ist ein etwas größerer Parkplatz"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2421448,
+        "lng": 6.5377034,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "file": "87. Weißes Pferd.jpg",
+    "title": "Weißes Pferd",
+    "lat": 51.2387562,
+    "lng": 6.5351521,
+    "description": "Die Tochter und Enkel mochten Pferde. Somit hat sich ein Mann angeboten die Garage mit einem Pferd zu verschönern.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Links die Straße runter ist ein P+R Parkplatz"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Rechts hiervon ist eine betreutets Wohnen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.239105,
+        "lng": 6.5330732,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "88",
+    "file": "88. Willi Wisch.jpg",
+    "title": "Willi Wisch",
+    "lat": 51.2400927,
+    "lng": 6.5314206,
+    "description": "Saubermach Aktion der Stad Willich",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das Schild befindet sich auf Privatgelände"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Hier wird oft gepfiffen. Mindest nach 45 min, 15 min und dann nochmal 45 min."
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2405091,
+        "lng": 6.5334676,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "89",
+    "file": "89. Figur.jpg",
+    "title": "Figur",
+    "lat": 51.2357838,
+    "lng": 6.5328882,
+    "description": "Die Holzfigur zeigt einen Zimmermann. Diese Figur wurde mal im Rahmen einer Ausbildungs/ Jobmesse gebaut und im Anschluss an die Hauswand gehängt.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Unter der Figur fließt die Cloer"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Wäre die Figur höher aufgehängt könnte die Figur auf die Autobahn gucken"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2358778,
+        "lng": 6.5350351,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "90",
+    "file": "90. Figur.jpg",
+    "title": "Figur",
+    "lat": 51.246743,
+    "lng": 6.5394909,
+    "description": "Die Figur soll einen kleinen Feuerwehrmann darstellen. Er sitzt in einem Klettergerüst, was als Feuerwehrauto gestaltet wurde.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das Bild ist auf einem Spielplatz nördlich der Kirche aufgenommen worden"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "100 Meter entfernt ist ein Kreisverkehr"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2461949,
+        "lng": 6.5414574,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "91",
+    "file": "91. Antenne.jpg",
+    "title": "Antenne",
+    "lat": 51.2450829,
+    "lng": 6.54033,
+    "description": "Die große Antenne dient wahrscheinlich den Amateurfunken.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "An den Ort kommt man nur von einer Seite mit dem Auto hin. Aber das auch nur in Schrittgeschwindigkeit"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Links von dem Bild kann man einer Straße Richtung Willich folgen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2439402,
+        "lng": 6.5391893,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "92",
+    "file": "92. Garagen.jpg",
+    "title": "Garagen",
+    "lat": 51.2458018,
+    "lng": 6.5417982,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Die Straße ist nach einem Niederländischen Barock Zeichner beginnend mit Re... benannt"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Von den Häusern im Hintergrund kann man auf die Landstraße Richtung Willich gucken"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2458488,
+        "lng": 6.5439495,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "93",
+    "file": "93. Gartenzwerg.jpg",
+    "title": "Gartenzwerg",
+    "lat": 51.2397075,
+    "lng": 6.5390408,
+    "description": "Die Schnorrenbergstraße wurde 1955 nach dem Pfarrer Johann Schnorrenberg benannt. Dieser hat von 1844-1867 als Pfarrer in Schiefbahn gewirkt und ist hier 1867 auch gestorben. Geboren wurde er am 27.3.1803 und am 28.10.1830 zum Priester geweiht. Schnorrenberg trat energisch für den Neubau der Kirche ein. der dann auch zwischen 1854 und 1856 ausgeführt wurde.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Die Eule könnte fast das Kriegerehrenmal sehen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Auf der anderen Straßenseite kann man in Ruhe trauern"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2407836,
+        "lng": 6.5377455,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "94",
+    "file": "94. Hannen Alt.jpg",
+    "title": "Hannen Alt",
+    "lat": 51.2426234,
+    "lng": 6.5342644,
+    "description": "Dieser Schriftzug gehört zum Kiosk \"STAR-Kiosk\".",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Links von dem Ort befindet sich ein Spielplatz"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "In der Nähe befindet sich eine Pizzeria"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2437535,
+        "lng": 6.5330921,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "95",
+    "file": "95. Mauer.jpg",
+    "title": "Mauer",
+    "lat": 51.2402425,
+    "lng": 6.5347645,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "An der Wand entlang geht es zu einem Spielplatz"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Links befindet sich ein Zebrastreifen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2405456,
+        "lng": 6.5326674,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "96",
+    "file": "96. Wiese.jpg",
+    "title": "Wiese",
+    "lat": 51.2443432,
+    "lng": 6.5308285,
+    "description": "Das Foto zeigt den Außenbereich des Kindergartens Ev. Tageseinrichtung Herderweg. Der Kindergarten bietet platz für 65 Kinder im Alter ziwschen 1-6 Jahre.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieser Ort ist nicht für die Öffentlichkeit"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Sehr kleine Kinder können hier spielen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2456094,
+        "lng": 6.5300923,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "97",
+    "file": "97. Weißes Haus.jpg",
+    "title": "Weißes Haus",
+    "lat": 51.2427748,
+    "lng": 6.5416808,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Folgt man der Straße nach rechts fährt man irgendwann an einem Judenfriedhof vorbei"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Wir sind auf der Straße westlich von der Kirche"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2432796,
+        "lng": 6.5436765,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "98",
+    "file": "98. Bitburger.jpg",
+    "title": "Bitburger",
+    "lat": 51.242512,
+    "lng": 6.5369266,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das Gebäude ist nicht rein für Getränke bekannt"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Auf der anderen Straßenseite sind die Außensitzmöglichkeiten mit Blick auf die Kirche"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.243226,
+        "lng": 6.538752,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "99",
+    "file": "99. Park.jpg",
+    "title": "Park?",
+    "lat": 51.2400906,
+    "lng": 6.5407425,
+    "description": "Da der alte Friedhof an der Hochstraße, der heutige Kurt-Schumacher-Park, zu klein geworden ist, legt die Gemeinde Schiefbahn eine neue Begräbnisstätte an der Bruchstraße an. Auf dieser werden seit 1944 die Schiefbahner Toten bestattet.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieser Ort ist an dem nördliche Eingang des Geländes"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Das Gelände endet an einer Landstraße"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2410434,
+        "lng": 6.5392206,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "file": "100. Arzt.jpg",
+    "title": "Arzt",
+    "lat": 51.2431966,
+    "lng": 6.534504,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Falls man Medikamente braucht befindet sich der passende Ort gegenüber"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Auch eine Kirche ist direkt gegenüber"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2443751,
+        "lng": 6.5355475,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "file": "101. Tourenclub Schiefbahn.jpg",
+    "title": "Tourenclub Schiefbahn",
+    "lat": 51.2425347,
+    "lng": 6.5327433,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieser Ort ist ein normales Wohnhaus südlich der Hochstraße"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Rechts von dem Ort geht es zum Park"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2436518,
+        "lng": 6.5339469,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "file": "102. Adler.jpg",
+    "title": "Adler",
+    "lat": 51.2424512,
+    "lng": 6.5347519,
+    "description": "Der \"Adler\" ist das damalige Logo der Reichspost. Dieses Gebäude war ursprünglich eine Postfiliale, danach eine Sparkasse, ein Sonnenstudio und nun ein Ärzte Haus. Erbaut wurde die Post 1906.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Adler überwacht eine Ampelanlage in Schiefbahn"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "An der Ampelanlage mündet eine Einbahnstraße"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2437913,
+        "lng": 6.5349769,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "file": "103. Drache.jpg",
+    "title": "Drache",
+    "lat": 51.2437462,
+    "lng": 6.5303447,
+    "description": "Der Drache gehört zum Gebäude der Astrid-Lindgren- Schule. Geschichte der Schule: 1958 steht die Gemeinde Schiefbahn vor der Entscheidung, die alte Volksschule an der Pfarrkirche aufwändig zu sanieren oder aber einen Neubau zu errichten. Zur Klärung dieser Frage wird das Staatshochbauamt eingeschaltet, das letztlich angesichts des schlechten baulichen Zustands zu einem Neubau rät. Am 24.März 1964 wird die evangelische Volksschule Schiefbahn an der Wilhelm-Busch-Straße eingeweiht. Auf Vorschlag des ehemaligen Rektors Karl Zemlin wird sie nach der Dichterin Agnes Miegel benannt. 2008 folgt der Stadtrat dem Wunsch von Schülern, Eltern und Lehrern, die Schule aufgrund der Nähe von Agnes-Miegel zum NS-Regime in Astrid-Lindgren-Schule umzubenennen.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Ort ist nach einer Kinderbuchautorin benannt"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Der Ort endet in einem Wendehammer und grenzt an einen Fußweg"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2437932,
+        "lng": 6.5281935,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "104",
+    "file": "104. Spiegelei.jpg",
+    "title": "Spiegelei",
+    "lat": 51.2441908,
+    "lng": 6.5318896,
+    "description": "Dieser Teil der Fassade ist austauschbar. In der Winterzeit ist dort ein beleuchterter Stern angebracht. Den Rest des Jahres ist dort das Spiegelei zu finden.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Diese Straße ist eine Stichstraße"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Im Winter sieht es hier besonders schön aus"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2429598,
+        "lng": 6.5310141,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "105",
+    "file": "105. Schranke.jpg",
+    "title": "Schranke",
+    "lat": 51.2406081,
+    "lng": 6.534401,
+    "description": "Die Schranke ist immer oben, da Teil des Parkplatzes öffentlich ist.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Wir befinden uns nicht an einer Bahnanlage"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Gegenüber befindet sich eine Bushaltestelle"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2406786,
+        "lng": 6.5365504,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "file": "106. Mülleimer.jpg",
+    "title": "Mülleimer",
+    "lat": 51.2479047,
+    "lng": 6.5413708,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Links ca. 120m entfernt befindet sich ein Kreisverkehr"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Rechts ca 120m entfernt befindet sich ein Kreisverkehr"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2492063,
+        "lng": 6.541928,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "107",
+    "file": "107. Balkon.jpg",
+    "title": "Balkon",
+    "lat": 51.2410806,
+    "lng": 6.5297972,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hier wird die Straße den Autofahrern den Weg versperrt"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Die Person auf dem Balkon guckt weg von der Kirmes"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2417543,
+        "lng": 6.5316612,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "108",
+    "file": "108. Hubertussift.jpg",
+    "title": "Hubertusstift",
+    "lat": 51.2425468,
+    "lng": 6.5389762,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das Schild steht an einer Kreuzung die auch Richtung Willich führt"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Geradeaus endet es für Autos an Pöllern. Man kommt aber bis zum Kindergarten"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.242711,
+        "lng": 6.5411126,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "109",
+    "file": "109. Freude am Garten.jpg",
+    "title": "Freude am Garten",
+    "lat": 51.2410797,
+    "lng": 6.5362754,
+    "description": "Obst- und Gartenbauverein e.V. Schiefbahn ist eine Kleingartenanlage in Willich, Kreis Viersen, Nordrhein-Westfalen. Obst- und Gartenbauverein e.V. Schiefbahn befindet sich nahe dem Spielfeld Dirt Park sowie der Hundezone SV OG Schiefbahn.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hier ist nicht nur dieser Verein zu finden"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Gegenüber kann man draußen essen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2419277,
+        "lng": 6.5346027,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "file": "110. Haus.jpg",
+    "title": "Haus",
+    "lat": 51.2474274,
+    "lng": 6.5396633,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Wir befinden uns ziemlich nördlich von Schiefbahn"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "In der Nähe werden jetzt kleine Kinder betreut"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2486385,
+        "lng": 6.5387196,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "111",
+    "file": "111. Leiter.jpg",
+    "title": "Leiter",
+    "lat": 51.2417002,
+    "lng": 6.5265155,
+    "description": "1936 bestand in der Gemeinde Schiefbahn Wohnungsnot. Gustav Geldbach, der in diesem Jahr zum Bürgermeister bestimmt orden war. hatte die Idee. im Schiefbahner Bruch Wohnraum zu schaffen. Jedem Siedler, der bereit war, dort zu siedeln. sollte ein Grundstück in der Große von 800 gm zugebilligt werden, wobei der Kaufpreis 0,45 Reichsmark je qm, insgesamt also 360,00 RM betrug. Die monatliche Belastung sollte 25,00 RM nicht überschreiten. Außerdem sollte jedem Siedler ein Schwein, eine Ziege, Kaninchen und Hühner gestellt werden. dazu Garten- geräte und Dünger. Die Wohnung umfaßte fünf Räume, einen Keller und einen angebauten Stall. Die Nachfrage, vor allem bei ärmeren und kinderreichen Familien, war groß. Im Sommer 1937 wurde mit dem Bau der Siedlungshäuser begonnen, im Oktober des gleichen Jahres waren die ersten Hauser im Rohbau fertig. Im Juli 1938 waren fast alle vierzig Familien in ihre neuen Heime eingezogen. Die feierliche Einweihung der \"\"Volkssiedlung\" war am 30./31. Juli 1938.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Die Straße an der die Leiter steht wird einmal von Pöllern blockiert"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "In die linke Richtung kommt man zurm Jahnplatz"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2408706,
+        "lng": 6.5282116,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "112",
+    "file": "112. Verkehrsschild.jpg",
+    "title": "Verkehrsschild",
+    "lat": 51.2405554,
+    "lng": 6.5420119,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Eine Kurve in der Straße ermöglicht es immer nur dass ein Auto vorbei kommt"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Fährt man zurück kommt man zu einem Altenheim"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2410819,
+        "lng": 6.5400307,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "113",
+    "file": "113. Blauweißer Poller.jpg",
+    "title": "Blauweißer Poller",
+    "lat": 51.2403795,
+    "lng": 6.5343832,
+    "description": "In Deutschland wird der Fußgängerübergang als Fußgängerüberweg (amtliche Abkürzung FGÜ, früher amtlich Dickstrichkette)[1] bezeichnet, das ist eine Querungsanlage auf Straßen für Fußgänger und Rollstuhlfahrer. Ein Fußgängerüberweg ist neben dem Hinweis mit entsprechender Beschilderung durch breite Linien auf der Fahrbahn (umgangssprachlich Zebrastreifen genannt) gekennzeichnet, die ebenfalls als Verkehrszeichen dienen.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieses Objekt zeigt einen Zebrastreifen an"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Rechts davon kann man einkaufen gehen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2411524,
+        "lng": 6.5361463,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "114",
+    "file": "114. Eingang.jpg",
+    "title": "Eingang",
+    "lat": 51.2442526,
+    "lng": 6.5426237,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Rechts davon stehen relativ hohe Häuser"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Wenn man Links weiter geht und dann abbiegt kommt man entweder nach Willich oder zur Kirche"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2451006,
+        "lng": 6.5409509,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "115",
+    "file": "115. Delphin und Welt.jpg",
+    "title": "Delphin und Welt",
+    "lat": 51.2429638,
+    "lng": 6.5298404,
+    "description": "Das Logo gehört zum Reisebüro Krüger.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Diese Straße in die andere Richtung nach Neersen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "An der Ecke sieht man immer mal wieder Blaulicht"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2435545,
+        "lng": 6.531775,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "116",
+    "file": "116. Figur.jpg",
+    "title": "Figur",
+    "lat": 51.2421676,
+    "lng": 6.5393131,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Im Sommer ist die Figur schwer zu erkennen. Man muss nah an dem Gehweg vorbei gehen."
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Die Figur spielt zeigt den heiligen St. Hubertus"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2434562,
+        "lng": 6.5386838,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "117",
+    "file": "117. Friedhof.jpg",
+    "title": "Friedhof",
+    "lat": 51.2374983,
+    "lng": 6.5334007,
+    "description": "Da der alte Friedhof an der Hochstraße, der heutige Kurt-Schumacher-Park, zu klein geworden ist, legt die Gemeinde Schiefbahn eine neue Begräbnisstätte an der Bruchstraße an. Auf dieser werden seit 1944 die Schiefbahner Toten bestattet.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Mit dem linke Ohr könnte manchmal einen Tennisschläger hören"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Rechts fahren öfters rote Busse vorbei"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2371723,
+        "lng": 6.535489,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "118",
+    "file": "118. Schachclub Turm.jpg",
+    "title": "Schachclub \"Turm\"",
+    "lat": 51.2422879,
+    "lng": 6.5337191,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieser Ort ist ein öffentliches Gebäude"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Links davon stehen drei Fahnenmaste"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2435459,
+        "lng": 6.5344905,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "119",
+    "file": "119. Friedhof.jpg",
+    "title": "Friedhof",
+    "lat": 51.2415938,
+    "lng": 6.5403452,
+    "description": "Da der alte Friedhof an der Hochstraße, der heutige Kurt-Schumacher-Park, zu klein geworden ist, legt die Gemeinde Schiefbahn eine neue Begräbnisstätte an der Bruchstraße an. Auf dieser werden seit 1944 die Schiefbahner Toten bestattet.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Weiter geradeaus geht es zu einem Altenheim"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Man kommt von einer Landstraße, wenn man das Schild sieht"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2429312,
+        "lng": 6.5406075,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "120",
+    "file": "120. Gnom.jpg",
+    "title": "Gnom",
+    "lat": 51.2412879,
+    "lng": 6.5375594,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Auf der Straße befindet sich auch ein Kindergarten"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Das Haus ist Denkmalgeschützt und in der Nähe steht eine Schwengelpumpe"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2399478,
+        "lng": 6.5373344,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "121",
+    "file": "121. Haus.jpg",
+    "title": "Haus",
+    "lat": 51.2426847,
+    "lng": 6.539982,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Gegenüber kann man gut parken"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Rechts ist eine Kreuzung von der aus das Altenheim, die Kirche und eine Tankstelle gut erreichbar ist"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2421366,
+        "lng": 6.5419483,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "file": "122. Spielplatz.jpg",
+    "title": "Spielplatz",
+    "lat": 51.2402834,
+    "lng": 6.5301139,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hier kann man gut Fußball spielen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "In der Nähe befindet sich ein noch größerer Fußballplatz"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2398447,
+        "lng": 6.532149,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "123",
+    "file": "123. Straße.jpg",
+    "title": "Straße",
+    "lat": 51.2406198,
+    "lng": 6.5430089,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Wir befinden uns auf eine Stichstraße, die nur für Anlieger frei ist"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Am Ende der Straße kann man rechts abbiegen um zum Friedhof zu gelangen. Links geht es in den Unterbruch"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.240115,
+        "lng": 6.5410133,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "124",
+    "file": "124. Straße.jpg",
+    "title": "Straße",
+    "lat": 51.2420828,
+    "lng": 6.5421013,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hinter dem Fotografen geht es zu einem Spielplatz der an einer Landstraße liegt"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Biegt man zwei mal nach rechts ab kommt man auf die Landstraße nach Willich"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2433569,
+        "lng": 6.5414005,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "125",
+    "file": "125. SV. OG. Schiefbahn.jpg",
+    "title": "SV. OG: Schiefbahn",
+    "lat": 51.2373023,
+    "lng": 6.5333448,
+    "description": "SV OG Schiefbahn 1950 e.V. Die Ortsgruppe Schiefbahn wurde im April 1950 in Schiefbahn gegründet und war somit der erste Hundesportverein der Stadt Willich. Der Übungsplatz besitzt eine Größe von etwa 3000qm und liegt in schöner und ruhiger Umgebung hinter den Tennisanlagen in Schiefbahn. Mitbegründer des Vereins waren der frühere Gemeindedirektor und Förderer Herr Spätgens, sowie Herr Scharfenberg und Herr Morsnowski, welcher bis 1980 auf 30- jährige Erfahrung als Ausbilder und Schutzdiensthelfer zurückblicken konnte. Als erster Vorsitzender wurde Heinrich Stangenberg gewählt. Josef Thelen übernahm das Amt des Geschäftsführers.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "In diese Richtung kann man auch mit dem Fahrrad auf einem Dirt Park fahren"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Ich habe gehört dass Hunde und Tennisbälle sich gut vertragen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2386479,
+        "lng": 6.5332322,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "126",
+    "file": "126. Mast.jpg",
+    "title": "Mast",
+    "lat": 51.2410643,
+    "lng": 6.5336815,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Wir sehen hier einen Beleuchtungsmast auf einem Parkplatz"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Von hier aus kann man ein Blaues E auf gelbem Grund sehen. Darunter ist eine Banderole mit grünen Äpfeln"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2420336,
+        "lng": 6.5351766,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "127",
+    "file": "127. Zeichnung.jpg",
+    "title": "Zeichnung",
+    "lat": 51.2422575,
+    "lng": 6.5336373,
+    "description": "Bei diesem Schild handelt es sich um die Information zum \"Umbau und Erweiterung Begegnugsstätte Schiefbahn\".",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das Schild ist an einem Öffentlichen Gebäude montiert"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Unter anderem kann man hier seinen Pass erneuern"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2417966,
+        "lng": 6.5316147,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "128",
+    "file": "128. Falken.jpg",
+    "title": "Falken",
+    "lat": 51.2427891,
+    "lng": 6.5317499,
+    "description": "Der Falke gehört zur Biermarke Frankenheim Alt.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Falke gehört zur Brauerei Frankenheim"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "In der Nähe gibt es öfters mal Blaulicht und man kann in einer Grünanlage entspannen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2420356,
+        "lng": 6.5335343,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "129",
+    "file": "129. Haus.jpg",
+    "title": "Haus",
+    "lat": 51.2449666,
+    "lng": 6.5432407,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das Haus befindet sich Nordöstlich der Kirche"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Von dem Haus aus kann man die Fernwärmestation der Stadt Willich sehen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2456606,
+        "lng": 6.5413956,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "130",
+    "file": "130. Garagentor.jpg",
+    "title": "Garagentor",
+    "lat": 51.2394268,
+    "lng": 6.5389042,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hier kommen öfters mehrere Menschen in schwarzen Anzügen und nicht so guter Stimmung vorbei"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Auf der anderen Seite gibt es eine schöne Grünanlage, die aber nicht zum feiern einlädt"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2384254,
+        "lng": 6.537464,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "131",
+    "file": "131. Telekomkasten.jpg",
+    "title": "Telekomkasten",
+    "lat": 51.2436833,
+    "lng": 6.539795,
+    "description": "Was ein Kfz ist, weiß jeder. Aber was ist ein Kvz? Das Kürzel steht für „Kabelverzweiger“, für die grauen Kästen, die überall am Straßenrand stehen – und das schon seit Jahrzehnten. Denn der Kabelverzweiger ist ein echter Klassiker, viele Exemplare wurden bereits 1982 aufgestellt. Deshalb lässt sich auf den Kästen häufig auch die Aufschrift „Kvz 82“ entdecken, die für das Jahr der Zulassung steht. Aber was hat der Kasten auf dem Kasten? Nun, ohne ihn könnten Millionen von Telekom-Kunden weder telefonieren noch im Internet surfen. Denn der Kabelverzweiger bringt die Telefon- und Internetsignale aus der Vermittlungsstelle in die Haushalte. Diese Signale kommen mit einem dicken Kupferkabel am Kasten an – und werden im Inneren so verzweigt und geschaltet, dass für jeden Kunden genau zwei Adern übrigbleiben, die dann in deutlich kleineren Kabeln in die Häuser geführt werden und dort weiter in die einzelnen Wohnungen.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieser Kasten steht an einer Bedarfsampel"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Gegenüber kann man Fortbewegungsmittel mit Luft auffüllen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2449574,
+        "lng": 6.5390942,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "132",
+    "file": "132. Bürgerbus.jpg",
+    "title": "Bürgerbus",
+    "lat": 51.2452157,
+    "lng": 6.5432348,
+    "description": "Lange hatte es gedauert: Aber im Jahre 2018 war es dann soweit: Durch aktive Zusammenarbeit und Initiativen von Heimatverein, Quartiersentwicklung Schiefbahn und der Politik konnte der Heimatverein zur Gründungsversammlung unseres Bürgerbusvereins Schiefbahn e.V. am 16. Mai 2018 einladen. Unser Bürgerbus in Schiefbahn ist normaler Linienverkehr auf einer konzessionierten Linie mit Fahrplan, Haltestellen und einem genehmigten Tarif. Wir dürfen dem konventionellen Linienverkehr keine Konkurrenz machen, daher beschränkt sich das Einsatzgebiet auf Bereiche und Zeiten, in denen ein Linienverkehr nach den üblichen Maßstäben wirtschaftlich nicht tragfähig wäre. Und Schiefbahn als Flächendorf hat mit den Bereichen Niederheide, Knickelsdorf, Königsheide, Unterbruch usw. weit von den Hauptbuslinien entfernte Bereiche. Die SWK sichert die verkehrsrechtliche und die technische Seite ab. Die finanzielle Seite des sachlichen Betriebes wird vom Land NRW und auch von der Stadt Willich, also auch mit Steuergeldern unserer Stadt, finanziert. Unser Bürgerbus wird von ehrenamtlich tätigen Fahrerinnen und Fahrern betrieben, die aus der Mitte der Stadt, der Mitte des Dorfes kommen. Und sie brauchen für diese Tätigkeit keinen Busführerschein. Aber man benötigt dazu eine Fahrerlaubnis zur Fahrgastbeförderung (Personenbeförderungsschein – P-schein), der für 5 Jahre ausgestellt und dann jeweils für weitere 5 Jahre verlängert werden muss. Und gewisse gesundheitliche Übrprüfungen sind natürlich auch normal. Neben den fachlichen und sachlichen Dingen ist uns als Bürgerbusverein eine Sache besonders wichtig: der persönliche Kontakt zu den Fahrgästen, das kleine Gespräch am Rande. Wir wollen das gesellschaftliche Zusammenleben weiter unterstützen und fördern.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Abgesehen vom Fernmeldeturm ist das Gebäude wahrscheinlich das höchste im Osten von Schiefbahn"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Folgt man der Straße rechts, trennt einen nur noch die Lärmschutzwand von der Landstraße"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2443861,
+        "lng": 6.544931,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "133",
+    "file": "133. Hausnummer 1.jpg",
+    "title": "Hausnummer 1",
+    "lat": 51.2426407,
+    "lng": 6.5388482,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Straßenname ist zwar Hoch, jedoch ist dies die Nummer 1"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Würde das linke Haus nicht stehen, könnte man wahrscheinlich auf einen Brunnen schauen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2426172,
+        "lng": 6.5410003,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "134",
+    "file": "134. Straße.jpg",
+    "title": "Straße",
+    "lat": 51.2467695,
+    "lng": 6.5412585,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Nach 250 m schon der zweite Kreisverkehr..."
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Die Straße hinunter gibt es eine Tankstelle"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2465124,
+        "lng": 6.5433716,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "135",
+    "file": "135. Sonne.jpg",
+    "title": "Sonne",
+    "lat": 51.2401873,
+    "lng": 6.5341933,
+    "description": "Die Sonne gehört zum ASB (Arbeiter-Samariter-Bund). In dem Gebäude war zwischenzeitlich auch mal eine Postfiliale.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hoffentlich reicht die Sonne bis zum Sportplatz nebenan"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Im Seniorenheim in der Nähe werden ungefähr die gleichen Arbeiten verrichtet"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2410169,
+        "lng": 6.5324973,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "136",
+    "file": "136 Geldautomat.jpg",
+    "title": "Geldautomat",
+    "lat": 51.2418514,
+    "lng": 6.5331996,
+    "description": "Da die Volksbank Filiale in Schiefbahn zum 01.07.25 geschlossen wurde, hat man auf dem Parkplatz einen Geldautomaten aufgestellt. Die Filiale war auf der Hochstraße 52, links neben der Sparkasse.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hier kann man gut Parken und kann noch viel Bürokratisches erledigen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Rechts davon kann man sein Geld in Lebensmittel umwandeln"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2418514,
+        "lng": 6.5310472,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "137",
+    "file": "137. Tiefgarage.jpg",
+    "title": "Tiefgarage",
+    "lat": 51.24288,
+    "lng": 6.5402989,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Von der ersten Etage auf der Rückseite sieht man eine Muschel"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Diese Muschel ist gelb mit rotem Rand und hat eher etwas mit Fortbewegung zu tun"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.243816,
+        "lng": 6.5387506,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "138",
+    "file": "138. Poller.jpg",
+    "title": "Poller",
+    "lat": 51.2452538,
+    "lng": 6.5393507,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Wir befinden uns nördlich der nördlichsten Grundschule Schiefbahns"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Links kann man durch einen Park gehen oder auch Fußballspielen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.244301,
+        "lng": 6.5378286,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "139",
+    "file": "139. Camping verboten.jpg",
+    "title": "Camping verboten",
+    "lat": 51.2416072,
+    "lng": 6.5309247,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieses Schild steht rund um den großen Parkplatz"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Auf dem Parkplatz befindet sich auch ein Spielplatz"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2428382,
+        "lng": 6.5300493,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "140",
+    "file": "140. Grün.jpg",
+    "title": "Grün",
+    "lat": 51.2420045,
+    "lng": 6.5420685,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Rechts geht es zu einem Spielplatz der an einer Landstraße liegt"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Geradeaus landet man an einer Kreuzung die zur Kirche oder nach Willich führt"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.241478,
+        "lng": 6.5440498,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "141",
+    "file": "141. Schlafwandler.jpg",
+    "title": "Schlafwandler",
+    "lat": 51.2445139,
+    "lng": 6.5320092,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Im Winter sieht die Straße sehr schön aus"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Geradeaus kann man schön im Park sitzen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2457036,
+        "lng": 6.5330197,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "142",
+    "file": "142. Haus.jpg",
+    "title": "Haus",
+    "lat": 51.2451566,
+    "lng": 6.5429724,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Von oben kann man über ganz Schiefbahn gucken"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Wir befinden uns hier am wahrscheinlich höchsten Haus im Osten von Schiefbahn"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2448764,
+        "lng": 6.5408669,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "143",
+    "file": "143. Tür.jpg",
+    "title": "Tür",
+    "lat": 51.2425383,
+    "lng": 6.5327306,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das hier ist ein Eingangsbereich der direkt an der Straße eines Wohnhaus liegt"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Diese Tür steht irgendwo zwischen Kirche und Kurt-Schumacher-Park"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2438512,
+        "lng": 6.5322464,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "144",
+    "file": "144. Parkplatz.jpg",
+    "title": "Parkplatz",
+    "lat": 51.2441969,
+    "lng": 6.5287324,
+    "description": "1963 beschloss der Gemeinderat auf Vorschlag einer Sonderkomission, dass im Neubaugebiet Diepenborich ein Dichterviertel entstehen soll. Die Haupterschließungsstraße in diesem Viertel wurde nach dem Dichter, Zeichner und Humoristen Wilhelm Busch (1832-1908) beannt.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Die Parkplätze sind hier sehr begrenzt, obwohl ein Städtisches Gebäude gegenüber liegt."
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Das Städtische Gebäude wird in den Ferien so gut wie nicht benutzt"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2449109,
+        "lng": 6.526907,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "145",
+    "file": "145. Stadwerke.jpg",
+    "title": "Stadwerke",
+    "lat": 51.2460758,
+    "lng": 6.543943,
+    "description": "Hier drin befindet sich die Fernwärmestation der Stadwerke Willich.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Ein Neubaugebiet das mit Fernwärme heizt. Ist das die Zukunft?"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Ein Stück dahinter ist eine Schallschutzmauer zur Landstraße"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2472185,
+        "lng": 6.5428023,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "146",
+    "file": "146. Garage.jpg",
+    "title": "Garage",
+    "lat": 51.2410067,
+    "lng": 6.5296112,
+    "description": "1936 bestand in der Gemeinde Schiefbahn Wohnungsnot. Gustav Geldbach, der in diesem Jahr zum Bürgermeister bestimmt orden war. hatte die Idee. im Schiefbahner Bruch Wohnraum zu schaffen. Jedem Siedler, der bereit war, dort zu siedeln. sollte ein Grundstück in der Große von 800 gm zugebilligt werden, wobei der Kaufpreis 0,45 Reichsmark je qm, insgesamt also 360,00 RM betrug. Die monatliche Belastung sollte 25,00 RM nicht überschreiten. Außerdem sollte jedem Siedler ein Schwein, eine Ziege, Kaninchen und Hühner gestellt werden. dazu Garten- geräte und Dünger. Die Wohnung umfaßte fünf Räume, einen Keller und einen angebauten Stall. Die Nachfrage, vor allem bei ärmeren und kinderreichen Familien, war groß. Im Sommer 1937 wurde mit dem Bau der Siedlungshäuser begonnen, im Oktober des gleichen Jahres waren die ersten Hauser im Rohbau fertig. Im Juli 1938 waren fast alle vierzig Familien in ihre neuen Heime eingezogen. Die feierliche Einweihung der \"\"Volkssiedlung\" war am 30./31. Juli 1938.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Am Wochenende kann man hier manchmal Fußballspiele hören"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Wenn Schützenfest ist sogar die Kirmes"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2398517,
+        "lng": 6.5285027,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "147",
+    "file": "147. Häuser.jpg",
+    "title": "Häuser",
+    "lat": 51.2423629,
+    "lng": 6.5277867,
+    "description": "Hier sehen wir die Gärten der Hochstraße.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Die Häuser stehen an einer Straße die nach Neersen führt"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Von hier aus rechts fahren manchmal rote Fahrzeuge mit blauem Licht"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2436209,
+        "lng": 6.5270153,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "148",
+    "file": "148. Turm.jpg",
+    "title": "Turm",
+    "lat": 51.2418716,
+    "lng": 6.5397412,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Ein Leuchtturm in Schiefbahn?"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Man sieht hier auch öfters Menschen mit Rollstühlen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2420591,
+        "lng": 6.5376098,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "149",
+    "file": "149. Haustür.jpg",
+    "title": "Haustür",
+    "lat": 51.2414175,
+    "lng": 6.5372408,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das Haus gehört nicht zu einer Glaubens- oder Städtischen Einrichtung"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Die Kirche ist aber um die Ecke"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2402506,
+        "lng": 6.5361646,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "150",
+    "file": "150. Haus.jpg",
+    "title": "Haus",
+    "lat": 51.2426797,
+    "lng": 6.5323411,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Gegenüber führt eine Straße mit dem letzten Buchstaben im Alphabet"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Wir sind westlich der Kirche aber östlich des Kurt-Schumacher-Parks"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2439009,
+        "lng": 6.5314314,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "151",
+    "file": "151.Franziskanerjpg.jpg",
+    "title": "Franziskaner",
+    "lat": 51.2471583,
+    "lng": 6.5302048,
+    "description": "Die Wurzeln der Franziskaner Brauerei lassen sich bis 1363 zurückverfolgen. In diesem Jahr wird erstmals die „Bräustatt bey den Franziskanern“ in der Nähe der Residenz in München genannt. Der Name ist auf das Franziskaner-Kloster zurückzuführen, das schräg gegenüber lag und mit dem wohl immer reger Austausch stattfand.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Im Norden von Schiefbahn gibt es nicht nur Bier"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Sondern auch Pferde, Schweine und viele andere Tiere"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2459003,
+        "lng": 6.5309762,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "152",
+    "file": "152. Häuse.jpg",
+    "title": "Häuser",
+    "lat": 51.2467814,
+    "lng": 6.5427928,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Sieht nach einem Dreieck aus. Das Schiefbahner Dreieck?"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Links befindet sich ein Kindergarten"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2475734,
+        "lng": 6.5445343,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "153",
+    "file": "153. Moai.jpg",
+    "title": "Moai",
+    "lat": 51.2424032,
+    "lng": 6.5270371,
+    "description": "Die Figuren auf der Osterinsel heißen Moai.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Diese Statue befindet sich auf der gleichen Straße wie der Zugang zu einem Parkplatz eines Lebensmittelladens"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Eine Straße hinter dem Fotografen geht es Richtung Neersen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2436694,
+        "lng": 6.5277733,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "154",
+    "file": "154. Plakate.jpg",
+    "title": "Plakate",
+    "lat": 51.2430866,
+    "lng": 6.5297753,
+    "description": "Die Wand gehört zum Blumengeschäft \"Blumen Winkelhag\".",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Blumenladen war mal direkt neben dem Friedhof. Jetzt ist dort etwas anderes"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Wir befinden uns schon auf der Straße die Richtung Viersen führt"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2418373,
+        "lng": 6.5305816,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "155",
+    "file": "155. Haus.jpg",
+    "title": "Haus",
+    "lat": 51.2400211,
+    "lng": 6.53557,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Spielplatz befindet sich auf einer Spielstraße mit zwei Wendehammer"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Von einem dieser Wendehammer gelangt man über einen Zebrastreifen zu einem Lebensmittelladen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.239473,
+        "lng": 6.5375362,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "156",
+    "file": "156. Spiegel.jpg",
+    "title": "Spiegel",
+    "lat": 51.2427946,
+    "lng": 6.541044,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Östlich der Kirche zeigt ein Spiegel eine Straße Richtung Willich"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Diese Straße führt einmal vom Ortsausgang, an der Kirche vorbei bis zum Gymnasium und wechselt dabei zweimal ihren Namen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2438564,
+        "lng": 6.5397188,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "157",
+    "file": "157. Balkone.jpg",
+    "title": "Balkon",
+    "lat": 51.2389503,
+    "lng": 6.5337466,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Die Balkonen sehen aus, als könnten Sie zu einer Residenz gehören"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Im Winter kann man von oben auch Fußball gucken"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2387861,
+        "lng": 6.5316104,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "158",
+    "file": "158. Schild.jpg",
+    "title": "Schild",
+    "lat": 51.2461179,
+    "lng": 6.5441512,
+    "description": "Im Hintergrund ist die Schallschutzmauer zu sehen, die die Häuser von der Korschenbroicher Straße vor Lärm schützen soll.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hier darf nicht an einer Lärmschutzwand geklettert werden"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Folgt man der Lärmschutzwand links Endet man an einem Kindergarten"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2467916,
+        "lng": 6.5460154,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "159",
+    "file": "159. Haus.jpg",
+    "title": "Haus",
+    "lat": 51.2416603,
+    "lng": 6.5402155,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieses Haus steht an einer Kreuzung, die zum Eingang des Friedhofs führt"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Von der Kreuzung aus kommt man auch direkt zum Altenheim"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2424523,
+        "lng": 6.5419568,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "160",
+    "file": "160. Haus.jpg",
+    "title": "Haus",
+    "lat": 51.2422939,
+    "lng": 6.5370308,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Gegenüber sieht man immer wieder Brautpaare aus dem Gebäude kommen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Außerdem sind gegenüber drei Leute. Nennen sich wohl Dorfgespräch"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2410124,
+        "lng": 6.5376959,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "161",
+    "file": "161. Balkon.jpg",
+    "title": "Balkon",
+    "lat": 51.2426853,
+    "lng": 6.5416813,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Von den Balkonen kann man die höchsten Wohnhäuser im Osten von Schiefbahn sehen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Unten sieht man eher Busse aus Willich Richtung Ortsmitte kommen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2440309,
+        "lng": 6.5417939,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "162",
+    "file": "162. Grünes Haus.jpg",
+    "title": "Grünes Haus",
+    "lat": 51.242019,
+    "lng": 6.5293855,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hier fahren viele Entlang, da die Parallelstraße für Autos durch Poller blockiert ist"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Wenn ein Alarm geht hören dieses Häuser die Fahrzeuge immer"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2431975,
+        "lng": 6.528342,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "163",
+    "file": "163. Zeichen.jpg",
+    "title": "Zeichen",
+    "lat": 51.23608,
+    "lng": 6.5329701,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Teile der Werkzeuge wurden bestimmt auch für die Autobahnbrücke benutzt"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Wenn nicht, dann für die Überführung der Cloer"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.235232,
+        "lng": 6.5312976,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "164",
+    "file": "164. Kasse.jpg",
+    "title": "Kasse",
+    "lat": 51.2397527,
+    "lng": 6.5306683,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Die Mannschaftskasse der Vereine wird hier aufgebessert"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Im dunklen leuchtet das Flutlicht"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2410107,
+        "lng": 6.529897,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "165",
+    "file": "165. Kies.jpg",
+    "title": "Kies",
+    "lat": 51.2406795,
+    "lng": 6.5361396,
+    "description": "Die „Alte Pastoratstraße“ gehört zu den ältesten Straßen im historischen Ortskern des Flecken Schiefbahn. Obwohl das Pastorat schon sehr früh urkundlich (1594) erwähnt wird, steht bis heute nicht fest, wo das alte Pastorat lag. 1682 musste Pfarrer Hagen das Pastorat ausbessern lassen, da ihm die Gemeinde keine Mittel zur Errichtung eines neuen Pfarrhauses bewilligen wollte. 1830 wurde dann das Pastorat in der Pastoratstraße von Matthias Grein gebaut. Da in den Flurkarten der Regierung in Düsseldorf 1812 die Pastoratstraße verzeichnet ist, ist davon auszugehen, dass das alte Pastorat ebenfalls in der Alten Pastoratstraße gestanden hat. Hier war das Pastorat bis 1913 untergebracht. Heute befindet sich dort die Gärtnerei Gerkhausen. 1939 wurde die Pastoratstraße durch die Nationalsozialisten in „En de Hött“ umbenannt. 1945, nach Kriegsende, bekam sie wieder ihren alten Namen zurück.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Obwohl die Straße \"Alt\" im Namen hat sieht sie sehr gut aus"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Links geht es zu einem Schwenkbrunnen und der Kirche"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2416155,
+        "lng": 6.5376879,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "166",
+    "file": "166. Glasfaser.jpg",
+    "title": "Glasfaser",
+    "lat": 51.2415121,
+    "lng": 6.5317095,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Links von dem Kasten ist eine große Wiese"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Hinter dem Fotografen ist ein Spielplatz und ein großer Parkplatz"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2428587,
+        "lng": 6.5317846,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "167",
+    "file": "167. Hochhaus.jpg",
+    "title": "Hochhaus",
+    "lat": 51.2446063,
+    "lng": 6.5287163,
+    "description": "1963 beschloss der Gemeinderat auf Vorschlag einer Sonderkomission, dass im Neubaugebiet Diepenborich ein Dichterviertel entstehen soll. Die Haupterschließungsstraße in diesem Viertel wurde nach dem Dichter, Zeichner und Humoristen Wilhelm Busch (1832-1908) beannt.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Von den Balkonen kann man einen Grundschule sehen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Hier stehen wahrscheinlich die höchsten Häuser westlich der Kirche"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2457732,
+        "lng": 6.52764,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "168",
+    "file": "168. Eingang mit Efeu.jpg",
+    "title": "Eingang mit Efeu",
+    "lat": 51.2410344,
+    "lng": 6.535098,
+    "description": "Die Gattung Efeu (botanisch Hedera) umfasst zwischen sieben und 17 Arten. Sie zählt zu den Araliengewächsen (botanisch Araliaceae). Der Gewöhnliche Efeu (botanisch Hedera helix) ist die einzige in Europa heimische und immergrüne Art innerhalb dieser Gattung. Efeu entwickelt sich mit der richtigen Pflege zu einem treuen Begleiter. Er bildet wunderschöne Grüntöne und ziert Gärten und Innenräume.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Links hiervon kann man den Parkplatz eines Lebensmittelladens sehen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Links am Efeu steht ein Verkehrsschild welches nach Viersen/ Neersen und nach Willich/Ortsmitte zeigt"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2421645,
+        "lng": 6.5362703,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "169",
+    "file": "169. Mülltonnen.jpg",
+    "title": "Mülltonnen",
+    "lat": 51.2439133,
+    "lng": 6.5286013,
+    "description": "1963 beschloss der Gemeinderat auf Vorschlag einer Sonderkomission, dass im Neubaugebiet Diepenborich ein Dichterviertel entstehen soll. Die Haupterschließungsstraße in diesem Viertel wurde nach dem Dichter, Zeichner und Humoristen Wilhelm Busch (1832-1908) beannt.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Die Mülltonnen können auf eine Grundschule gucken"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Rechts stehen große Wohnhäuser. Eventuell die größten westlich der Kirche"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2425824,
+        "lng": 6.528938,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "170",
+    "file": "170. Rote Garage.jpg",
+    "title": "Rote Garage",
+    "lat": 51.24483,
+    "lng": 6.5321502,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Im Winter ist die Straße besonders gut beleuchtet"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Um die Garage zu finden muss man in die Stichstraße weit rein gehen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2452464,
+        "lng": 6.5341974,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "171",
+    "file": "171. Huhn.jpg",
+    "title": "Huhn",
+    "lat": 51.2431224,
+    "lng": 6.53645,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das Huhn sieht manchmal Menschen die ein neues Fahrrad austesten"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "An der Kreuzung in der Nähe kann man nach links zur Grundschule und rechts zur Kirche"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2418409,
+        "lng": 6.5371151,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "172",
+    "file": "172. Sportplatz.jpg",
+    "title": "Sportplatz",
+    "lat": 51.2399932,
+    "lng": 6.5342734,
+    "description": "Der Sportplatz in Schiefbahn verfügt über einen Fußballplatz mit Naturrasen, Kunstrasen und eine Laufbahn, sowie Weitsprunganlage. Außerdem gibt es noch einen kleinen Platz zum Fußballspielen.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Von Mönchengladbach oder Kaarst aus kommend kann man sich nicht verfahren"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Fährt man etwas weiter ist auf der linken Seite ein Lebensmittelladen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2409292,
+        "lng": 6.5358216,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "173",
+    "file": "173. Haus.jpg",
+    "title": "Haus",
+    "lat": 51.245213,
+    "lng": 6.5374857,
+    "description": "Das erste Schulgebäude wurde am 01.04.1912 eingeweiht. Immer mehr Kinder in Schiefbahn und das große Interesse an der Hubertusschule sorgten dafür, dass in den 50er und dann in den 90er Jahren noch zwei weitere Schulgebäude folgten. Heute verfügt die Schule über ein Lehrerzimmer, 8 Klassenräume, einen Mehrzweckraum, eine Schulbücherei und eine Turnhalle.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Die Treppe gehört zu einer Schule"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Wir befinden uns hier hinter der Schule"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.243895,
+        "lng": 6.5370382,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "174",
+    "file": "174. Steuerrad.jpg",
+    "title": "Steuerrad",
+    "lat": 51.2414556,
+    "lng": 6.5313752,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Mit dem Steuerrad ist man der größte auf dem Spielplatz"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Hier ist auch der größte Parkplatz in Schiefbahn"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.24011,
+        "lng": 6.5312626,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "175",
+    "file": "175. Haus.jpg",
+    "title": "Haus",
+    "lat": 51.2428663,
+    "lng": 6.5326085,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Dieses Haus steht an einer Straße beginnend mit dem letzten Buchstaben des Alphabets"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Wir befinden uns nördlich der Hochstraße"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2416353,
+        "lng": 6.533484,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "176",
+    "file": "176. Vereinslokal.jpg",
+    "title": "Vereinslokal",
+    "lat": 51.2410998,
+    "lng": 6.5364456,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Viele Vereine haben ihr Schild an dem Gebäude"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Hier kann man draußen und innen Essen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2404672,
+        "lng": 6.538346,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "177",
+    "file": "177. Lampe.jpg",
+    "title": "Lampe",
+    "lat": 51.2427669,
+    "lng": 6.5318752,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Links von der Lampe kann man essen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Rechts kann man Fahrrad und Klamotten kaufen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.242284,
+        "lng": 6.5338847,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "178",
+    "file": "178. Rhododendron.jpg",
+    "title": "Rhododendron",
+    "lat": 51.2431553,
+    "lng": 6.5433134,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hinter dem Fotografen kommt man zu einem Spielplatz und endet an einer Bedarfsampel"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Geradeaus endet man an einer Lärmschutzwand"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2441081,
+        "lng": 6.5417914,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "179",
+    "file": "179. Fürstenberg.jpg",
+    "title": "Fürstenberg",
+    "lat": 51.2473356,
+    "lng": 6.5301006,
+    "description": "Im 13. Jahrhundert- zur Zeit der Kreuzzüge, Marco Polos Reise nach China und der Gründung der eidgenössischen Schweiz- schlägt die Geburtsstunde von Fürstenberg. Am 18. Januar 1283 erhält Graf Heinrich 1. von Fürstenberg von König Rudolf 1. von Habsburg die Landgrafenrechte und die Landgrafschaft Baar mit Tunoeschingen- dem heutigen Donaueschingen- als Lehen. Damit verbunden ist unter anderem auch das Recht, Bier zu brauen, Brau- und Schankkonzession zu vergeben, das gesamte Schankwesen zu reglementieren und Steuern sowie Abgaben darauf zu erheben.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Hier kommt immer mal wieder ein Pferd mit Kutsche vorbei"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Nicht nur Pferde, sondern auch Schweine und sogar Kängurus nennt den Ort ihr zuhause"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2468091,
+        "lng": 6.5281191,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "180",
+    "file": "180. Einfahrt.jpg",
+    "title": "Einfahrt",
+    "lat": 51.2406892,
+    "lng": 6.5347881,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Fährt man aus der Einfahrt sieht man einen Parkplatz von einem Lebensmittelladen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Rechts von dem Bild gibt es 50 m entfernt einen Zebarsteifen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2417061,
+        "lng": 6.533376,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "181",
+    "file": "181. Gänsejunge.jpg",
+    "title": "Gänsejunge",
+    "lat": 51.2427986,
+    "lng": 6.5418098,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Gänsejunge befindet sich im Osten von Schiefbahn"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Wir befinden uns nördlich der Tupsheide"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2439413,
+        "lng": 6.5429504,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "182",
+    "file": "182. Schilder.jpg",
+    "title": "Schilder",
+    "lat": 51.2433169,
+    "lng": 6.5283928,
+    "description": "Dies ist ein Fahrradknotenpunkt Schild. Das Schild weißt auf den Fahrradknotenpunkt 72 hin. Dieser steht an der Ecke Hochstraße Linsellesstraße.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Im Rücken kommen wir zu einer Grundschule"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Nach rechts geht es zu einer weiterführender Schule"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2420589,
+        "lng": 6.5276214,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "183",
+    "file": "183. Fahrrad.jpg",
+    "title": "Fahrrad",
+    "lat": 51.2428408,
+    "lng": 6.5320738,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das Fahrrad liegt etwas zurück und befindet sich nördlich der Hochstraße"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Bis zum Kurt-Schumacher-Park muss man fast"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2414952,
+        "lng": 6.5319612,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "184",
+    "file": "184. Kapelle.jpg",
+    "title": "Wegkreuz",
+    "lat": 51.2470501,
+    "lng": 6.5304843,
+    "description": "Das bereits vor 1850 geschichtlich genannte Wegekreuz im Diepenbroich in Schiefbahn wurde in der Corona-Zeit durch Vandalismus zerstört. Eine Gruppe von Nachbarn und Geschichtsfreunden sicherte seinerzeit als „Interessen-Gemeinschaft Wegekreuz Diepeshof“ das, was noch zu retten war. Das eineinahalb Meter hohe Holzkreuz war abgebrochen, dem wertvollen, aus dem 18. Jahrhundert stammenden Christus-Corpus aus weißem Porzellan war der der rechte Arm vollständig zerbrochen. Von einer Fachschreinerei wurde anhand der Vorlage des gebrochenen Holzkreuzes ein neues Holzkreuz aus Eichenholz gefertigt. Nach langer Suche und Einsatz von kompetenten Restauratoren konnte über ein aufwendiges 3D-Restaurationsverfahren der rechte Arm des Christus-Corpus wieder hergestellt werden. In vielen Stunden monatelanger, Kleinarbeit und mit einem enormen finanziellen Aufwand haben die Familie, Nachbarn und Freunde des Diepeshofs in ehrenamtlichem Einsatz die Restauration des mehr als 170 Jahren bestehenden Wegekreuzes durchgeführt und wieder hergestellt. Urkundlich wurde der Diepeshof bereits 1381 erwähnt. Der Segen am Wegekreuz Diepeshof wurde von Jakob Germes im Buch „Die Geschichte Schiefbahns“ bereits vor 1850 auch als Fußfall am Diepeshof beschrieben. Bereits vor Mitte des 19. Jahrhunderts zählte das Wegekreuz am Diepeshof als Station der Prozession am Passionssonntag, der „Römerfahrt“ der Pfarrgemeinde St. Hubertus und zu den sieben Fußfällen rund um Schiefbahn. Bis in die 1970er-Jahre führten jeweils ab 6.15 Uhr, an drei Tagen der Woche vor Christi Himmelfahrt, die Bittprozessionen zum „Segen der Früchte, der Erde und der menschlichen Arbeit“ und um gedeihliche Witterung durch Felder und Flur zum Diepeshofkreuz, zum Gerritzfeldkreuz, zum Hellenbroicherfeldkreuz, Gatherhofkreuz und zum Wegekreuz am Bertzweg /Ecke Römerstraße. Um die Erinnerungsstätte der Schiefbahner Kultur- und Kirchengeschichte wieder herzustellen und zu beleben, wurde nach der Zerstörung des Wegekreuzes durch Vandalismus von der Familie, den Nachbarn und den Freunden des Diepeshofs das Wegekreuz in Erinnerung gerufen und als Kleinod im Diepenbroich in Schiefbahn wieder hergestellt. Die zur Wiederherstellung des kulturhistorischen Wegekreuzes am Diepeshof gegründete „Interessengemeinschaft Wegekreuz am Diepeshof“ besteht aus 16 Personen, die sich mit „Muskelhypothek“ und einem erheblichen Finanzaufwand in Höhe von 2 400 Euro zur Restauration und Wiederherstellung einbrachten. Am Tag „Maria Lichtmess“, am heutigen Sonntag, 2. Februar, 15 Uhr, wird an der Wegegabelung der Hofzufahrt zum Diepeshof und dem „Plattespatt“ das Wegekreuz am Diepeshof in einer Feierstunde durch Pastor Heinz Herpers, mit den Familien der Interessengemeinschaft und zahlreichen der Heimatgeschichte verbundenen Bürgern wieder eingeweiht und gesegnet.",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das Kreuz hat sehr oft Pferde in der Nähe"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Viele Fahrradfahrer fahren vorbei, wenn Sie nach Wekeln wollen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2483316,
+        "lng": 6.5311495,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "185",
+    "file": "185. Lukas.jpg",
+    "title": "Lukas",
+    "lat": 51.2406486,
+    "lng": 6.5276692,
+    "description": "Die Figur zeigt Lukas den Lokomotivführer",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Ob Lukas auch von hier aus Gänse sieht? Man könnte es meinen"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Er hört auf jeden Fall immer mal wieder Fußballspieler"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2400579,
+        "lng": 6.5296037,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "186",
+    "file": "186. Seemann.jpg",
+    "title": "Seemann",
+    "lat": 51.2383218,
+    "lng": 6.5384075,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Der Garten des Seemanns grenzt an einen Friedhof"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Rechts von dem Seemann geht es zu einem P+R Parkplatz"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2379054,
+        "lng": 6.5404544,
+        "radius": 250
+      }
+    ]
+  },
+  {
+    "id": "187",
+    "file": "187. Im alten Schiefbahn.jpg",
+    "title": "Im alten Schiefbahn",
+    "lat": 51.2414901,
+    "lng": 6.5373121,
+    "description": "",
+    "tips": [
+      {
+        "id": "hinweis1",
+        "label": "Tipp 1",
+        "typ": "text",
+        "preis": 50,
+        "text": "Das alte Schiefbahn beschreibt vermutlich die Zentrale Lage"
+      },
+      {
+        "id": "hinweis2",
+        "label": "Tipp 2 (genauer)",
+        "typ": "text",
+        "preis": 100,
+        "text": "Um Parkplätze müssen die Besucher des Hauses sich selten Gedanken machen"
+      },
+      {
+        "id": "gebiet",
+        "label": "Grobes Gebiet zeigen (teuer)",
+        "typ": "gebiet",
+        "preis": 300,
+        "lat": 51.2424756,
+        "lng": 6.5358442,
+        "radius": 250
+      }
+    ]
+  }
+]

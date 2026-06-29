@@ -1,0 +1,1892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Fotorallye</name>
+    <description><![CDATA[Die Fotorallye beinhaltet Fotos von Schiefbahn, die die Gruppen erraten müssen. Dabei gibt es das<br>Fotoset zweimal ausgedruckt und laminiert im Leuchtturm.]]></description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Aktuell</name>
+      <Placemark>
+        <name>1. Federgerät Helikopter</name>
+        <description><![CDATA[Bis 2025 stand hier noch ein grüner Drache.<br>Der Drache, sowie das Kleeblatt durften sich Lars, Swen und Jens Tissen damals bei einem Mitarbeiter der Stadt wünschen. Dies kam zustande, da der Mitarbeiter am gleichen Tag vorbei kam, als die Kinder Geburtstag hatten. Somit wurde der Katalog aufgeschlagen und sich auf zwei Federgeräte geeinigt. Der Spielplatz an der Schnorrenbergstraße wurde ca. 1990 eröffnet. Auf einer Fläche von 763 m² verfügt er über eine Spielkombi, Doppelschaukel, Karussell, Bodentrampolin, Bank-Tisch-Kombination, Federgerät Hubschrauber, Federgerät Kleeblatt und eine Sitzbank.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5354259,51.240005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2. Steigerturm
+</name>
+        <description><![CDATA[Der Steigerturm wird heute immer noch 2-3 mal im Jahr genutzt. Dabei wird das aufsteigen von außen mit Hilfe einer Hakenleiter geübt. <br><br>Planung und Bauleitung lagen in der Hand des Schiefbahner Architekten Wolfgang Samland, als man im Jahre 1962 mit dem Bau begann. Das moderne und allen Erfordernissen entsprechende neue Gerätehaus besteht aus einem zweigeschossigen Hauptbaukörper, der im Erdgeschoß zwei Wagenhallen, eine Werkstatt sowie Toiletten- und Waschanlagen, im Obergeschoss einen Versammlungsraum, eine Kleiderkammer und eine Wohnung für den Gerätewart enthält. Angegliedert sind ein eingeschossiger Baukörper mit zwei Wagenhallen und ein Steigerturm.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5301305,51.2421345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4. Orange/Grünes Haus</name>
+        <description>Von 1822 bis 1990 war die Bäckerei Tissen in der Schwanenheide 4 zu finden. Sie war immer im Familienbesitz.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5342477,51.2430046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5. Familienumriss auf Wand</name>
+        <description>Edeka Keil wurde am 6. Dezember 2011 eröffnet und hat eine Verkaufsfläche von 1500 qm.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5339603,51.2415454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6. Spielplatz Schule</name>
+        <description>Das erste Schulgebäude wurde am 01.04.1912 eingeweiht. Immer mehr Kinder in Schiefbahn und das große Interesse an der Hubertusschule sorgten dafür, dass in den 50er und dann in den 90er Jahren noch zwei weitere Schulgebäude folgten. Heute verfügt die Schule über ein Lehrerzimmer, 8 Klassenräume, einen Mehrzweckraum, eine Schulbücherei und eine Turnhalle.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.536708,51.2450571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7. Döner Imbiss</name>
+        <description>Die weiße Verzierung, über dem Eingang, zeigt eine Frau.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5344865,51.2424396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8. St. Hubertus Mosaik</name>
+        <description><![CDATA[Geboren wurde er um das Jahr 655. Der Sage nach erschien ihm bei der Jagd ein Hirsch mit einem Kreuz im Geweih, worauf er bekehrt wurde und seitdem als Glaubensbote in Südbrabant und den Ardennen wirkte, wobei er sich besonders gegen die dort üblichen „heidnischen“ Jagdbräuche aussprach. Um 705 wurde er Bischof von Maastricht, nachdem der vorherige Bischof Lambert ermordet wurde. 715 übertrug er dessen Gebeine nach Lüttich, wo er auch gleich seinen Bischofssitz mit hinnahm. Am 30. Mai 727 starb er schließlich in Tervueren bei Brüssel.<br>Aufgrund der Sage mit dem bekreuzten Hirsch gilt er als Schutzpatron der Jäger und wird deshalb auch meistens im Jagdgewand mit Hund, Schlüssel, Jagdhorn oder Buch dargestellt, wie auch auf unseren Vereinsfahnen sichtbar.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5392126,51.2417374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9. Alarmeingang</name>
+        <description>Eingang zur Feuerwehr Löschzug Schiefbahn</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5304839,51.2419921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10. Pfeilwegweiser / Straßenschild/ Verkehrsschild</name>
+        <description>Der Pfeilwegweiser steht an der Kreuzung Linsellesstraße/ L361 Hubertusstraße.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5349161,51.2410187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11. Klettergerüst Spielplatz</name>
+        <description>Der Spielplatz befindet sich neben dem Grundstück Grechte 26. Auf einer Fläche von 514 m² verfügt er über eine Rutsche, Karussell, Zweifachschaukel, Kettenlaufsteg, Sandkasten und 3 Sitzbänke.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5442405,51.2417435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12. Altes Fachwerkhaus</name>
+        <description><![CDATA[Das Haus wurde 1763 gebaut und steht seit dem 31. Dezember 1986 unter Denkmalschutz.<br><br>Es handelt sich um ein traufenständiges, 2-geschossiges Fachwerkhaus. Dieses ist nach hinten eingeschossig abgeschleppt. Im Türsturz ist als Errichtungsdatum der 10. September 1763 genannt. Im 19. Jahrhundert wurde es teilweise verändert. Es stellt den Übergang eines Bauernhauses zu einem Bürger- bzw. Stadthaus dar. Dieses ist noch daran zu erkennen, dass rückwärtig eine Seite abgeschleppt ist, so dass hier eine Zweigeschossigkeit entstand. Es besitzt ebenfalls eine Backsteinbemalung auf den Holzbalken. Im Inneren des Gebäudes befinden sich noch wenige, an Ort und Stelle erhaltene religiöse Ornamente in der Stuckdecke. Dies ist einmalig im Kreis Viersen. Erhaltung und Nutzung des Gebäudes liegen aus ortsgeschichtlichen und städtebaulichen Gründen im öffentlichen Interesse.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5366662,51.2407755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13. Hydrant</name>
+        <description><![CDATA[Ein Hydrant ist eine Armatur zur Entnahme von Wasser aus einem Wasserverteilungssystem.<br><br>Wasserversorger nutzen in regelmäßigen Abständen eingerichtete Hydranten als Teil der zentralen Löschwasserversorgung von Städten und Gemeinden. Hierzu wird normales Trinkwasser genutzt.<br>Auf der Leitung sind ca. 2-6 bar Druck.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5306177,51.2418592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14. Kindergartenhalle</name>
+        <description>Die Kindergartenhalle dient dem Kindergarten St. Elisabeth als Turnhalle. Außerdem benutzten manche Vereine diesen Ort für Veranstaltungen.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5382111,51.241378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15. Mann auf Parkbank</name>
+        <description><![CDATA[Die Familie hat holländische Verwandte und es ist ein Brauch, dass männliche Verwandte zum 50. Geburtstag einen "Abraham" geschenkt bekommen und die Frauen zum 50. Geburtstag eine "Sarah". Das ist im übertragenen Sinne, dass sie sich um Nachkommen (wie in der Bibel), also um Enkelkinder "kümmern" sollen. Da der Onkel jetzt 74, hat er den Abraham demnach vor 24 Jahren bekommen. Und wenn es was zu feiern gibt oder sonst wichtige Ereignisse sind, bekommt die Figur eine Flasche Bier dahin gestellt oder einen Blumentopf oder was Entsprechendes.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5321044,51.2405854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16. Gänsejunge Garagenhof</name>
+        <description>Im 18. und 19. Jahrhundert wurden noch große Mengen Gänse durch die Felder und Bruchlandschaft um Schiefbahn getrieben. So wurde der Gänsejunge ein Symbol für Schiefbahn, das sich auch mehrfach im Dorf in verschiedener Form wiederfindet.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.539528,51.2422564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17. Obst und Rosen Tillmanns Schild</name>
+        <description><![CDATA[Seit drei Generationen bauen wir Obst & Rosen für unsere Kunden an.<br><br>In dieser Zeit hat sich viel verändert. Die wichtigste Neuerung war die Umstellung der Produktion von herkömmlichen Verfahren auf die kontrollierte, integrierte Anbauweise.<br><br>Hierbei sind Nützlinge wie z.b. der Marienkäfer oder die Raubmilbe an der umweltfreundlichen Produktion unseres Obstes beteiligt.<br><br>Diese Anbaumethode wird ständig verbessert und kommt Ihnen als Kunde zugute.<br><br>Die Obstlagerung wurde so modernisiert, dass wir Ihnen Äpfel das ganze Jahr über knackig und frisch anbieten können.<br><br>Das erreichen wir ohne den Einsatz von Wachs oder chemischen Stoffen!]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5330676,51.2452264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18. Kirchentür</name>
+        <description>Die Kirche wurde 1854/55 vom Dombaumeister V. Statz aus Köln errichtet. Es handelt sich hierbei um eine dreischiffige, neugotische Backsteinbasilika mit dreiseitigem Chorabschluss und leicht vorgesetztem Westturm. Das südliche Querschiff ist neu ergänzt. An der Südfassade befindet sich eine Kreuzigungsgruppe von 1904. Denkmalwert ist ebenfalls die historische Innenausstattung der Kirche.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5374799,51.2421735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19. Friseur</name>
+        <description>Der Friseursalon Simone ist seit über 20 Jahren auf der Hochstraße 70.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5331562,51.2425725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20. Straßenlaterne</name>
+        <description><![CDATA[Altstadtmast mit Schiefbahn- und Willich-Wappen.<br><br>Das Schiefbahner Wappen zeigt in grünem Feld über einer silbernen St. Hubertus – Trophäe mit goldenem Geweih und goldenem Kreuz eine silberne, beschossene Scheibe, flankiert von zwei silbernen, goldbestielten, mittelalterlichen Armbrustschießbolzen, rechts ein Spitzbolzen für die Schießscheibe, links ein Stumpfbolzen für das Tontaubenschießen.<br><br>Willicher Wappen: In Blau ein gelbes (goldenes) Quadrat, das an jeder Seite von dem Buchstaben W in Gelb (Gold) so umrankt wird, dass seine unteren Spitzen auf die Mitte des Quadrates gerichtet sind und hier ein gleicharmiges Kreuz bilden.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5393104,51.2428908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21. Pandagarage</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5370323,51.2443816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22. Porto Douro (Zum Hirsch)</name>
+        <description><![CDATA[Ehemalig Gaststätte "Zum Hirsch"<br>Vitor Teixeira und seine Frau Carlota führen seit Januar 2020 das portugiesische Restaurant in der Königsheide.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5417775,51.2408411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23. Schiedsgericht</name>
+        <description>Die Schiedsgerichtsbarkeit ist ein juristisches Mittel zur Streitbeilegung im Rahmen von Schiedsverfahren. Bei Schiedsgerichten handelt es sich um nicht-staatliche Gerichte, die allein aufgrund einer Abrede der jeweiligen Streitparteien zusammentreten und als Schiedssprüche bezeichnete Urteile aussprechen.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5337625,51.2424099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24. Fensterlade mit Metallkopf</name>
+        <description>Kleiner Metallkopf an Fensterlade</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5383543,51.2424268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25. Blaue Container (Aktion Mission und Leprahilfe)</name>
+        <description>Die Aktion Mission und Leprahilfe Schiefbahn e.V. wurde 1963 vom späteren Weihbischof August Peters in Willich-Schiefbahn gegründet. Seitdem haben es sich ihre Mitglieder zur Aufgabe gemacht, Menschen in Entwicklungsländern unbürokratisch und schnell konkrete Hilfen zu geben. Über Medikamentenhilfen und Projektförderungen tragen sie zur Verbesserung von Lebensbedingungen bei.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5379041,51.243087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26. Spielplatz Wilhelm-Wirtz-Platz</name>
+        <description><![CDATA[Der Spielplatz liegt auf dem Wilhelm-Wirtz-Platz am Ende der Straße "Schwanenheide". Auf dem Platz wurden ganz früher Veranstaltung abgehalten. Auf einer Fläche von 769 m² verfügt er über eine Spielkombi, Schaukel, Sandkasten, Federgerät Traktor, Federgerät Kuh und drei Sitzbänke.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.534405,51.243616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27. Schulhof</name>
+        <description>Das erste Schulgebäude wurde am 01.04.1912 eingeweiht. Immer mehr Kinder in Schiefbahn und das große Interesse an der Hubertusschule sorgten dafür, dass in den 50er und dann in den 90er Jahren noch zwei weitere Schulgebäude folgten. Heute verfügt die Schule über ein Lehrerzimmer, 8 Klassenräume, einen Mehrzweckraum, eine Schulbücherei und eine Turnhalle.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5378874,51.2445896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28. Tor Nummer 1</name>
+        <description>Hinter dem Tor 1+2 ist das Lager der Feuerwehr. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5301521,51.2419502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29. Dorfgespräch</name>
+        <description>Skulptur von Loni Kreuder an der Kath. Kirche St. Hubertus</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5372513,51.2423878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30. Fahrradschlauchautomat</name>
+        <description>Die ursprüngliche Idee des Fahrradschlauchautomat kommt von zwei Radhändlern aus Kassel Mitte der 1990er Jahre. Diese modifizierten damals einen Zigarettenautomat. Mittlerweile gibt es über 500 Stück solcher Automaten. Meistens an Fahrradläden oder Radfernwegen.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5373134,51.2430364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>31. Schiefbahnwappen</name>
+        <description>Das Schiefbahner Wappen zeigt in grünem Feld über einer silbernen St. Hubertus – Trophäe mit goldenem Geweih und goldenem Kreuz eine silberne, beschossene Scheibe, flankiert von zwei silbernen, goldbestielten, mittelalterlichen Armbrustschießbolzen, rechts ein Spitzbolzen für die Schießscheibe, links ein Stumpfbolzen für das Tontaubenschießen.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5336134,51.2424304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>32. Haus mit Winterbalkon (Fahrschule)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5392636,51.2427302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>33. Gespiegelte Glassfassade</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5365796,51.2407615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[34. Juca "La Familia" Graffiti]]></name>
+        <description>Das Jugendcafé - Schiefbahn (JuCa) ist ein offener Kinder- und Jugendtreff in freier Trägerschaft des SC 08 Schiefbahn e.V., in dem mit einer bunten Ausstattung an Gemeinschaftsspielen und Konsolen, Büchern und Tischkicker freie Zeit verbracht werden kann.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5320604,51.2405247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>35. Zucchini Bild</name>
+        <description>Edeka Keil wurde am 6. Dezember 2011 eröffnet und hat eine Verkaufsfläche von 1500 qm.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5333868,51.241302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>36. Kriegerehrenmal/ Soldatendenkmal/Kriegerdenkmal)</name>
+        <description><![CDATA[Das Denkmal gibt es bereits seit 1937. Jedoch stand dies auf der Ostseite der Kirche. Dort wurde es aus verkehrstechnischen Gründen versetzt und steht seit 1962 auf dem Friedhof auf der Bruchstraße. Auf dem ehemaligen Platz des Kriegerehrenmal steht heute ein Brunnen.<br><br>Da der alte Friedhof an der Hochstraße, der heutige Kurt-Schumacher-Park, zu klein geworden ist, legt die Gemeinde Schiefbahn eine neue Begräbnisstätte an der Bruchstraße an. Auf dieser werden seit 1944 die Schiefbahner Toten bestattet.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5392026,51.2396278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>37. Schützenmai/Mast Schützenwappen, Schiefbahnwahrzeichen</name>
+        <description>Farbenfroh wurde es am 24. Mai 1997 auf dem Platz vor der Hubertuskirche. Erstmals errichtete die Jungschützenabteilung der Bruderschaft gegen 15:30 Uhr mit einem schweren Kranwagen einen 16 Meter hohen Schützenbaum. In monatelangen Vorbereitungen hatten sie den aus der Eifel stammenden Baum bearbeitet und mit 56 Wappenschildern der einzelnen Schützenzüge ausgestattet.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5373877,51.2418546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>38. Altes Brauhaus</name>
+        <description>Ehemaliges Brauhaus, wo bis 1990 Gerstensaft floss. Heute wird das Brauhaus als Bibliothek genutzt.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5365778,51.2424678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>39. Altes Fachwerkhaus mit Zaun und Garten</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5404122,51.2414164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[40. Tür "Eine-Welt-Laden" Kirche]]></name>
+        <description>Der Eine-Weltladen ist ein Fachgeschäft für Fairen Handel. Ziel der Weltläden ist es, zu mehr Gerechtigkeit in den Handelsbeziehungen zwischen den Ländern des Globalen Südens und des Nordens beizutragen. Um dieses Ziel zu erreichen, verkaufen Weltläden Produkte aus Fairem Handel, beteiligen sich an politischen Kampagnen und leisten Informations- und Bildungsarbeit zu Fragen des Fairen Handels.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5379093,51.2423582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>41. Glaube, Sitte, Heimat</name>
+        <description>Durch diese Schwerpunkte – wehrhafter Schutz, verbunden mit Disziplin, Nächstenliebe und Gebet – entwickelte sich das eigentliche Wesen der Schützenbruderschaften. Aus diesem Geist heraus entstand die bis in die heutige Zeit bindende Parole „Für Glaube, Sitte und Heimat“. Das Denkmal, was die drei Ideale zeigt, wurde am 21.01.2012 eingesegnet.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5335145,51.2425714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>42. Eingang Emmaus- Bücherei</name>
+        <description>Die Emmaus- Bücherei bietet das Ambiente einer modernen Bücherei mit Retro-Charme und einem gemütlichen Aufenthaltsbereich.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5339746,51.2433878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>43. Toreinfahrt</name>
+        <description><![CDATA[Die "Toreinfahrt" führt auf die Rückseite vom früheren Gasthof Schwan (Hochstraße 12). Vermutlich wurden im Innenhof die Pferde abgestellt, da die Reiter dann im Gasthof Essen und Schlafen konnten.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5381435,51.2431298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>44. Jahnplatz Mast</name>
+        <description>Der Mast wird genutzt um bei Veranstaltungen, wie z.B. der Schützenkirmes, zusätzliche Beleuchtung aufzuhängen.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5309536,51.2412015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>45. Fahnenmaste</name>
+        <description>Auf dem Gelände des Stadtteilbüros Schiefbahn stehen drei Fahnenmaste. Der rechte ist mit der Deutschland Flagge behangen, der mittlere mit dem Willicher Wappen und der linke ist frei gelassen.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5336652,51.2421856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>46. Be dem Bur Wandbild</name>
+        <description>Warum steht eigentlich Tom auf der Latzhose? Der Name Tom hat der damaligen Besitzer, Friedhelm Hoster, von den Stammgästen als Spitznamen bekommen. Er hat hinter der Theke immer das Lied TomDooley gesungen.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5363255,51.24121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>47. Schachklub Turm Schiefbahn- Willich 1931</name>
+        <description>Der Schachklub Turm bietet Schach für Jugendliche und Senioren sowie Turnierschach in verschiedenen Leistungsklassen.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5391164,51.2428754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>48. Turnhalle Hubertusschule</name>
+        <description>Das erste Schulgebäude wurde am 01.04.1912 eingeweiht. Immer mehr Kinder in Schiefbahn und das große Interesse an der Hubertusschule sorgten dafür, dass in den 50er und dann in den 90er Jahren noch zwei weitere Schulgebäude folgten. Heute verfügt die Schule über ein Lehrerzimmer, 8 Klassenräume, einen Mehrzweckraum, eine Schulbücherei und eine Turnhalle.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5382106,51.2445685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>49. Rentnerfiguren auf Garagendach</name>
+        <description>Die beiden Rentner auf dem Garagendach wurden damals von dem Besitzer des Hauses als Kantenhocker, auf einem Flohmarkt gekauft.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5324623,51.2404857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>50. Polizei Schiefbahn</name>
+        <description>Der Bezirksdienst Willich-Schiefbahn betreut den Bereich Schiefbahn. Insgesamt gibt es hier einen Ansprechpartner.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5329925,51.2426001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>51. Taufkapelle (Kirchenecke)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5376164,51.2420858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>52. E-Maus Kinder und Jungendtreff Schild</name>
+        <description>Der Jugendtreff befindet sich im Anbau der evangelischen Kirche.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5342918,51.243137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>53. Alter Handbrunnen</name>
+        <description>Eine Schwengelpumpe ist eine selbst ansaugende Wasserpumpe. Mit gut dichtendem Kolben und Ventilen kann Wasser aus einer Tiefe von etwa bis zu 8 Metern angesaugt werden.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5371564,51.2413013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>54. Synagogen Denkmal</name>
+        <description>Die Synagoge wurde im Jahr 1858 erbaut. Zuvor hatte die Gemeinde ein Bethaus an der Hochstraße genutzt. Die Synagoge wird am 10.November 1938 (Reichsprogromnacht) gegen 9 Uhr morgens durch SA-Männer in Brand gesteckt und brennt bis zum Nachmittag aus.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5352441,51.2419029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>55. Fahrradfahrer an Tor</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5372445,51.243033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>56. Kreuz an der Kulturhalle</name>
+        <description>Bereits 1925 hatte der Turnverein Schiefbahn mit den Planungen für den Bau einer eigenen Turnhalle begonnen. Bis zu diesem Zeitpunkt mussten die Sportler in den Sälen der Schiefbahner Gaststätten trainieren.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5375956,51.2443779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>57. Brunnenfigur</name>
+        <description>Der Brunnen wurde von dem Bildhauer Josef Krautwald, in seiner Werkstatt in Rheine, gestaltet. Seine künstlerische Arbeit war ein Geschenk an den Pastor Dr. Bernhard Brück. Dieser stiftete den Brunnen als eine bleibende Predigt der Gemeinde. Er war von 1957- 1984 Pfarrer in der St. Hubertus- Gemeinde. Die Brunnenfigur zeigt Maria mit ihrem Sohn Jesus.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.537539,51.2420554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>58. Altes weißes Haus</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5386744,51.2425037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59. Uhr an der Wand</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5361216,51.2423659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>60. Kulturhalle Tür</name>
+        <description><![CDATA[Bereits 1925 hatte der Turnverein Schiefbahn mit den Planungen für den Bau einer eigenen Turnhalle begonnen. Bis zu diesem Zeitpunkt mussten die Sportler in den Sälen der Schiefbahner Gaststätten trainieren.<br><br>Trotz großer finanzieller Probleme wird am 5.Oktober 1929 der Grundstein gelegt und die Arbeiten nach knapp drei Jahren abgeschlossen. Die Einweihung erfolgt dann am 23.10.1932.<br><br>Heute dient die Kulturhalle zum einen als Aula für die benachbarte Hubertusschule, zum anderen als Veranstaltungsort für Kultur- und Brauchtumsveranstaltungen.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5374191,51.244076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>61. Haus</name>
+        <description>Dieses Haus wurde 1912 erbaut.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5349091,51.2417992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>62. Garage mit Brücke</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5387377,51.24215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>64. Litfaßsäule</name>
+        <description>Eine Litfaßsäule ist eine auf dem Gehweg von Straßen aufgestellte Anschlagsäule, an die Plakate geklebt werden. Sie wurde vom Berliner Drucker Ernst Litfaß erfunden und im Jahr 1854 erstmals verwirklicht.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5341355,51.2426099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>65. Busanzeigetafel (Infoschild)</name>
+        <description>Der Fachbegriff für diese Anzeige Tafel lautet Fahrgastinformationsanzeiger mit beidseitiger LED-Fläche.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5374566,51.2416827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>66. Gehweg</name>
+        <description>Nachdem jahrelang dort kein Baum mehr stand, wurde im Mai 2026 hier ein Baum durch die Baumfreunde Willich gefplanzt. Dieser ist rein spendenbasiert. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5349207,51.2409043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>67. Rotes Haus</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5367689,51.2411918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>68. Evangelische Kirche</name>
+        <description>Die Hoffnungskirche wurde 1956 vom Presbyterium der damaligen Kirchengemeinde Willich-Schiefbahn als „Notbehelf“ in Verbindung mit einem Jugendheim errichtet.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5342303,51.2433476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>69. Stationstür Krankenhaus</name>
+        <description><![CDATA[Transformatorstation, die elektrische Spannung umwandelt.<br>Die Bezeichnung "Altes Krankenhaus" entstand durch das 1898 erbaute Schwesternhaus und ein kleines Krankenhaus auf der Königsheide. Dies wurde nach dem Pfarrpatron der Gemeinde "Hubertusstift" benannt. Ab 1969/1970 wird das Hubertusstift ausschließlich als Altenheim, mit damals 124 Betten, genutzt.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5387214,51.2420753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>70. Fensterfassade</name>
+        <description>Das erste Schulgebäude wurde am 01.04.1912 eingeweiht. Immer mehr Kinder in Schiefbahn und das große Interesse an der Hubertusschule sorgten dafür, dass in den 50er und dann in den 90er Jahren noch zwei weitere Schulgebäude folgten. Heute verfügt die Schule über ein Lehrerzimmer, 8 Klassenräume, einen Mehrzweckraum, eine Schulbücherei und eine Turnhalle.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.536674,51.2447423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>71. Schützenmai/Mast Schützenwappen</name>
+        <description>Farbenfroh wurde es am 24. Mai 1997 auf dem Platz vor der Hubertuskirche. Erstmals errichtete die Jungschützenabteilung der Bruderschaft gegen 15:30 Uhr mit einem schweren Kranwagen einen 16 Meter hohen Schützenbaum. In monatelangen Vorbereitungen hatten sie den aus der Eifel stammenden Baum bearbeitet und mit 56 Wappenschildern der einzelnen Schützenzüge ausgestattet.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5373854,51.2418434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>72. Spielplatz Paul-Klee Straße</name>
+        <description>Der Spielplatz befindet sich zwischen den Grundtücken Paul-Klee-Straße Hausnummer 29 und 31. Auf einer Fläche von 451 m² verfügt er über eine Spielkombi, Spielhaus, Vogelnestschaukel, Sandkasten und eine Sitzbank</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5411465,51.2436028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>73. Vital Spa</name>
+        <description><![CDATA[Im Jahr 1976 wurde das Institut von Maria Weuthen eröffnet, 2010 von den Töchtern übernommen und weitergeführt.<br>Das Kosmetikinstitut wurde erweitert durch einen Wellnessbereich.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5419104,51.2406544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>74. Gasthof zum Schwan</name>
+        <description>Bei diesem Objekt handelt es sich um ein aus dem 16. Jahrhundert stammenden, an einer ehemaligen Heerstraße gelegenes Gebäude, das von 1551 bis 1989 als Gaststätte und Herberge diente. Ab 1989 ist dort eine Zahnarztpraxis eingezogen. Es ist eine in sich geschlossene Haus- und Hofanlage, bestehend aus 1. Hauptgebäude an der Hochstraße, 2-geschossig, traufenständig mit Satteldach und 7 Achsen, davon eine als ehemalige Tordurchfahrt, 2. einem Saalbau, 2-geschossig mit 4 Achsen und Walmdach sowie 3. einem Nebengebäude (Scheune) hochgeschossig mit 2 Tordurchfahrten und rückseitig gelegene Mezzanin-Fenstern in 3 Achsen, einschl. Satteldach, traufenständig zum Wallgraben. Im Hauptgebäude sind Raumaufteilung, Treppenhaus und Fußböden noch erhalten. Im Eingangs- u. Hofdurchgangsbereich ist der originale Italo-Terrazzoboden vorhanden. Intarsierte Ornamenteinstreuung und lat. Grußformeln sind noch klar ersichtlich. In der Hofausgangstür ist im oberen Bereich ein dreiteiliges 3-Kaiserfenster in unzerstörter Form erhalten, dessen Herstellung auf 1888 datiert ist.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.538005,51.2425398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>75. Garagentor bemalt mit Garten</name>
+        <description>Das Garagentor wurde innerhalb von 5 Tagen von Frank Bosch bemalt und am 02.10.2014 fertiggestellt. Es zeigt die Fortsetzung des Gartens von Hausnummer 24. Jedoch ist leider schon während des Malens, der mittlere Baum (eine Kastanie) gefällt worden.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5358397,51.2395875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>76. Bemalte Wand mit Fassaden</name>
+        <description>Die bemalte Wand befindet sich auf der rechten Seite des alten Markts. Wie der Name schon vermuten lässt, diente der heutige Parkplatz, früher als Markplatz. Heute befindet sich der Markt auf Hubertusplatz, von Hausnummer 2 bis zum Hubertusplatz selber. Der Wochenmarkt wird jeden Mittwoch von 7-13 Uhr abgehalten.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5402975,51.2428197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>77. Glascontainer</name>
+        <description><![CDATA[Glasrecycling ist eine der effektivsten Formen der Wiederverwendung. Mit mehr als zweieinhalb Jahrtausenden ist Glas eines der ältesten Verpackungsmaterialien überhaupt.<br>Unterschieden wird dabei zwischen farblosem, Braun,- und Grünglas.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.537006,51.2418216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>79. Gänsejunge an Hauswand</name>
+        <description>Im 18. und 19. Jahrhundert wurden noch große Mengen Gänse durch die Felder und Bruchlandschaft um Schiefbahn getrieben, so wurde der Gänsejunge ein Symbol für Schiefbahn, dass sich auch mehrfach im Dorf in verschiedener Form wiederfindet.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.535201,51.2399638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>80. Scheinbushaltestelle (Park Altenheim)</name>
+        <description><![CDATA[Eine Scheinbushaltestelle (auch Pseudohaltestelle oder Phantomhaltestelle) ist eine Nachbildung einer normalen Haltestelle, die in der Krankenpflege zum Einsatz kommt. Sie ist in der Regel mit einem Haltestellenschild und einem ausgehängten Fahrplan ausgestattet. Der Fahrplan ist fiktiv und es hält auch nie ein Omnibus an dieser Attrappe. Manche Scheinbushaltestellen sind mit Sitzbänken versehen.<br>Die Scheinbushaltestellen werden in der Pflege von Demenzerkrankten eingesetzt. Menschen, die an der Demenz erkrankt sind, haben oft Störungen des Kurzzeitgedächtnisses und leben mit fortschreitender Erkrankung häufig mehr und mehr in der Vergangenheit. Sie wollen in die alte vertraute Umgebung zurückkehren oder alten Ritualen folgen. Deswegen sind sie unruhig und suchen eine Haltestelle auf, um auf den nächsten Bus zu warten, im festen Glauben, dass er sie von diesem Ort weg nach Hause bringt.<br><br>Es heißt, dem Heimbewohner reiche eine kurze Verweildauer an der Haltestelle, bis er den Grund für seine Reiseabsicht vergessen habe. Er kehre dann zurück ins Heim und habe manchmal den festen Glauben, woanders gewesen zu sein. Dadurch soll die Haltestelle die Gefahr verringern, dass Heimbewohner sich außerhalb des Heimes verlaufen und von den Pflegekräften gesucht werden müssen. Wissenschaftliche Untersuchungen zur Wirksamkeit von Scheinbushaltestellen existieren nicht.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5397035,51.2410681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>81. Altes Haus, Stahltür</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5351104,51.2413856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>82. Glockenturm Altenheim</name>
+        <description><![CDATA[Die sogenannte "Todesglocke" wird geläutet, wenn ein Anwohner im Alten- und Pflegeheim Hubertusstift verstirbt.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5391203,51.2417674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>83. Infoschild Hochstraße</name>
+        <description>Das Informationsschild zeigt ein Bild aus dem Jahr 1908 von der Hochstraße, in Blickrichtung Westen. Auf der Fläche des 1899 abgerissenen Növertores sind zwei neue Gebäude entstanden, die jeweils Gaststätten beherbergen: links die Restauration Heinrich Kaiser- rechts die Schenkenwirtschaft Ferdinand Tillmansn.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.535803,51.2423526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>84. Anbau Kulturhalle</name>
+        <description>Der Anbau an der Kulturhalle diente früher dem Hausmeister der Hubertusschule als Wohnung.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5373766,51.2440486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>85. Ausblick Kirche</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5366647,51.2420524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>86. Rohr</name>
+        <description><![CDATA[Ehemalig Satt&Selig]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5397129,51.2426277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>87. Weißes Pferd</name>
+        <description>Die Tochter und Enkel mochten Pferde. Somit hat sich ein Mann angeboten die Garage mit einem Pferd zu verschönern.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5351521,51.2387562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>88. Willi Wisch </name>
+        <description>Saubermach Aktion der Stad Willich </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5314206,51.2400927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>89. Figur</name>
+        <description>Die Holzfigur zeigt einen Zimmermann. Diese Figur wurde mal im Rahmen einer Ausbildungs/ Jobmesse gebaut und im Anschluss an die Hauswand gehängt. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5328882,51.2357838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>90. Figur</name>
+        <description>Die Figur soll einen kleinen Feuerwehrmann darstellen. Er sitzt in einem Klettergerüst, was als Feuerwehrauto gestaltet wurde. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5394909,51.246743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>91. Antenne</name>
+        <description>Die große Antenne dient wahrscheinlich den Amateurfunken. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.54033,51.2450829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>92. Garagen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5417982,51.2458018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>93. Gartenzwerg</name>
+        <description>Die Schnorrenbergstraße wurde 1955 nach dem Pfarrer Johann Schnorrenberg benannt. Dieser hat von 1844-1867 als Pfarrer in Schiefbahn gewirkt und ist hier 1867 auch gestorben. Geboren wurde er am 27.3.1803 und am 28.10.1830 zum Priester geweiht. Schnorrenberg trat energisch für den Neubau der Kirche ein. der dann auch zwischen 1854 und 1856 ausgeführt wurde.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5390408,51.2397075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>94. Hannen Alt</name>
+        <description><![CDATA[Dieser Schriftzug gehört zum Kiosk "STAR-Kiosk".]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5342644,51.2426234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>95. Mauer</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5347645,51.2402425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>96. Wiese</name>
+        <description>Das Foto zeigt den Außenbereich des Kindergartens Ev. Tageseinrichtung Herderweg. Der Kindergarten bietet platz für 65 Kinder im Alter ziwschen 1-6 Jahre. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5308285,51.2443432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>97. Weißes Haus</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5416808,51.2427748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>98. Bitburger</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5369266,51.242512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>99.Park?</name>
+        <description>Da der alte Friedhof an der Hochstraße, der heutige Kurt-Schumacher-Park, zu klein geworden ist, legt die Gemeinde Schiefbahn eine neue Begräbnisstätte an der Bruchstraße an. Auf dieser werden seit 1944 die Schiefbahner Toten bestattet.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5407425,51.2400906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>100. Arzt</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.534504,51.2431966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>101. Tourenclub Schiefbahn</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5327433,51.2425347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>102. Adler</name>
+        <description><![CDATA[Der "Adler" ist das damalige Logo der Reichspost. Dieses Gebäude war ursprünglich eine Postfiliale, danach eine Sparkasse, ein Sonnenstudio und nun ein Ärzte Haus. <br>Erbaut wurde die Post 1906.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5347519,51.2424512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>103. Drache</name>
+        <description><![CDATA[Der Drache gehört zum Gebäude der Astrid-Lindgren- Schule. <br><br>Geschichte der Schule:<br>1958 steht die Gemeinde Schiefbahn vor der Entscheidung, die alte Volksschule an der Pfarrkirche aufwändig zu sanieren oder aber einen Neubau zu errichten. Zur Klärung dieser Frage wird das Staatshochbauamt eingeschaltet, das letztlich angesichts des schlechten baulichen Zustands zu einem Neubau rät.<br><br>Am 24.März 1964 wird die evangelische Volksschule Schiefbahn an der Wilhelm-Busch-Straße eingeweiht. Auf Vorschlag des ehemaligen Rektors Karl Zemlin wird sie nach der Dichterin Agnes Miegel benannt.<br><br>2008 folgt der Stadtrat dem Wunsch von Schülern, Eltern und Lehrern, die Schule aufgrund der Nähe von Agnes-Miegel zum NS-Regime in Astrid-Lindgren-Schule umzubenennen.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5303447,51.2437462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>104. Spiegelei</name>
+        <description>Dieser Teil der Fassade ist austauschbar. In der Winterzeit ist dort ein beleuchterter Stern angebracht. Den Rest des Jahres ist dort das Spiegelei zu finden. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5318896,51.2441908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>105. Schranke</name>
+        <description>Die Schranke ist immer oben, da Teil des Parkplatzes öffentlich ist. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.534401,51.2406081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>106. Mülleimer</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5413708,51.2479047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>107. Balkon</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5297972,51.2410806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>108. Hubertusstift</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5389762,51.2425468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>109. Freude am Garten</name>
+        <description>Obst- und Gartenbauverein e.V. Schiefbahn ist eine Kleingartenanlage in Willich, Kreis Viersen, Nordrhein-Westfalen. Obst- und Gartenbauverein e.V. Schiefbahn befindet sich nahe dem Spielfeld Dirt Park sowie der Hundezone SV OG Schiefbahn.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5362754,51.2410797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>110. Haus</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5396633,51.2474274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>111. Leiter</name>
+        <description><![CDATA[1936 bestand in der Gemeinde Schiefbahn Wohnungsnot. Gustav Geldbach, der in diesem Jahr zum Bürgermeister bestimmt orden war. hatte die Idee. im Schiefbahner Bruch Wohnraum zu schaffen.<br>Jedem Siedler, der bereit war, dort zu siedeln. sollte ein Grundstück in der Große von 800 gm zugebilligt werden, wobei der Kaufpreis 0,45 Reichsmark je qm, insgesamt also 360,00 RM betrug. Die monatliche Belastung sollte 25,00 RM nicht überschreiten. Außerdem sollte jedem Siedler ein Schwein, eine Ziege, Kaninchen und Hühner gestellt werden. dazu Garten- geräte und Dünger. Die Wohnung umfaßte fünf Räume, einen Keller und einen angebauten Stall. Die Nachfrage, vor allem bei ärmeren und kinderreichen Familien, war groß.<br>Im Sommer 1937 wurde mit dem Bau der Siedlungshäuser begonnen, im Oktober des gleichen Jahres waren die ersten Hauser im Rohbau fertig. Im Juli 1938 waren fast alle vierzig Familien in ihre neuen Heime eingezogen. Die feierliche Einweihung der ""Volkssiedlung" war am 30./31. Juli 1938.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5265155,51.2417002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>112. Verkehrsschild</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5420119,51.2405554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>113. Blauweißer Poller</name>
+        <description>In Deutschland wird der Fußgängerübergang als Fußgängerüberweg (amtliche Abkürzung FGÜ, früher amtlich Dickstrichkette)[1] bezeichnet, das ist eine Querungsanlage auf Straßen für Fußgänger und Rollstuhlfahrer. Ein Fußgängerüberweg ist neben dem Hinweis mit entsprechender Beschilderung durch breite Linien auf der Fahrbahn (umgangssprachlich Zebrastreifen genannt) gekennzeichnet, die ebenfalls als Verkehrszeichen dienen. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5343832,51.2403795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>114. Eingang</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5426237,51.2442526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>115. Delphin und Welt</name>
+        <description>Das Logo gehört zum Reisebüro Krüger. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5298404,51.2429638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>116. Figur</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5393131,51.2421676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>117. Friedhof</name>
+        <description>Da der alte Friedhof an der Hochstraße, der heutige Kurt-Schumacher-Park, zu klein geworden ist, legt die Gemeinde Schiefbahn eine neue Begräbnisstätte an der Bruchstraße an. Auf dieser werden seit 1944 die Schiefbahner Toten bestattet.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5334007,51.2374983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[118. Schachclub "Turm"]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5337191,51.2422879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>119. Friedhof</name>
+        <description>Da der alte Friedhof an der Hochstraße, der heutige Kurt-Schumacher-Park, zu klein geworden ist, legt die Gemeinde Schiefbahn eine neue Begräbnisstätte an der Bruchstraße an. Auf dieser werden seit 1944 die Schiefbahner Toten bestattet.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5403452,51.2415938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>120. Gnom</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5375594,51.2412879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>121. Haus</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.539982,51.2426847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>122. Spielplatz</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5301139,51.2402834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>123. Straße</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5430089,51.2406198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>124. Straße </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5421013,51.2420828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>125. SV. OG: Schiefbahn</name>
+        <description><![CDATA[SV OG Schiefbahn 1950 e.V.<br><br>Die Ortsgruppe Schiefbahn wurde im April 1950 in Schiefbahn gegründet und war somit der erste Hundesportverein der Stadt Willich.<br><br>Der Übungsplatz besitzt eine Größe von etwa 3000qm und liegt in schöner und ruhiger Umgebung hinter den Tennisanlagen in Schiefbahn.<br><br>Mitbegründer des Vereins waren der frühere Gemeindedirektor und Förderer Herr Spätgens, sowie Herr Scharfenberg und Herr Morsnowski, welcher bis 1980 auf 30- jährige Erfahrung als Ausbilder und Schutzdiensthelfer zurückblicken konnte. Als erster Vorsitzender wurde Heinrich Stangenberg gewählt. Josef Thelen übernahm das Amt des Geschäftsführers. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5333448,51.2373023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>126. Mast </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5336815,51.2410643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>127. Zeichnung</name>
+        <description><![CDATA[Bei diesem Schild handelt es sich um die Information zum "Umbau und Erweiterung Begegnugsstätte Schiefbahn". ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5336373,51.2422575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>128. Falken</name>
+        <description>Der Falke gehört zur Biermarke Frankenheim Alt. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5317499,51.2427891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>129. Haus</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5432407,51.2449666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>130. Garagentor</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5389042,51.2394268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>131. Telekomkasten</name>
+        <description><![CDATA[Was ein Kfz ist, weiß jeder. Aber was ist ein Kvz? Das Kürzel steht für „Kabelverzweiger“, für die grauen Kästen, die überall am Straßenrand stehen – und das schon seit Jahrzehnten. Denn der Kabelverzweiger ist ein echter Klassiker, viele Exemplare wurden bereits 1982 aufgestellt. Deshalb lässt sich auf den Kästen häufig auch die Aufschrift „Kvz 82“ entdecken, die für das Jahr der Zulassung steht.<br><br>Aber was hat der Kasten auf dem Kasten? Nun, ohne ihn könnten Millionen von Telekom-Kunden weder telefonieren noch im Internet surfen. Denn der Kabelverzweiger bringt die Telefon- und Internetsignale aus der Vermittlungsstelle in die Haushalte.<br><br>Diese Signale kommen mit einem dicken Kupferkabel am Kasten an – und werden im Inneren so verzweigt und geschaltet, dass für jeden Kunden genau zwei Adern übrigbleiben, die dann in deutlich kleineren Kabeln in die Häuser geführt werden und dort weiter in die einzelnen Wohnungen.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.539795,51.2436833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>132. Bürgerbus</name>
+        <description><![CDATA[Lange hatte es gedauert: Aber im Jahre 2018 war es dann soweit: Durch aktive Zusammenarbeit und Initiativen von Heimatverein, Quartiersentwicklung Schiefbahn und der Politik konnte der Heimatverein zur Gründungsversammlung unseres Bürgerbusvereins Schiefbahn e.V. am 16. Mai 2018 einladen.<br><br>Unser Bürgerbus in Schiefbahn ist normaler Linienverkehr auf einer konzessionierten Linie mit Fahrplan, Haltestellen und einem genehmigten Tarif. Wir dürfen dem konventionellen Linienverkehr keine Konkurrenz machen, daher beschränkt sich das Einsatzgebiet auf Bereiche und Zeiten, in denen ein Linienverkehr nach den üblichen Maßstäben wirtschaftlich nicht tragfähig wäre. Und Schiefbahn als Flächendorf hat mit den Bereichen Niederheide, Knickelsdorf, Königsheide, Unterbruch usw. weit von den Hauptbuslinien entfernte Bereiche.<br><br>Die SWK sichert die verkehrsrechtliche und die technische Seite ab.<br><br>Die finanzielle Seite des sachlichen Betriebes wird vom Land NRW und auch von der Stadt Willich, also auch mit Steuergeldern unserer Stadt, finanziert.<br><br>Unser Bürgerbus wird von ehrenamtlich tätigen Fahrerinnen und Fahrern betrieben, die aus der Mitte der Stadt, der Mitte des Dorfes kommen. Und sie brauchen für diese Tätigkeit keinen Busführerschein. Aber man benötigt dazu eine Fahrerlaubnis zur Fahrgastbeförderung (Personenbeförderungsschein – P-schein), der für 5 Jahre ausgestellt und dann jeweils für weitere 5 Jahre verlängert werden muss. Und gewisse gesundheitliche Übrprüfungen sind natürlich auch normal.<br><br>Neben den fachlichen und sachlichen Dingen ist uns als Bürgerbusverein eine Sache besonders wichtig: der persönliche Kontakt zu den Fahrgästen, das kleine Gespräch am Rande.<br><br>Wir wollen das gesellschaftliche Zusammenleben weiter unterstützen und fördern.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5432348,51.2452157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>133. Hausnummer 1</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5388482,51.2426407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>134. Straße</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5412585,51.2467695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>135. Sonne</name>
+        <description><![CDATA[Die Sonne gehört zum ASB (Arbeiter-Samariter-Bund).<br>In dem Gebäude war zwischenzeitlich auch mal eine Postfiliale.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5341933,51.2401873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>136. Geldautomat</name>
+        <description><![CDATA[Da die Volksbank Filiale in Schiefbahn zum 01.07.25 geschlossen wurde, hat man auf dem Parkplatz einen Geldautomaten aufgestellt. <br>Die Filiale war auf der Hochstraße 52, links neben der Sparkasse.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5331996,51.2418514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>137. Tiefgarage</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5402989,51.24288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>138. Poller</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5393507,51.2452538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>139. Camping verboten</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5309247,51.2416072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>140. Grün</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5420685,51.2420045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>141. Schlafwandler</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5320092,51.2445139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>142. Haus</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5429724,51.2451566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>143. Tür</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5327306,51.2425383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>144. Parkplatz</name>
+        <description>1963 beschloss der Gemeinderat auf Vorschlag einer Sonderkomission, dass im Neubaugebiet Diepenborich ein Dichterviertel entstehen soll. Die Haupterschließungsstraße in diesem Viertel wurde nach dem Dichter, Zeichner und Humoristen Wilhelm Busch (1832-1908) beannt.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5287324,51.2441969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>145. Stadwerke</name>
+        <description>Hier drin befindet sich die Fernwärmestation der Stadwerke Willich.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.543943,51.2460758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>146. Garage</name>
+        <description><![CDATA[1936 bestand in der Gemeinde Schiefbahn Wohnungsnot. Gustav Geldbach, der in diesem Jahr zum Bürgermeister bestimmt orden war. hatte die Idee. im Schiefbahner Bruch Wohnraum zu schaffen.<br>Jedem Siedler, der bereit war, dort zu siedeln. sollte ein Grundstück in der Große von 800 gm zugebilligt werden, wobei der Kaufpreis 0,45 Reichsmark je qm, insgesamt also 360,00 RM betrug. Die monatliche Belastung sollte 25,00 RM nicht überschreiten. Außerdem sollte jedem Siedler ein Schwein, eine Ziege, Kaninchen und Hühner gestellt werden. dazu Garten- geräte und Dünger. Die Wohnung umfaßte fünf Räume, einen Keller und einen angebauten Stall. Die Nachfrage, vor allem bei ärmeren und kinderreichen Familien, war groß.<br> Im Sommer 1937 wurde mit dem Bau der Siedlungshäuser begonnen, im Oktober des gleichen Jahres waren die ersten Hauser im Rohbau fertig. Im Juli 1938 waren fast alle vierzig Familien in ihre neuen Heime eingezogen. Die feierliche Einweihung der ""Volkssiedlung" war am 30./31. Juli 1938.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5296112,51.2410067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>147. Häuser</name>
+        <description>Hier sehen wir die Gärten der Hochstraße.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5277867,51.2423629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>148. Turm</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5397412,51.2418716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>149. Haustür</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5372408,51.2414175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>150. Haus</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5323411,51.2426797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>151. Franziskaner</name>
+        <description>Die Wurzeln der Franziskaner Brauerei lassen sich bis 1363 zurückverfolgen. In diesem Jahr wird erstmals die „Bräustatt bey den Franziskanern“ in der Nähe der Residenz in München genannt. Der Name ist auf das Franziskaner-Kloster zurückzuführen, das schräg gegenüber lag und mit dem wohl immer reger Austausch stattfand. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5302048,51.2471583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>152. Häuser</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5427928,51.2467814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>153. Moai</name>
+        <description>Die Figuren auf der Osterinsel heißen Moai.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5270371,51.2424032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>154. Plakate</name>
+        <description><![CDATA[Die Wand gehört zum Blumengeschäft "Blumen Winkelhag".]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5297753,51.2430866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>155. Haus</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.53557,51.2400211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>156. Spiegel</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.541044,51.2427946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>157. Balkon</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5337466,51.2389503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>158. Schild</name>
+        <description>Im Hintergrund ist die Schallschutzmauer zu sehen, die die Häuser von der Korschenbroicher Straße vor Lärm schützen soll. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5441512,51.2461179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>159. Haus</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5402155,51.2416603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>160. Haus</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5370308,51.2422939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>161. Balkon</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5416813,51.2426853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>162. Grünes Haus</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5293855,51.242019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>163. Zeichen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5329701,51.23608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>164. Kasse</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5306683,51.2397527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>165. Kies</name>
+        <description><![CDATA[Die „Alte Pastoratstraße“ gehört zu den ältesten Straßen im historischen Ortskern des Flecken Schiefbahn. Obwohl das Pastorat schon sehr früh urkundlich (1594) erwähnt wird, steht bis heute nicht fest, wo das alte Pastorat lag. 1682 musste Pfarrer Hagen das Pastorat ausbessern lassen, da ihm die Gemeinde keine Mittel zur Errichtung eines neuen Pfarrhauses bewilligen wollte. 1830 wurde dann das Pastorat in der Pastoratstraße von Matthias Grein gebaut.<br><br>Da in den Flurkarten der Regierung in Düsseldorf 1812 die Pastoratstraße verzeichnet ist, ist davon auszugehen, dass das alte Pastorat ebenfalls in der Alten Pastoratstraße gestanden hat. Hier war das Pastorat bis 1913 untergebracht. Heute befindet sich dort die Gärtnerei Gerkhausen.<br><br>1939 wurde die Pastoratstraße durch die Nationalsozialisten in „En de Hött“ umbenannt. 1945, nach Kriegsende, bekam sie wieder ihren alten Namen zurück.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5361396,51.2406795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>166. Glasfaser</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5317095,51.2415121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>167. Hochhaus</name>
+        <description>1963 beschloss der Gemeinderat auf Vorschlag einer Sonderkomission, dass im Neubaugebiet Diepenborich ein Dichterviertel entstehen soll. Die Haupterschließungsstraße in diesem Viertel wurde nach dem Dichter, Zeichner und Humoristen Wilhelm Busch (1832-1908) beannt. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5287163,51.2446063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>168. Eingang mit Efeu</name>
+        <description>Die Gattung Efeu (botanisch Hedera) umfasst zwischen sieben und 17 Arten. Sie zählt zu den Araliengewächsen (botanisch Araliaceae). Der Gewöhnliche Efeu (botanisch Hedera helix) ist die einzige in Europa heimische und immergrüne Art innerhalb dieser Gattung. Efeu entwickelt sich mit der richtigen Pflege zu einem treuen Begleiter. Er bildet wunderschöne Grüntöne und ziert Gärten und Innenräume. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.535098,51.2410344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>169. Mülltonnen</name>
+        <description>1963 beschloss der Gemeinderat auf Vorschlag einer Sonderkomission, dass im Neubaugebiet Diepenborich ein Dichterviertel entstehen soll. Die Haupterschließungsstraße in diesem Viertel wurde nach dem Dichter, Zeichner und Humoristen Wilhelm Busch (1832-1908) beannt.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5286013,51.2439133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>170. Rote Garage</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5321502,51.24483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>171. Huhn</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.53645,51.2431224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>172. Sportplatz</name>
+        <description>Der Sportplatz in Schiefbahn verfügt über einen Fußballplatz mit Naturrasen, Kunstrasen und eine Laufbahn, sowie Weitsprunganlage. Außerdem gibt es noch einen kleinen Platz zum Fußballspielen.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5342734,51.2399932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>173. Haus</name>
+        <description>Das erste Schulgebäude wurde am 01.04.1912 eingeweiht. Immer mehr Kinder in Schiefbahn und das große Interesse an der Hubertusschule sorgten dafür, dass in den 50er und dann in den 90er Jahren noch zwei weitere Schulgebäude folgten. Heute verfügt die Schule über ein Lehrerzimmer, 8 Klassenräume, einen Mehrzweckraum, eine Schulbücherei und eine Turnhalle.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5374857,51.245213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>174. Steuerrad</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5313752,51.2414556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>175. Haus</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5326085,51.2428663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>176. Vereinslokal</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5364456,51.2410998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>177. Lampe</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5318752,51.2427669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>178. Rhododendron</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5433134,51.2431553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>179. Fürstenberg</name>
+        <description>Im 13. Jahrhundert- zur Zeit der Kreuzzüge, Marco Polos Reise nach China und der Gründung der eidgenössischen Schweiz- schlägt die Geburtsstunde von Fürstenberg. Am 18. Januar 1283 erhält Graf Heinrich 1. von Fürstenberg von König Rudolf 1. von Habsburg die Landgrafenrechte und die Landgrafschaft Baar mit Tunoeschingen- dem heutigen Donaueschingen- als Lehen. Damit verbunden ist unter anderem auch das Recht, Bier zu brauen, Brau- und Schankkonzession zu vergeben, das gesamte Schankwesen zu reglementieren und Steuern sowie Abgaben darauf zu erheben. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5301006,51.2473356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>180. Einfahrt</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5347881,51.2406892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>181. Gänsejunge</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5418098,51.2427986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>182. Schilder</name>
+        <description>Dies ist ein Fahrradknotenpunkt Schild. Das Schild weißt auf den Fahrradknotenpunkt 72 hin. Dieser steht an der Ecke Hochstraße Linsellesstraße. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5283928,51.2433169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>183. Fahrrad</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5320738,51.2428408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>184. Wegkreuz</name>
+        <description><![CDATA[Das bereits vor 1850 geschichtlich genannte Wegekreuz im Diepenbroich in Schiefbahn wurde in der Corona-Zeit durch Vandalismus zerstört. Eine Gruppe von Nachbarn und Geschichtsfreunden sicherte seinerzeit als „Interessen-Gemeinschaft Wegekreuz Diepeshof“ das, was noch zu retten war. Das eineinahalb Meter hohe Holzkreuz war abgebrochen, dem wertvollen, aus dem 18. Jahrhundert stammenden Christus-Corpus aus weißem Porzellan war der der rechte Arm vollständig zerbrochen.<br><br>Von einer Fachschreinerei wurde anhand der Vorlage des gebrochenen Holzkreuzes ein neues Holzkreuz aus Eichenholz gefertigt. Nach langer Suche und Einsatz von kompetenten Restauratoren konnte über ein aufwendiges 3D-Restaurationsverfahren der rechte Arm des Christus-Corpus wieder hergestellt werden.<br><br>In vielen Stunden monatelanger, Kleinarbeit und mit einem enormen finanziellen Aufwand haben die Familie, Nachbarn und Freunde des Diepeshofs in ehrenamtlichem Einsatz die Restauration des mehr als 170 Jahren bestehenden Wegekreuzes durchgeführt und wieder hergestellt.<br><br>Urkundlich wurde der Diepeshof bereits 1381 erwähnt. Der Segen am Wegekreuz Diepeshof wurde von Jakob Germes im Buch „Die Geschichte Schiefbahns“ bereits vor 1850 auch als Fußfall am Diepeshof beschrieben. Bereits vor Mitte des 19. Jahrhunderts zählte das Wegekreuz am Diepeshof als Station der Prozession am Passionssonntag, der „Römerfahrt“ der Pfarrgemeinde St. Hubertus und zu den sieben Fußfällen rund um Schiefbahn.<br><br>Bis in die 1970er-Jahre führten jeweils ab 6.15 Uhr, an drei Tagen der Woche vor Christi Himmelfahrt, die Bittprozessionen zum „Segen der Früchte, der Erde und der menschlichen Arbeit“ und um gedeihliche Witterung durch Felder und Flur zum Diepeshofkreuz, zum Gerritzfeldkreuz, zum Hellenbroicherfeldkreuz, Gatherhofkreuz und zum Wegekreuz am Bertzweg /Ecke Römerstraße.<br><br>Um die Erinnerungsstätte der Schiefbahner Kultur- und Kirchengeschichte wieder herzustellen und zu beleben, wurde nach der Zerstörung des Wegekreuzes durch Vandalismus von der Familie, den Nachbarn und den Freunden des Diepeshofs das Wegekreuz in Erinnerung gerufen und als Kleinod im Diepenbroich in Schiefbahn wieder hergestellt.<br><br>Die zur Wiederherstellung des kulturhistorischen Wegekreuzes am Diepeshof gegründete „Interessengemeinschaft Wegekreuz am Diepeshof“ besteht aus 16 Personen, die sich mit „Muskelhypothek“ und einem erheblichen Finanzaufwand in Höhe von 2 400 Euro zur Restauration und Wiederherstellung einbrachten.<br><br>Am Tag „Maria Lichtmess“, am heutigen Sonntag, 2. Februar, 15 Uhr, wird an der Wegegabelung der Hofzufahrt zum Diepeshof und dem „Plattespatt“ das Wegekreuz am Diepeshof in einer Feierstunde durch Pastor Heinz Herpers, mit den Familien der Interessengemeinschaft und zahlreichen der Heimatgeschichte verbundenen Bürgern wieder eingeweiht und gesegnet.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5304843,51.2470501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>186. Seemann</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5384075,51.2383218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>187. Im alten Schiefbahn</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5373121,51.2414901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>185. Lukas</name>
+        <description>Die Figur zeigt Lukas den Lokomotivführer </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5276692,51.2406486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Ehemalige</name>
+      <Placemark>
+        <name>3. Kletterball /Spielplatz</name>
+        <description><![CDATA[Der Spielplatz befindet sich auf der Hochstraße im Kurt-Schumacher-Park. Der Park wurde früher, bis ca. 1944, als Friedhof benutz, bis der neue Friedhof an der Bruchstraße eröffnet wurde.<br>Auf einer Fläche von 385 m² verfügt er über eine Spielkombi, Seilkombi Ball, Korbschaukel, Schwingwippe, Zweifach-Federgerät Pferd, Federgerät Fähre, Federgerät Maus und mehrere Sitzbänke.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5315987,51.2439859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>63. Jesus am Holzkreuz</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5312922,51.2428833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>78. Gedenkstein Kurt-Schumacher-Park</name>
+        <description>Kurt Ernst Carl Schumacher war ein deutscher Politiker, von 1946 bis 1952 Parteivorsitzender der SPD sowie von 1949 bis 1952 Oppositionsführer im Deutschen Bundestag.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            6.5311714,51.2430423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
