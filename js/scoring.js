@@ -19,12 +19,16 @@ export function distanzMeter(lat1, lng1, lat2, lng2) {
 
 /**
  * Punkte für eine gegebene Distanz (vor Abzug der Tipp-Kosten).
- * Voll bei nah, exponentiell fallend, 0 ab maxDistanzMeter.
+ * - Bis vollTrefferMeter: volle Punktzahl.
+ * - Danach exponentiell fallend.
+ * - Ab maxDistanzMeter: 0 Punkte.
  */
 export function punkteFuerDistanz(meter) {
-  const { maxPunkteProBild, abklingMeter, maxDistanzMeter } = CONFIG.punkte;
+  const { maxPunkteProBild, vollTrefferMeter, abklingMeter, maxDistanzMeter } = CONFIG.punkte;
+  if (meter <= (vollTrefferMeter || 0)) return maxPunkteProBild;
   if (meter >= maxDistanzMeter) return 0;
-  const punkte = maxPunkteProBild * Math.exp(-meter / abklingMeter);
+  const ueber = meter - (vollTrefferMeter || 0); // Distanz jenseits des Volltreffer-Bereichs
+  const punkte = maxPunkteProBild * Math.exp(-ueber / abklingMeter);
   return Math.max(0, Math.round(punkte));
 }
 

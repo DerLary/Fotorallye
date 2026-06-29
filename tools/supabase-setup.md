@@ -60,3 +60,15 @@ highscore: {
 
 Fertig. Der `anon`-Key ist für den Einsatz im Browser gedacht und darf
 öffentlich sein (er kann nur das, was die Policies oben erlauben).
+
+## Optional: Tipps in der Bestenliste anzeigen
+Damit in der Bestenliste steht, wie viele/welche Tipps benutzt wurden, einmalig
+diese Spalte ergänzen (SQL Editor):
+
+```sql
+alter table public.highscores add column if not exists tipps text;
+```
+
+Ohne diese Spalte funktioniert alles trotzdem – die Tipp-Info wird dann nur
+nicht in der geteilten Liste gespeichert (die App speichert dann automatisch
+ohne dieses Feld).

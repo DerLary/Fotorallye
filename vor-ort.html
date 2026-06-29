@@ -22,7 +22,7 @@
 </head>
 <body>
   <header class="kopf">
-    <h1>🧭 Fotorallye Schiefbahn</h1>
+    <h1 id="kopf-titel" title="Zur Startseite">🧭 Fotorallye Schiefbahn</h1>
     <div id="kopf-status" class="kopf-status"></div>
   </header>
 
@@ -50,12 +50,14 @@
       <p id="set-info" class="hinweis"></p>
       <p>
         <button id="btn-verlauf-reset" class="sekundaer klein">🔄 Bildverlauf zurücksetzen</button>
+        <button id="btn-verlauf-hilfe" class="hilfe-knopf" title="Was bedeutet das?">?</button>
         <span id="verlauf-status" class="hinweis"></span>
       </p>
 
       <div class="knopf-reihe">
         <button id="btn-start" class="primaer">Spielen</button>
         <button id="btn-zeige-highscore" class="sekundaer">Bestenliste</button>
+        <button id="btn-regeln" class="sekundaer">📖 Regeln</button>
       </div>
       <p id="start-fehler" class="fehler"></p>
     </div>
@@ -117,6 +119,7 @@
         <div class="knopf-reihe">
           <button id="btn-nochmal" class="primaer">Nochmal spielen</button>
           <button id="btn-result-highscore" class="sekundaer">Bestenliste ansehen</button>
+          <button id="btn-result-start" class="sekundaer">Zur Startseite</button>
         </div>
       </div>
     </div>
@@ -137,6 +140,22 @@
       </div>
     </div>
   </section>
+
+  <!-- ===================== REGEL-BILDSCHIRM ===================== -->
+  <section id="screen-regeln" class="screen">
+    <div class="karte-box">
+      <h2>📖 Spielregeln</h2>
+      <div id="regeln-inhalt"></div>
+      <div class="knopf-reihe">
+        <button id="btn-regeln-zurueck" class="primaer">Zurück</button>
+      </div>
+    </div>
+  </section>
+
+  <footer class="fuss">
+    Idee, Fotos &amp; Tipps: <b>Jens Tissen</b><br />
+    Umsetzung: <b>Lars Tissen</b> in Partnerschaft mit Claude
+  </footer>
 
   <script type="module" src="js/live-main.js"></script>
 </body>

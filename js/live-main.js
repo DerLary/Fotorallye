@@ -45,8 +45,22 @@ async function init() {
   $("btn-weiter").addEventListener("click", weiter);
   $("btn-nochmal").addEventListener("click", zurueckZumStart);
   $("btn-result-highscore").addEventListener("click", () => zeigeHighscore("screen-result"));
+  $("btn-result-start").addEventListener("click", zurueckZumStart);
   $("btn-highscore-zurueck").addEventListener("click", () => ui.zeigeScreen(highscoreRuecksprung));
   $("btn-verlauf-reset").addEventListener("click", verlaufZuruecksetzen);
+  $("btn-verlauf-hilfe").addEventListener("click", () => {
+    $("verlauf-status").textContent =
+      "Dein Browser merkt sich, welche Bilder du schon gespielt hast, und zeigt dir " +
+      "in den nächsten Spielen bevorzugt neue – so bekommst du nicht ständig dieselben. " +
+      "Mit Zurücksetzen sind wieder alle Bilder möglich.";
+  });
+
+  // Regelseite
+  $("btn-regeln").addEventListener("click", zeigeRegeln);
+  $("btn-regeln-zurueck").addEventListener("click", () => ui.zeigeScreen("screen-start"));
+
+  // Klick auf den Seitentitel -> zurück zur Startseite
+  $("kopf-titel").addEventListener("click", zurueckZumStart);
 
   document.querySelectorAll(".bl-tab").forEach((b) =>
     b.addEventListener("click", () => zeigeHighscore(highscoreRuecksprung, b.dataset.modus))
@@ -62,6 +76,11 @@ function verlaufZuruecksetzen() {
   const set = aktuellesSet();
   setzeVerlaufZurueck(set ? set.id : undefined);
   $("verlauf-status").textContent = "Verlauf zurückgesetzt – alle Bilder wieder möglich. ✅";
+}
+
+function zeigeRegeln() {
+  ui.renderRegeln($("regeln-inhalt"));
+  ui.zeigeScreen("screen-regeln");
 }
 
 function aktualisiereSetInfo() {
@@ -142,6 +161,9 @@ function zeigeRunde() {
   const bild = spiel.aktuellesBild();
   rundeGesperrt = false;
 
+  // Bei jedem neuen Bild wieder nach oben scrollen (Foto zuerst sehen).
+  window.scrollTo({ top: 0, behavior: "auto" });
+
   $("runde-info").textContent = `Bild ${spiel.index + 1} / ${spiel.anzahlRunden}`;
   aktualisierePunkteAnzeige();
 
@@ -207,12 +229,15 @@ function ichBinDa() {
   $("aktion-laufen").hidden = true;
   $("tipp-liste").innerHTML = '<p class="hinweis">Standort festgelegt – Tipps gesperrt.</p>';
 
-  const tippZeile = r.tippKosten > 0 ? `<br>Tipp-Kosten: −${r.tippKosten} Pkt` : "";
+  const rechnung =
+    r.tippKosten > 0
+      ? `${basis} Punkte für die Nähe − ${r.tippKosten} für genutzte Tipps`
+      : "ohne Tipps gespielt";
   $("runde-feedback").hidden = false;
   $("runde-feedback").innerHTML =
     `<div class="fb-distanz">Du bist <b>${distanzText(dist)}</b> entfernt</div>` +
-    `<div class="fb-punkte">${ende} Punkte</div>` +
-    `<div class="hinweis">Basis ${basis} Pkt${tippZeile}</div>`;
+    `<div class="fb-punkte">${ende} Punkte für dieses Bild</div>` +
+    `<div class="fb-rechnung">${rechnung}</div>`;
 
   $("btn-weiter").hidden = false;
   $("btn-weiter").textContent = spiel.istLetzteRunde ? "Zur Auswertung" : "Weiter zum nächsten Bild";
@@ -232,12 +257,20 @@ function weiter() {
 async function werteAus() {
   geo.stoppe();
   const { rundenErgebnisse, gesamtPunkte } = spiel.auswerten();
+  const tipps = ui.tippZusammenfassung(rundenErgebnisse);
 
   ui.zeigeScreen("screen-result");
 
-  $("ergebnis-summe").innerHTML =
+  let summe =
     `${ui.escapeHtml(spiel.spielername)}: <span style="color:var(--akzent)">${gesamtPunkte}</span> ` +
     `von max. ${spiel.maxMoeglichePunkte()} Punkten`;
+  if (tipps.anzahl > 0) {
+    summe +=
+      `<div class="klein-grau" style="font-size:0.95rem;font-weight:600">` +
+      `Davon ${tipps.kosten} Punkte für ${tipps.anzahl} Tipp(s) ausgegeben: ${ui.escapeHtml(tipps.text)}` +
+      `</div>`;
+  }
+  $("ergebnis-summe").innerHTML = summe;
 
   ui.renderErgebnisListe($("ergebnis-liste"), rundenErgebnisse);
 
@@ -264,6 +297,7 @@ async function werteAus() {
       punkte: gesamtPunkte,
       set: spiel.set.name + " (Vor Ort)",
       datum: new Date().toISOString(),
+      tipps: tipps.text,
     });
     $("speichern-status").textContent = "Ergebnis in der Bestenliste gespeichert. ✅";
   } catch (e) {

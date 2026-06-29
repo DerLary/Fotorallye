@@ -121,11 +121,23 @@ async function supabaseLaden(filter = {}) {
 
 async function supabaseSpeichern(eintrag) {
   const { endpoint, headers } = supabaseBasis();
-  const antwort = await fetch(endpoint, {
-    method: "POST",
-    headers: { ...headers, Prefer: "return=minimal" },
-    body: JSON.stringify(eintrag),
-  });
+
+  const senden = (daten) =>
+    fetch(endpoint, {
+      method: "POST",
+      headers: { ...headers, Prefer: "return=minimal" },
+      body: JSON.stringify(daten),
+    });
+
+  let antwort = await senden(eintrag);
+
+  // Falls die optionale Spalte "tipps" in der Tabelle (noch) nicht existiert,
+  // ein zweites Mal ohne dieses Feld speichern, damit nichts verloren geht.
+  if (!antwort.ok && eintrag.tipps !== undefined) {
+    const { tipps, ...ohneTipps } = eintrag;
+    antwort = await senden(ohneTipps);
+  }
+
   if (!antwort.ok) {
     throw new Error(`Supabase-Speichern fehlgeschlagen (HTTP ${antwort.status}).`);
   }

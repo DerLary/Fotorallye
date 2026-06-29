@@ -32,7 +32,8 @@ export const CONFIG = {
   // ---------------------------------------------------------------------------
   punkte: {
     maxPunkteProBild: 1000,   // volle Punktzahl bei Volltreffer
-    abklingMeter: 150,        // je größer, desto langsamer fallen die Punkte
+    vollTrefferMeter: 15,     // bis zu dieser Distanz gibt es die VOLLE Punktzahl
+    abklingMeter: 150,        // je größer, desto langsamer fallen die Punkte danach
     maxDistanzMeter: 1500,    // ab hier gibt es 0 Punkte (egal wie die Formel rechnet)
   },
 
