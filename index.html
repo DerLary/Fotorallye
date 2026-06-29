@@ -46,6 +46,10 @@
       <label for="auswahl-set">Bild-Set</label>
       <select id="auswahl-set"></select>
       <p id="set-info" class="hinweis"></p>
+      <p>
+        <button id="btn-verlauf-reset" class="sekundaer klein">🔄 Bildverlauf zurücksetzen</button>
+        <span id="verlauf-status" class="hinweis"></span>
+      </p>
 
       <div class="knopf-reihe">
         <button id="btn-start" class="primaer">Spielen</button>
@@ -110,6 +114,10 @@
   <section id="screen-highscore" class="screen">
     <div class="karte-box">
       <h2>🏆 Bestenliste</h2>
+      <div class="bestenliste-tabs">
+        <button class="bl-tab" data-modus="zuhause">🏠 Von Zuhause</button>
+        <button class="bl-tab" data-modus="vorort">📍 Vor Ort</button>
+      </div>
       <p id="highscore-quelle" class="hinweis"></p>
       <div id="highscore-tabelle"></div>
       <div class="knopf-reihe">

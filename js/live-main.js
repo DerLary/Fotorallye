@@ -4,7 +4,7 @@
 // eigenen Ablauf (GPS statt Karten-Klick). Variante 1 (main.js) bleibt unberührt.
 // =============================================================================
 import { CONFIG } from "./config.js";
-import { ladeDaten, waehleSpielBilder } from "./data.js";
+import { ladeDaten, waehleSpielBilder, setzeVerlaufZurueck } from "./data.js";
 import { LiveKarte } from "./live-map.js";
 import { GeoTracker, geoFehlerText } from "./geo.js";
 import { Spiel } from "./game.js";
@@ -46,10 +46,22 @@ async function init() {
   $("btn-nochmal").addEventListener("click", zurueckZumStart);
   $("btn-result-highscore").addEventListener("click", () => zeigeHighscore("screen-result"));
   $("btn-highscore-zurueck").addEventListener("click", () => ui.zeigeScreen(highscoreRuecksprung));
+  $("btn-verlauf-reset").addEventListener("click", verlaufZuruecksetzen);
+
+  document.querySelectorAll(".bl-tab").forEach((b) =>
+    b.addEventListener("click", () => zeigeHighscore(highscoreRuecksprung, b.dataset.modus))
+  );
 
   $("eingabe-name").addEventListener("keydown", (e) => {
     if (e.key === "Enter") starteSpiel();
   });
+}
+
+// Setzt den Bildverlauf des aktuell gewählten Sets zurück.
+function verlaufZuruecksetzen() {
+  const set = aktuellesSet();
+  setzeVerlaufZurueck(set ? set.id : undefined);
+  $("verlauf-status").textContent = "Verlauf zurückgesetzt – alle Bilder wieder möglich. ✅";
 }
 
 function aktualisiereSetInfo() {
@@ -263,17 +275,28 @@ async function werteAus() {
 
 // --- Highscore ---------------------------------------------------------------
 let highscoreRuecksprung = "screen-start";
+let highscoreModus = "vorort"; // diese Seite zeigt standardmäßig "Vor Ort"
 
-async function zeigeHighscore(ruecksprungScreen) {
+async function zeigeHighscore(ruecksprungScreen, modus) {
   highscoreRuecksprung = ruecksprungScreen;
+  if (modus) highscoreModus = modus;
+
   ui.zeigeScreen("screen-highscore");
-  $("highscore-quelle").textContent =
+
+  document.querySelectorAll(".bl-tab").forEach((b) =>
+    b.classList.toggle("aktiv", b.dataset.modus === highscoreModus)
+  );
+
+  const quelle =
     CONFIG.highscore.backend === "supabase"
       ? "Geteilte Online-Bestenliste"
       : "Lokale Bestenliste (nur dieser Browser)";
+  const modusText = highscoreModus === "vorort" ? "📍 Live vor Ort" : "🏠 Von Zuhause";
+  $("highscore-quelle").textContent = `${quelle} · ${modusText}`;
+
   $("highscore-tabelle").innerHTML = '<p class="hinweis">Lädt …</p>';
   try {
-    const liste = await ladeHighscores();
+    const liste = await ladeHighscores({ modus: highscoreModus });
     ui.renderHighscore($("highscore-tabelle"), liste, spiel ? spiel.spielername : null);
   } catch (e) {
     console.error(e);

@@ -24,20 +24,46 @@ export async function speichereHighscore(eintrag) {
   return localSpeichern(eintrag);
 }
 
-export async function ladeHighscores() {
+/**
+ * Lädt die Bestenliste.
+ * @param {{modus?: "zuhause"|"vorort"|"alle"}} filter
+ *   "zuhause" = nur Karten-Variante, "vorort" = nur Live-Variante, sonst alle.
+ */
+export async function ladeHighscores(filter = {}) {
   if (CONFIG.highscore.backend === "supabase") {
-    return supabaseLaden();
+    return supabaseLaden(filter);
   }
-  return localLaden();
+  return localLaden(filter);
+}
+
+// --- Modus-Erkennung ----------------------------------------------------------
+// Die "Vor Ort"-Einträge werden am Zusatz im Set-Namen erkannt (siehe live-main.js).
+const VOR_ORT_MARKER = "(Vor Ort)";
+
+function istVorOrt(eintrag) {
+  return (eintrag.set || "").includes(VOR_ORT_MARKER);
+}
+
+function passtModus(eintrag, modus) {
+  if (modus === "vorort") return istVorOrt(eintrag);
+  if (modus === "zuhause") return !istVorOrt(eintrag);
+  return true; // "alle" oder kein Filter
+}
+
+// Entfernt den Modus-Zusatz aus dem Set-Namen für die Anzeige.
+function bereinige(eintrag) {
+  return { ...eintrag, set: (eintrag.set || "").replace(VOR_ORT_MARKER, "").trim() };
 }
 
 // --- Backend: localStorage ----------------------------------------------------
 
-function localLaden() {
+function localLaden(filter = {}) {
   try {
     const roh = localStorage.getItem(LS_KEY);
     const liste = roh ? JSON.parse(roh) : [];
-    return sortiereUndKuerze(liste);
+    return sortiereUndKuerze(liste)
+      .filter((e) => passtModus(e, filter.modus))
+      .map(bereinige);
   } catch (e) {
     console.warn("Highscores konnten nicht gelesen werden:", e);
     return [];
@@ -74,14 +100,23 @@ function supabaseBasis() {
   };
 }
 
-async function supabaseLaden() {
+async function supabaseLaden(filter = {}) {
   const { endpoint, headers } = supabaseBasis();
-  const url = `${endpoint}?select=*&order=punkte.desc&limit=${CONFIG.highscore.maxEintraege}`;
+  let url = `${endpoint}?select=*&order=punkte.desc&limit=${CONFIG.highscore.maxEintraege}`;
+
+  // Modus-Filter serverseitig: nach dem Marker im Set-Namen filtern.
+  if (filter.modus === "vorort") {
+    url += `&set=ilike.*${encodeURIComponent("Vor Ort")}*`;
+  } else if (filter.modus === "zuhause") {
+    url += `&set=not.ilike.*${encodeURIComponent("Vor Ort")}*`;
+  }
+
   const antwort = await fetch(url, { headers });
   if (!antwort.ok) {
     throw new Error(`Supabase-Laden fehlgeschlagen (HTTP ${antwort.status}).`);
   }
-  return antwort.json();
+  const daten = await antwort.json();
+  return daten.map(bereinige);
 }
 
 async function supabaseSpeichern(eintrag) {

@@ -81,6 +81,24 @@ function speichereVerlauf(verlauf) {
   }
 }
 
+/**
+ * Setzt den Verlauf der bereits gezeigten Bilder zurück.
+ * Mit setId nur für dieses Set, ohne Argument für alle Sets.
+ */
+export function setzeVerlaufZurueck(setId) {
+  if (setId) {
+    const verlauf = ladeVerlauf();
+    delete verlauf[setId];
+    speichereVerlauf(verlauf);
+  } else {
+    try {
+      localStorage.removeItem(VERLAUF_KEY);
+    } catch {
+      /* ignorieren */
+    }
+  }
+}
+
 function waehleOhneWiederholung(setId, alleIds, anzahl) {
   const verlauf = ladeVerlauf();
   let gespielt = new Set(verlauf[setId] || []);

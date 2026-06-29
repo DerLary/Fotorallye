@@ -2,7 +2,7 @@
 // main.js — Steuerung (Controller). Verbindet Daten, Karte, Spiel-Logik und UI.
 // =============================================================================
 import { CONFIG } from "./config.js";
-import { ladeDaten, waehleSpielBilder } from "./data.js";
+import { ladeDaten, waehleSpielBilder, setzeVerlaufZurueck } from "./data.js";
 import { SpielKarte } from "./map.js";
 import { Spiel } from "./game.js";
 import { distanzMeter, punkteFuerDistanz, distanzText } from "./scoring.js";
@@ -38,14 +38,25 @@ async function init() {
   $("btn-weiter").addEventListener("click", weiter);
   $("btn-nochmal").addEventListener("click", zurueckZumStart);
   $("btn-result-highscore").addEventListener("click", () => zeigeHighscore("screen-result"));
-  $("btn-highscore-zurueck").addEventListener("click", (e) => {
-    ui.zeigeScreen(highscoreRuecksprung);
-  });
+  $("btn-highscore-zurueck").addEventListener("click", () => ui.zeigeScreen(highscoreRuecksprung));
+  $("btn-verlauf-reset").addEventListener("click", verlaufZuruecksetzen);
+
+  // Tabs in der Bestenliste: zwischen den beiden Modi umschalten
+  document.querySelectorAll(".bl-tab").forEach((b) =>
+    b.addEventListener("click", () => zeigeHighscore(highscoreRuecksprung, b.dataset.modus))
+  );
 
   // Enter im Namensfeld startet das Spiel
   $("eingabe-name").addEventListener("keydown", (e) => {
     if (e.key === "Enter") starteSpiel();
   });
+}
+
+// Setzt den Bildverlauf des aktuell gewählten Sets zurück.
+function verlaufZuruecksetzen() {
+  const set = aktuellesSet();
+  setzeVerlaufZurueck(set ? set.id : undefined);
+  $("verlauf-status").textContent = "Verlauf zurückgesetzt – alle Bilder wieder möglich. ✅";
 }
 
 function aktualisiereSetInfo() {
@@ -268,17 +279,29 @@ async function werteAus() {
 
 // --- Highscore ---------------------------------------------------------------
 let highscoreRuecksprung = "screen-start";
+let highscoreModus = "zuhause"; // diese Seite zeigt standardmäßig "Von Zuhause"
 
-async function zeigeHighscore(ruecksprungScreen) {
+async function zeigeHighscore(ruecksprungScreen, modus) {
   highscoreRuecksprung = ruecksprungScreen;
+  if (modus) highscoreModus = modus;
+
   ui.zeigeScreen("screen-highscore");
-  $("highscore-quelle").textContent =
+
+  // aktiven Tab markieren
+  document.querySelectorAll(".bl-tab").forEach((b) =>
+    b.classList.toggle("aktiv", b.dataset.modus === highscoreModus)
+  );
+
+  const quelle =
     CONFIG.highscore.backend === "supabase"
       ? "Geteilte Online-Bestenliste"
       : "Lokale Bestenliste (nur dieser Browser)";
+  const modusText = highscoreModus === "vorort" ? "📍 Live vor Ort" : "🏠 Von Zuhause";
+  $("highscore-quelle").textContent = `${quelle} · ${modusText}`;
+
   $("highscore-tabelle").innerHTML = '<p class="hinweis">Lädt …</p>';
   try {
-    const liste = await ladeHighscores();
+    const liste = await ladeHighscores({ modus: highscoreModus });
     ui.renderHighscore($("highscore-tabelle"), liste, spiel ? spiel.spielername : null);
   } catch (e) {
     console.error(e);

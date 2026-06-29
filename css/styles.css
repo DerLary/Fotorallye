@@ -262,6 +262,21 @@ table.highscore .pkt { text-align: right; font-weight: 700; }
   box-shadow: 0 0 0 2px #2980b9;
 }
 
+/* Tabs zur Auswahl der Bestenliste (Von Zuhause / Vor Ort) */
+.bestenliste-tabs {
+  display: flex;
+  gap: 0.4rem;
+  margin: 0.5rem 0 0.8rem;
+}
+.bestenliste-tabs .bl-tab {
+  flex: 1;
+  background: #ecf0f1;
+  color: var(--text);
+  font-weight: 700;
+}
+.bestenliste-tabs .bl-tab.aktiv { background: var(--primaer); color: #fff; }
+.bestenliste-tabs .bl-tab:not(.aktiv):hover { background: #dfe6e9; }
+
 /* Sofort-Feedback nach "Ich bin da" */
 .feedback-box {
   background: #fff;
