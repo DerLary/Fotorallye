@@ -186,6 +186,10 @@ function ichBinDa() {
   const basis = punkteFuerDistanz(dist);
   const ende = Math.max(0, basis - r.tippKosten);
 
+  // Echten Ort + Verbindungslinie auf der Karte zeigen
+  karte.zeigeErgebnis(r.guessLat, r.guessLng, bild.lat, bild.lng, bild.title);
+  karte.passeAnsichtAn([[bild.lat, bild.lng], [r.guessLat, r.guessLng]]);
+
   // UI umschalten: Laufen-Knöpfe aus, Feedback + Weiter an
   $("aktion-laufen").hidden = true;
   $("tipp-liste").innerHTML = '<p class="hinweis">Standort festgelegt – Tipps gesperrt.</p>';

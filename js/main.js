@@ -5,6 +5,7 @@ import { CONFIG } from "./config.js";
 import { ladeDaten, waehleSpielBilder } from "./data.js";
 import { SpielKarte } from "./map.js";
 import { Spiel } from "./game.js";
+import { distanzMeter, punkteFuerDistanz, distanzText } from "./scoring.js";
 import { speichereHighscore, ladeHighscores } from "./storage.js";
 import * as ui from "./ui.js";
 
@@ -13,6 +14,7 @@ let daten = null;        // { images, sets, imagesById }
 let spiel = null;        // aktuelle Spiel-Instanz
 let spielKarte = null;   // Leaflet-Karte im Spiel-Bildschirm
 let ergebnisKarte = null;// Leaflet-Karte im Auswertungs-Bildschirm
+let rundeAusgewertet = false; // true, sobald die aktuelle Runde festgelegt+ausgewertet wurde
 
 // Kurzschreibweise
 const $ = (id) => document.getElementById(id);
@@ -99,6 +101,7 @@ function starteSpiel() {
 // --- Eine Runde anzeigen -----------------------------------------------------
 function zeigeRunde() {
   const bild = spiel.aktuellesBild();
+  rundeAusgewertet = false;
 
   $("runde-info").textContent = `Bild ${spiel.index + 1} / ${spiel.anzahlRunden}`;
   aktualisierePunkteAnzeige();
@@ -117,11 +120,11 @@ function zeigeRunde() {
   }
 
   zeichneTipps();
-  aktualisiereWeiterKnopf();
 
-  $("btn-weiter").textContent = spiel.istLetzteRunde
-    ? "Festlegen & auswerten"
-    : "Festlegen & weiter";
+  // Feedback ausblenden, Knopf in den "Festlegen"-Zustand
+  $("runde-feedback").hidden = true;
+  $("btn-weiter").textContent = "Festlegen";
+  aktualisiereWeiterKnopf();
 }
 
 function zeichneTipps() {
@@ -135,6 +138,7 @@ function aktualisierePunkteAnzeige() {
 }
 
 function aktualisiereWeiterKnopf() {
+  if (rundeAusgewertet) return; // im ausgewerteten Zustand bleibt der Knopf aktiv
   $("btn-weiter").disabled = !spiel.hatGuess();
   $("guess-status").textContent = spiel.hatGuess()
     ? "Tipp gesetzt – du kannst den Marker noch verschieben oder neu klicken."
@@ -143,18 +147,21 @@ function aktualisiereWeiterKnopf() {
 
 // --- Karten-Interaktion ------------------------------------------------------
 function aufKartenKlick(lat, lng) {
+  if (rundeAusgewertet) return; // nach dem Festlegen nicht mehr verändern
   spiel.setzeGuess(lat, lng);
   spielKarte.setzeGuess(lat, lng, aufMarkerVerschoben);
   aktualisiereWeiterKnopf();
 }
 
 function aufMarkerVerschoben(lat, lng) {
+  if (rundeAusgewertet) return;
   spiel.setzeGuess(lat, lng);
   aktualisiereWeiterKnopf();
 }
 
 // --- Tipp kaufen -------------------------------------------------------------
 function kaufeTipp(tippId) {
+  if (rundeAusgewertet) return;
   const tipp = spiel.kaufeTipp(tippId);
   if (!tipp) return;
 
@@ -165,16 +172,53 @@ function kaufeTipp(tippId) {
   aktualisierePunkteAnzeige();
 }
 
-// --- Weiter / Auswerten ------------------------------------------------------
+// --- Festlegen / Weiter / Auswerten ------------------------------------------
 function weiter() {
-  if (!spiel.hatGuess()) return;
-
-  if (spiel.istLetzteRunde) {
-    werteAus();
+  if (!rundeAusgewertet) {
+    // 1. Klick: aktuelle Runde festlegen und sofort auswerten
+    if (!spiel.hatGuess()) return;
+    werteRundeAus();
   } else {
-    spiel.naechstesBild();
-    zeigeRunde();
+    // 2. Klick: zum nächsten Bild oder zur Endauswertung
+    if (spiel.istLetzteRunde) {
+      werteAus();
+    } else {
+      spiel.naechstesBild();
+      zeigeRunde();
+    }
   }
+}
+
+// Wertet die aktuelle Runde sofort aus: zeigt Distanz, Punkte und die echte
+// Position auf der Karte.
+function werteRundeAus() {
+  rundeAusgewertet = true;
+
+  const bild = spiel.aktuellesBild();
+  const r = spiel.aktuelleRunde();
+  const dist = distanzMeter(r.guessLat, r.guessLng, bild.lat, bild.lng);
+  const basis = punkteFuerDistanz(dist);
+  const ende = Math.max(0, basis - r.tippKosten);
+
+  // Echte Position + Verbindungslinie auf der Spielkarte zeigen
+  spielKarte.zeigeErgebnis(r.guessLat, r.guessLng, bild.lat, bild.lng, bild.title);
+  spielKarte.passeAnsichtAn([[bild.lat, bild.lng], [r.guessLat, r.guessLng]]);
+
+  // Karte/Tipps sperren
+  $("tipp-liste").innerHTML = '<p class="hinweis">Festgelegt – Tipps gesperrt.</p>';
+  $("guess-status").textContent = "Festgelegt. Hier war der gesuchte Ort:";
+
+  const tippZeile = r.tippKosten > 0 ? `<br>Tipp-Kosten: −${r.tippKosten} Pkt` : "";
+  $("runde-feedback").hidden = false;
+  $("runde-feedback").innerHTML =
+    `<div class="fb-distanz">Entfernung: <b>${distanzText(dist)}</b></div>` +
+    `<div class="fb-punkte">${ende} Punkte</div>` +
+    `<div class="hinweis">Basis ${basis} Pkt${tippZeile}</div>`;
+
+  $("btn-weiter").disabled = false;
+  $("btn-weiter").textContent = spiel.istLetzteRunde
+    ? "Zur Endauswertung"
+    : "Weiter zum nächsten Bild";
 }
 
 async function werteAus() {

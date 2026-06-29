@@ -13,10 +13,15 @@ export const CONFIG = {
     zentrumLng: 6.5360,
     startZoom: 16,
     minZoom: 14,
-    maxZoom: 19,
+    maxZoom: 20,
     // Kachel-Server (kostenlos, kein API-Key nötig).
-    tileUrl: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-    tileAttribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>-Mitwirkende',
+    // CARTO "Positron": sehr aufgeräumt – Straßennamen und Park-/Grünflächen,
+    // aber kaum Points-of-Interest (keine Läden, Feuerwehr usw.).
+    tileUrl: "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+    tileAttribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>-Mitwirkende, &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    // Alternative (mehr Details, mehr POIs): die klassische OSM-Karte –
+    // tileUrl: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
   },
 
   // ---------------------------------------------------------------------------
