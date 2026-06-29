@@ -52,11 +52,13 @@ export const CONFIG = {
   //   "supabase" = geteilte Online-Bestenliste — Zugangsdaten unten eintragen.
   // ---------------------------------------------------------------------------
   highscore: {
-    backend: "local",        // "local" oder "supabase"
+    backend: "supabase",     // "local" oder "supabase"
     maxEintraege: 100,        // so viele Einträge in der Liste behalten/anzeigen
     supabase: {
-      url: "",               // z.B. "https://xxxx.supabase.co"
-      anonKey: "",           // der öffentliche "anon"-Key aus den Supabase-Einstellungen
+      // Project URL = https://<Project-ID>.supabase.co
+      url: "https://fqjxomaaeqwzkttscyuf.supabase.co",
+      anonKey:
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZxanhvbWFhZXF3emt0dHNjeXVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI3NTA3NTIsImV4cCI6MjA5ODMyNjc1Mn0.XE1SoU9ewWc7YfowkNktCHDdl0WNAzdrrGFBmhzp2NY",
       tabelle: "highscores", // Name der Tabelle in Supabase
     },
   },
