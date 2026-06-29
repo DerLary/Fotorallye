@@ -84,6 +84,7 @@ function starteSpiel() {
   const bilder = waehleSpielBilder(set, daten.imagesById, {
     mischen: CONFIG.spiel.bilderMischen,
     standardAnzahl: CONFIG.spiel.standardBilderProSpiel,
+    ohneWiederholung: CONFIG.spiel.wiederholungenVermeiden,
   });
   if (!bilder.length) {
     $("start-fehler").textContent = "Dieses Set enthält keine spielbaren Bilder.";

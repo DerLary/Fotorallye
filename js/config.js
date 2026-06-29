@@ -44,6 +44,9 @@ export const CONFIG = {
     standardBilderProSpiel: 4,
     // Bilder pro Spiel zufällig aus dem Set mischen?
     bilderMischen: true,
+    // Über mehrere Spiele möglichst keine Bilder wiederholen, bis (fast) alle
+    // einmal gezeigt wurden. Merkt sich den Verlauf pro Set im Browser.
+    wiederholungenVermeiden: true,
   },
 
   // ---------------------------------------------------------------------------
