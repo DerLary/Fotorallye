@@ -225,3 +225,55 @@ table.highscore .pkt { text-align: right; font-weight: 700; }
   .spiel-flaeche { flex-direction: column; }
   #map { height: 50vh; }
 }
+
+/* =============================================================================
+   Zusätze für die "Live vor Ort"-Variante (vor-ort.html).
+   Reine Ergänzungen – betreffen Variante 1 nicht.
+   ============================================================================= */
+
+/* Modus-Regler (Umschalter zwischen den Varianten) */
+.modus-schalter {
+  display: flex;
+  gap: 0.4rem;
+  background: #ecf0f1;
+  border-radius: 10px;
+  padding: 0.3rem;
+  margin-bottom: 1.2rem;
+}
+.modus-schalter .modus {
+  flex: 1;
+  text-align: center;
+  padding: 0.55rem 0.5rem;
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--text);
+  font-weight: 700;
+}
+.modus-schalter .modus.aktiv { background: var(--primaer); color: #fff; }
+.modus-schalter .modus:not(.aktiv):hover { background: #dfe6e9; }
+
+/* Live-GPS-Punkt auf der Karte */
+.live-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #2980b9;
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 2px #2980b9;
+}
+
+/* Sofort-Feedback nach "Ich bin da" */
+.feedback-box {
+  background: #fff;
+  border: 2px solid var(--primaer);
+  border-radius: 10px;
+  padding: 0.9rem;
+  text-align: center;
+}
+.feedback-box .fb-distanz { font-size: 1.1rem; }
+.feedback-box .fb-punkte {
+  font-size: 1.8rem;
+  font-weight: 800;
+  color: var(--primaer-dunkel);
+  margin: 0.2rem 0;
+}

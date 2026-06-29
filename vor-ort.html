@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Fotorallye Schiefbahn</title>
+  <title>Fotorallye Schiefbahn – Live vor Ort</title>
 
   <!-- Leaflet (Karte) per CDN -->
   <link
@@ -31,14 +31,16 @@
     <div class="karte-box">
       <!-- Modus-Regler: zwischen den beiden Varianten wechseln -->
       <div class="modus-schalter">
-        <a class="modus aktiv" href="index.html">🏠 Von Zuhause</a>
-        <a class="modus" href="vor-ort.html">📍 Live vor Ort</a>
+        <a class="modus" href="index.html">🏠 Von Zuhause</a>
+        <a class="modus aktiv" href="vor-ort.html">📍 Live vor Ort</a>
       </div>
 
-      <h2>Willkommen!</h2>
-      <p>Erkenne auf den Fotos, wo in Schiefbahn sie aufgenommen wurden, und
-         markiere den Ort auf der Karte. Je näher dein Tipp, desto mehr Punkte.
-         Tipps kosten Punkte – nutze sie clever!</p>
+      <h2>Live vor Ort 📍</h2>
+      <p>Bei dieser Variante <b>läufst du selbst</b> zum vermuteten Ort! Die Karte
+         zeigt live deine Position. Wenn du glaubst, am richtigen Ort zu sein,
+         drückst du <b>„Ich bin da"</b> – dann wird gemessen, wie nah du dran bist.</p>
+      <p class="hinweis">Funktioniert am besten draußen auf dem Handy. Der Browser
+         fragt einmalig nach der Erlaubnis für deinen Standort – bitte „Erlauben".</p>
 
       <label for="eingabe-name">Dein Spielername</label>
       <input id="eingabe-name" type="text" maxlength="24" placeholder="z.B. Wölfe-Team" />
@@ -79,8 +81,19 @@
 
       <div class="karte-spalte">
         <div id="map"></div>
-        <p id="guess-status" class="hinweis">Klicke auf die Karte, um deinen Tipp zu setzen. Du kannst den Marker noch verschieben.</p>
-        <button id="btn-weiter" class="primaer" disabled>Festlegen &amp; weiter</button>
+        <p id="gps-status" class="hinweis">Warte auf GPS-Signal …</p>
+
+        <!-- Vor dem Festlegen sichtbar -->
+        <div id="aktion-laufen">
+          <div class="knopf-reihe">
+            <button id="btn-zentrieren" class="sekundaer">📍 Auf mich zentrieren</button>
+            <button id="btn-ich-bin-da" class="primaer" disabled>Ich bin da!</button>
+          </div>
+        </div>
+
+        <!-- Nach dem Festlegen sichtbar: Sofort-Feedback + Weiter -->
+        <div id="runde-feedback" class="feedback-box" hidden></div>
+        <button id="btn-weiter" class="primaer" hidden>Weiter</button>
       </div>
     </div>
   </section>
@@ -117,6 +130,6 @@
     </div>
   </section>
 
-  <script type="module" src="js/main.js"></script>
+  <script type="module" src="js/live-main.js"></script>
 </body>
 </html>
