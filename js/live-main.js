@@ -75,7 +75,7 @@ function starteSpiel() {
   }
   if (!geo.unterstuetzt) {
     $("start-fehler").textContent =
-      "Dein Browser unterstützt keine Standortbestimmung. Nutze die Variante „Von Zuhause".";
+      "Dein Browser unterstützt keine Standortbestimmung. Nutze die Variante „Von Zuhause“.";
     return;
   }
   $("start-fehler").textContent = "";
