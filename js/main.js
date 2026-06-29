@@ -336,7 +336,10 @@ async function zeigeHighscore(ruecksprungScreen, modus) {
   $("highscore-tabelle").innerHTML = '<p class="hinweis">Lädt …</p>';
   try {
     const liste = await ladeHighscores({ modus: highscoreModus });
-    ui.renderHighscore($("highscore-tabelle"), liste, spiel ? spiel.spielername : null);
+    ui.renderHighscoreInteraktiv($("highscore-tabelle"), liste, {
+      hervorhebenName: spiel ? spiel.spielername : null,
+      vorausgewaehltesSet: spiel ? spiel.set.name : null,
+    });
   } catch (e) {
     console.error(e);
     $("highscore-tabelle").innerHTML =

@@ -143,32 +143,134 @@ export function tippZusammenfassung(rundenErgebnisse) {
   return { anzahl, kosten, text };
 }
 
-/** Rendert die Highscore-Tabelle. */
-export function renderHighscore(containerEl, liste, hervorhebenName) {
+// Wie viele Tipps stecken im Tipp-Text? (für die Sortierung nach Tipps)
+function tippAnzahl(text) {
+  if (!text || text === "keine" || text === "—") return 0;
+  let summe = 0;
+  const re = /(\d+)\s*×/g;
+  let m;
+  while ((m = re.exec(text))) summe += parseInt(m[1], 10);
+  return summe;
+}
+
+function vergleiche(a, b, spalte) {
+  switch (spalte) {
+    case "name":
+      return (a.name || "").localeCompare(b.name || "", "de");
+    case "datum":
+      return new Date(a.datum || 0) - new Date(b.datum || 0);
+    case "tipps":
+      return tippAnzahl(a.tipps) - tippAnzahl(b.tipps);
+    case "punkte":
+    default:
+      return (a.punkte || 0) - (b.punkte || 0);
+  }
+}
+
+const SPALTEN = [
+  { key: "rang", label: "#", sortierbar: false },
+  { key: "name", label: "Name" },
+  { key: "datum", label: "Datum" },
+  { key: "tipps", label: "Tipps" },
+  { key: "punkte", label: "Punkte", klasse: "pkt" },
+];
+
+/**
+ * Interaktive Bestenliste: sortierbar per Klick auf die Spaltenüberschriften
+ * und mit Set-Filter (Dropdown). Verwaltet ihren Sortier-/Filterzustand selbst.
+ *
+ * @param {object} opts { hervorhebenName, vorausgewaehltesSet }
+ */
+export function renderHighscoreInteraktiv(containerEl, liste, opts = {}) {
+  const { hervorhebenName = null, vorausgewaehltesSet = null } = opts;
+
   if (!liste.length) {
     containerEl.innerHTML = '<p class="hinweis">Noch keine Einträge. Sei die/der Erste!</p>';
     return;
   }
-  const zeilen = liste
-    .map((e, i) => {
-      const hl = hervorhebenName && e.name === hervorhebenName ? ' style="font-weight:800;background:#eafaf1"' : "";
-      const datum = e.datum ? new Date(e.datum).toLocaleDateString("de-DE") : "";
-      const tipps = e.tipps && e.tipps !== "keine" ? escapeHtml(e.tipps) : "—";
-      return (
-        `<tr${hl}>` +
-        `<td class="platz">${i + 1}</td>` +
-        `<td>${escapeHtml(e.name)}</td>` +
-        `<td class="klein-grau">${datum}</td>` +
-        `<td class="klein-grau">${tipps}</td>` +
-        `<td class="pkt">${e.punkte}</td>` +
-        `</tr>`
-      );
-    })
-    .join("");
-  containerEl.innerHTML =
-    '<table class="highscore"><thead><tr>' +
-    "<th>#</th><th>Name</th><th>Datum</th><th>Tipps</th><th class=\"pkt\">Punkte</th>" +
-    `</tr></thead><tbody>${zeilen}</tbody></table>`;
+
+  const sets = [...new Set(liste.map((e) => e.set).filter(Boolean))].sort((a, b) =>
+    a.localeCompare(b, "de")
+  );
+
+  // Zustand
+  let sortSpalte = "punkte";
+  let sortRichtung = "desc";
+  let setFilter =
+    vorausgewaehltesSet && sets.includes(vorausgewaehltesSet) ? vorausgewaehltesSet : "__alle__";
+
+  function rerender() {
+    let zeilen = setFilter === "__alle__" ? liste : liste.filter((e) => e.set === setFilter);
+    zeilen = [...zeilen].sort((a, b) => vergleiche(a, b, sortSpalte));
+    if (sortRichtung === "desc") zeilen.reverse();
+
+    const pfeil = (key) =>
+      key === sortSpalte ? (sortRichtung === "desc" ? " ▼" : " ▲") : "";
+
+    const kopf = SPALTEN.map((s) => {
+      const sortierbar = s.sortierbar !== false;
+      const klassen = [];
+      if (s.klasse) klassen.push(s.klasse);
+      if (sortierbar) klassen.push("sortierbar");
+      const attrKlasse = klassen.length ? ` class="${klassen.join(" ")}"` : "";
+      const attrData = sortierbar ? ` data-spalte="${s.key}"` : "";
+      const label = s.label + (sortierbar ? pfeil(s.key) : "");
+      return `<th${attrKlasse}${attrData}>${label}</th>`;
+    }).join("");
+
+    const koerper = zeilen
+      .map((e, i) => {
+        const hl =
+          hervorhebenName && e.name === hervorhebenName
+            ? ' style="font-weight:800;background:#eafaf1"'
+            : "";
+        const datum = e.datum ? new Date(e.datum).toLocaleDateString("de-DE") : "";
+        const tipps = e.tipps && e.tipps !== "keine" ? escapeHtml(e.tipps) : "—";
+        return (
+          `<tr${hl}>` +
+          `<td class="platz">${i + 1}</td>` +
+          `<td>${escapeHtml(e.name)}</td>` +
+          `<td class="klein-grau">${datum}</td>` +
+          `<td class="klein-grau">${tipps}</td>` +
+          `<td class="pkt">${e.punkte}</td>` +
+          `</tr>`
+        );
+      })
+      .join("");
+
+    const optionen =
+      `<option value="__alle__">Alle Sets</option>` +
+      sets
+        .map(
+          (s) =>
+            `<option value="${escapeHtml(s)}"${s === setFilter ? " selected" : ""}>${escapeHtml(s)}</option>`
+        )
+        .join("");
+
+    containerEl.innerHTML =
+      `<div class="hs-filter"><label>Set: <select class="hs-set-filter">${optionen}</select></label></div>` +
+      `<table class="highscore"><thead><tr>${kopf}</tr></thead><tbody>${koerper}</tbody></table>`;
+
+    // Listener wieder anhängen (innerHTML wurde ersetzt)
+    containerEl.querySelector(".hs-set-filter").addEventListener("change", (ev) => {
+      setFilter = ev.target.value;
+      rerender();
+    });
+    containerEl.querySelectorAll("th.sortierbar").forEach((th) => {
+      th.addEventListener("click", () => {
+        const spalte = th.dataset.spalte;
+        if (spalte === sortSpalte) {
+          sortRichtung = sortRichtung === "desc" ? "asc" : "desc";
+        } else {
+          sortSpalte = spalte;
+          sortRichtung = spalte === "name" ? "asc" : "desc"; // Namen aufsteigend, Rest absteigend
+        }
+        rerender();
+      });
+    });
+  }
+
+  rerender();
 }
 
 /**
